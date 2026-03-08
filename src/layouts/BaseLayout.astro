@@ -25,6 +25,7 @@ const footerLinks = [
   { label: "Politique de Confidentialité", href: "/politique-confidentialite/" },
   { label: "À Propos", href: "/a-propos/" },
 ];
+import QuizModal from "../components/QuizModal.astro";
 ---
 
 <!doctype html>
@@ -172,6 +173,8 @@ const footerLinks = [
         </div>
       </div>
     </footer>
+
+    <QuizModal />
 
     <script>
       const btn = document.getElementById('mobile-menu-btn');

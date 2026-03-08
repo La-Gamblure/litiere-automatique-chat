@@ -1,0 +1,80 @@
+---
+import { getAllProducts } from "../utils/products";
+
+const products = getAllProducts();
+
+const quizProductsData = products.map((p) => ({
+  slug: p.slug,
+  title: p.title,
+  brand: p.brand,
+  price_min: p.price_min,
+  price_max: p.price_max,
+  rating: p.rating,
+  rating_count: p.rating_count,
+  merchants: p.merchants.map((m) => ({
+    merchant_name: m.merchant_name,
+    is_primary: m.is_primary,
+  })),
+  specs: p.specs,
+  quiz_attributes: p.quiz_attributes,
+}));
+---
+
+<dialog id="quiz-modal" class="max-w-2xl w-full mx-auto rounded-xl border border-slate-200 shadow-xl p-0 backdrop:bg-slate-900/50">
+  <div class="flex items-center justify-between px-6 py-4 border-b border-slate-200">
+    <h2 class="font-bold text-slate-900">Trouvez votre litière idéale</h2>
+    <button id="quiz-modal-close" class="text-slate-400 hover:text-slate-600 transition-colors p-1" aria-label="Fermer">
+      <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+      </svg>
+    </button>
+  </div>
+  <div id="quiz-modal-container" class="p-6 sm:p-8 max-h-[70vh] overflow-y-auto">
+  </div>
+</dialog>
+
+<script define:vars={{ quizProductsData }}>
+  window.__QUIZ_MODAL_PRODUCTS__ = quizProductsData;
+</script>
+
+<script type="module">
+  import { initQuiz } from "/src/scripts/quiz-renderer.js";
+
+  const dialog = document.getElementById("quiz-modal");
+  const container = document.getElementById("quiz-modal-container");
+  const closeBtn = document.getElementById("quiz-modal-close");
+
+  let initialized = false;
+
+  // Open modal from any trigger with data-quiz-trigger
+  document.addEventListener("click", (e) => {
+    const trigger = e.target.closest("[data-quiz-trigger]");
+    if (trigger && dialog && container) {
+      if (!initialized && window.__QUIZ_MODAL_PRODUCTS__) {
+        initQuiz(container, window.__QUIZ_MODAL_PRODUCTS__);
+        initialized = true;
+      }
+      dialog.showModal();
+    }
+  });
+
+  // Close
+  if (closeBtn && dialog) {
+    closeBtn.addEventListener("click", () => dialog.close());
+  }
+
+  // Close on backdrop click
+  if (dialog) {
+    dialog.addEventListener("click", (e) => {
+      if (e.target === dialog) dialog.close();
+    });
+  }
+</script>
+
+<style>
+  .quiz-blurred {
+    filter: blur(4px);
+    user-select: none;
+    pointer-events: none;
+  }
+</style>

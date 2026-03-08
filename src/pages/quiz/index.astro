@@ -1,0 +1,71 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import { getAllProducts } from "../../utils/products";
+
+const products = getAllProducts();
+
+const title = "Quiz : Quelle Litière Automatique pour Votre Chat ?";
+const description = "Répondez à 7 questions et trouvez la litière automatique idéale pour votre chat. Recommandation personnalisée en 2 minutes.";
+
+const breadcrumbs = [
+  { label: "Accueil", href: "/" },
+  { label: "Quiz", href: "/quiz/" },
+];
+
+const quizProductsData = products.map((p) => ({
+  slug: p.slug,
+  title: p.title,
+  brand: p.brand,
+  price_min: p.price_min,
+  price_max: p.price_max,
+  rating: p.rating,
+  rating_count: p.rating_count,
+  merchants: p.merchants.map((m) => ({
+    merchant_name: m.merchant_name,
+    is_primary: m.is_primary,
+  })),
+  specs: p.specs,
+  quiz_attributes: p.quiz_attributes,
+}));
+---
+
+<BaseLayout title={title} description={description}>
+  <section class="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-12">
+    <Breadcrumbs items={breadcrumbs} />
+
+    <div class="text-center mb-8">
+      <h1 class="text-3xl sm:text-4xl font-bold text-slate-900 mb-3">
+        Trouvez votre litière automatique idéale
+      </h1>
+      <p class="text-slate-600">
+        7 questions, 2 minutes. Recommandation personnalisée basée sur votre profil.
+      </p>
+    </div>
+
+    <div id="quiz-container" class="bg-white border border-slate-200 rounded-xl p-6 sm:p-8">
+      <noscript>
+        <p class="text-slate-600">JavaScript est nécessaire pour utiliser le quiz. <a href="/litieres-automatiques/meilleure-litiere-automatique/" class="text-emerald-600 underline">Voir notre comparatif</a>.</p>
+      </noscript>
+    </div>
+  </section>
+
+  <script define:vars={{ quizProductsData }}>
+    window.__QUIZ_PRODUCTS__ = quizProductsData;
+  </script>
+  <script type="module">
+    import { initQuiz } from "/src/scripts/quiz-renderer.js";
+    const container = document.getElementById("quiz-container");
+    if (container && window.__QUIZ_PRODUCTS__) {
+      initQuiz(container, window.__QUIZ_PRODUCTS__);
+    }
+  </script>
+
+  <style>
+    .quiz-blurred {
+      filter: blur(4px);
+      user-select: none;
+      pointer-events: none;
+    }
+  </style>
+</BaseLayout>
