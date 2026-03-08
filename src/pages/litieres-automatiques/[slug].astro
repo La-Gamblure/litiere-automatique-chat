@@ -6,6 +6,7 @@ import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import AffiliateDisclosure from "../../components/AffiliateDisclosure.astro";
 import { readFileSync, existsSync, readdirSync } from "node:fs";
 import { join } from "node:path";
+import { getProductBySlug } from "../../utils/products";
 
 export function getStaticPaths() {
   const categoriesDir = "src/data/categories";
@@ -60,7 +61,12 @@ const relatedCats = (category.related_categories || [])
   .map((slug: string) => allCategories.find((c) => c.slug === slug))
   .filter(Boolean) as Category[];
 
-const sortedProducts = [...category.products].sort((a, b) => a.position - b.position);
+const sortedProducts = [...category.products]
+  .sort((a, b) => a.position - b.position)
+  .map((p) => {
+    const master = getProductBySlug(p.slug);
+    return { ...p, image_url: p.image_url || master?.image_url || null };
+  });
 
 // Load review data for each product (for detail section)
 const productReviews: Record<string, any> = {};
