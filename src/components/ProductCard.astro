@@ -1,4 +1,6 @@
 ---
+import { existsSync } from "node:fs";
+
 interface Merchant {
   merchant_name: string;
   affiliate_url: string;
@@ -23,6 +25,7 @@ interface Props {
 }
 
 const { product } = Astro.props;
+const hasReview = existsSync(`src/data/reviews/${product.slug}.json`);
 
 const primaryMerchant = product.merchants.find((m) => m.is_primary) || product.merchants[0];
 const merchantSlug = primaryMerchant.merchant_name.toLowerCase().replace(/[\s.]+/g, "-").replace(/-+/g, "-");
@@ -82,6 +85,15 @@ const priceRange =
     >
       Voir le prix &rarr;
     </a>
+
+    {hasReview && (
+      <a
+        href={`/avis/${product.slug}/`}
+        class="block text-center text-xs text-emerald-600 hover:text-emerald-700 font-medium mt-2 transition-colors"
+      >
+        Lire notre avis &rarr;
+      </a>
+    )}
 
     {product.merchants.length > 1 && (
       <p class="text-xs text-slate-400 mt-2 text-center">

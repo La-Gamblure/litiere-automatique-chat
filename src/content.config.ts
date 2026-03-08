@@ -2,6 +2,13 @@ import { defineCollection } from "astro:content";
 import { glob } from "astro/loaders";
 import { z } from "astro/zod";
 
+const reviews = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./src/content/reviews" }),
+  schema: z.object({
+    product_slug: z.string(),
+  }),
+});
+
 const guides = defineCollection({
   loader: glob({ pattern: "**/*.md", base: "./src/content/guides" }),
   schema: z.object({
@@ -26,4 +33,4 @@ const guides = defineCollection({
   }),
 });
 
-export const collections = { guides };
+export const collections = { guides, reviews };

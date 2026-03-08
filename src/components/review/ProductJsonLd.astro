@@ -1,0 +1,70 @@
+---
+import { SITE } from "../../config";
+import type { Product } from "../../utils/products";
+
+interface Props {
+  product: Product;
+  verdict: {
+    score: number;
+    summary: string;
+  };
+  meta: {
+    date: string;
+    updated: string;
+  };
+}
+
+const { product, verdict, meta } = Astro.props;
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  name: product.title,
+  brand: {
+    "@type": "Brand",
+    name: product.brand,
+  },
+  description: product.description,
+  review: {
+    "@type": "Review",
+    reviewRating: {
+      "@type": "Rating",
+      ratingValue: verdict.score,
+      bestRating: 10,
+    },
+    author: {
+      "@type": "Organization",
+      name: SITE.name,
+    },
+    datePublished: meta.date,
+    dateModified: meta.updated,
+    reviewBody: verdict.summary,
+  },
+  aggregateRating: {
+    "@type": "AggregateRating",
+    ratingValue: product.rating,
+    reviewCount: product.rating_count,
+    bestRating: 5,
+  },
+  offers: {
+    "@type": "AggregateOffer",
+    lowPrice: product.price_min,
+    highPrice: product.price_max,
+    priceCurrency: "EUR",
+    offerCount: product.merchants.length,
+    offers: product.merchants.map((m) => ({
+      "@type": "Offer",
+      seller: {
+        "@type": "Organization",
+        name: m.merchant_name,
+      },
+      price: product.price_min,
+      priceCurrency: "EUR",
+      url: m.affiliate_url,
+      availability: "https://schema.org/InStock",
+    })),
+  },
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />

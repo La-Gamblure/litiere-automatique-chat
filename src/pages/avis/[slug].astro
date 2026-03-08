@@ -1,0 +1,109 @@
+---
+import { getCollection, render } from "astro:content";
+import { readFileSync } from "node:fs";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import AffiliateDisclosure from "../../components/AffiliateDisclosure.astro";
+import FAQ from "../../components/FAQ.astro";
+import VerdictBox from "../../components/review/VerdictBox.astro";
+import CriteriaRatings from "../../components/review/CriteriaRatings.astro";
+import ProsCons from "../../components/review/ProsCons.astro";
+import InlineCTA from "../../components/review/InlineCTA.astro";
+import PriceComparisonTable from "../../components/review/PriceComparisonTable.astro";
+import RecommendationBox from "../../components/review/RecommendationBox.astro";
+import RelatedProducts from "../../components/review/RelatedProducts.astro";
+import StickyMobileCTA from "../../components/review/StickyMobileCTA.astro";
+import ProductJsonLd from "../../components/review/ProductJsonLd.astro";
+import { getProductBySlug, type Product } from "../../utils/products";
+
+export async function getStaticPaths() {
+  const reviews = await getCollection("reviews");
+  return reviews.map((review) => ({
+    params: { slug: review.id },
+    props: { review },
+  }));
+}
+
+const { review } = Astro.props;
+const { slug } = Astro.params;
+
+const product = getProductBySlug(slug!) as Product;
+const reviewData = JSON.parse(
+  readFileSync(`src/data/reviews/${slug}.json`, "utf-8")
+);
+
+const { Content, headings } = await render(review);
+
+const breadcrumbs = [
+  { label: "Accueil", href: "/" },
+  { label: "Litières Auto", href: "/litieres-automatiques/" },
+  { label: `Avis ${product.title}`, href: `/avis/${slug}/` },
+];
+---
+
+<BaseLayout
+  title={reviewData.meta.title}
+  description={reviewData.meta.description}
+  ogType="article"
+>
+  <Fragment slot="head">
+    <ProductJsonLd product={product} verdict={reviewData.verdict} meta={reviewData.meta} />
+  </Fragment>
+
+  <article class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-12">
+    <Breadcrumbs items={breadcrumbs} />
+
+    <h1 class="text-3xl sm:text-4xl font-bold text-slate-900 mt-4 mb-2">
+      {reviewData.meta.title}
+    </h1>
+
+    <div class="flex items-center gap-3 text-sm text-slate-500 mb-6">
+      <time datetime={reviewData.meta.date}>
+        Mis à jour le {new Date(reviewData.meta.updated).toLocaleDateString("fr-FR", {
+          year: "numeric",
+          month: "long",
+          day: "numeric",
+        })}
+      </time>
+      {product.rating && (
+        <span class="flex items-center gap-1">
+          <span class="text-orange-400">{"★".repeat(Math.round(product.rating))}</span>
+          {product.rating}/5 ({product.rating_count} avis)
+        </span>
+      )}
+    </div>
+
+    <AffiliateDisclosure />
+
+    <VerdictBox product={product} verdict={reviewData.verdict} />
+
+    <CriteriaRatings ratings={reviewData.criteria_ratings} />
+
+    <ProsCons pros={reviewData.pros} cons={reviewData.cons} />
+
+    <InlineCTA product={product} />
+
+    <div class="prose max-w-none">
+      <Content />
+    </div>
+
+    <InlineCTA product={product} />
+
+    <RecommendationBox
+      recommended_for={reviewData.recommended_for}
+      not_recommended_for={reviewData.not_recommended_for}
+    />
+
+    <PriceComparisonTable product={product} />
+
+    <InlineCTA product={product} />
+
+    {reviewData.faq && reviewData.faq.length > 0 && (
+      <FAQ items={reviewData.faq} />
+    )}
+
+    <RelatedProducts slugs={reviewData.related_slugs} />
+  </article>
+
+  <StickyMobileCTA product={product} />
+</BaseLayout>

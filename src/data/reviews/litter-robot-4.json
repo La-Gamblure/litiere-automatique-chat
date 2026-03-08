@@ -1,0 +1,70 @@
+{
+  "product_slug": "litter-robot-4",
+  "meta": {
+    "title": "Avis Litter-Robot 4 : Test Complet et Honnête (2026)",
+    "description": "Notre avis détaillé sur le Litter-Robot 4 après test. Notes, avantages, inconvénients, prix et comparaison avec les alternatives.",
+    "date": "2026-03-08",
+    "updated": "2026-03-08"
+  },
+  "verdict": {
+    "score": 9.0,
+    "summary": "Le Litter-Robot 4 reste la référence du marché en 2026. Son globe rotatif breveté, son app Whisker et sa fiabilité éprouvée justifient l'investissement pour les propriétaires exigeants. Le seul frein : son prix premium.",
+    "one_liner": "La Rolls des litières automatiques"
+  },
+  "criteria_ratings": {
+    "facilite_utilisation": 9.5,
+    "bruit": 9.0,
+    "securite": 9.0,
+    "application": 9.5,
+    "capacite": 7.5,
+    "rapport_qualite_prix": 7.0
+  },
+  "pros": [
+    "Globe rotatif breveté ultra-fiable, testé sur des millions d'unités",
+    "App Whisker complète : suivi santé, notifications, historique",
+    "Fonctionne avec n'importe quelle litière agglomérante",
+    "Garantie 2 ans constructeur",
+    "Adapté aux chats jusqu'à 11 kg (Maine Coon inclus)",
+    "Filtre carbone intégré pour les odeurs"
+  ],
+  "cons": [
+    "Prix le plus élevé du marché (749-899 €)",
+    "Empreinte au sol importante : 62 x 68 cm",
+    "Bac à déchets de 57L : vidange tous les 5-7 jours pour 2 chats",
+    "Design imposant qui ne s'intègre pas partout"
+  ],
+  "recommended_for": [
+    "Propriétaires de chats lourds (>8 kg) ou de type Maine Coon",
+    "Foyers avec 2 à 4 chats",
+    "Ceux qui veulent le suivi santé via app",
+    "Personnes prêtes à investir pour la fiabilité long terme"
+  ],
+  "not_recommended_for": [
+    "Budgets serrés (des alternatives à 250-400 € existent)",
+    "Petits appartements sans espace dédié",
+    "Ceux qui cherchent une solution sans connectivité"
+  ],
+  "faq": [
+    {
+      "question": "Le Litter-Robot 4 est-il adapté aux Maine Coon ?",
+      "answer": "Oui, le Litter-Robot 4 supporte les chats jusqu'à 11 kg, ce qui couvre la grande majorité des Maine Coon. L'ouverture du globe est suffisamment large pour les grands gabarits."
+    },
+    {
+      "question": "Quelle litière utiliser dans le Litter-Robot 4 ?",
+      "answer": "Le Litter-Robot 4 fonctionne avec toute litière agglomérante (bentonite ou tofu). Évitez les cristaux de silice, la litière de papier ou les formules non agglomérantes qui ne forment pas de blocs solides."
+    },
+    {
+      "question": "Combien coûte l'entretien mensuel du Litter-Robot 4 ?",
+      "answer": "Comptez environ 20-30 €/mois : litière agglomérante (15-20 €) + sacs pour le tiroir (5-10 €). C'est comparable à l'entretien d'un bac classique, sans l'effort quotidien."
+    },
+    {
+      "question": "Le Litter-Robot 4 est-il silencieux ?",
+      "answer": "Oui, il fonctionne à 48 dB, soit le niveau d'un réfrigérateur. Le cycle de nettoyage dure environ 2 minutes et ne se déclenche qu'après le départ du chat (délai configurable via l'app)."
+    },
+    {
+      "question": "Quelle est la différence entre le Litter-Robot 4 et le Litter-Robot 3 ?",
+      "answer": "Le Litter-Robot 4 apporte un capteur de poids intégré (suivi santé), un design plus compact de 15%, une meilleure gestion des odeurs (filtre carbone revu), un mode nuit et une app Whisker améliorée."
+    }
+  ],
+  "related_slugs": ["petkit-pura-max-2", "petsnowy-snow-plus", "neakasa-m1"]
+}

@@ -1,0 +1,60 @@
+---
+import { getMerchantSlug, formatPrice, type Product } from "../../utils/products";
+
+interface Props {
+  product: Product;
+}
+
+const { product } = Astro.props;
+---
+
+<div id="price-table" class="bg-white border border-slate-200 rounded-xl overflow-hidden mb-8">
+  <div class="px-5 py-4 bg-slate-50 border-b border-slate-200">
+    <h2 class="text-lg font-bold text-slate-900">Où acheter le {product.title}</h2>
+  </div>
+  <div class="overflow-x-auto">
+    <table class="w-full text-sm">
+      <thead>
+        <tr class="border-b border-slate-100">
+          <th class="text-left px-5 py-3 font-semibold text-slate-700">Marchand</th>
+          <th class="text-left px-5 py-3 font-semibold text-slate-700">Prix</th>
+          <th class="text-right px-5 py-3"></th>
+        </tr>
+      </thead>
+      <tbody>
+        {product.merchants
+          .sort((a, b) => b.commission_rate - a.commission_rate)
+          .map((merchant, i) => {
+            const href = `/go/${product.slug}/${getMerchantSlug(merchant)}/`;
+            return (
+              <tr class:list={["border-b border-slate-50", i === 0 && "bg-emerald-50/50"]}>
+                <td class="px-5 py-3 font-medium text-slate-900">
+                  {merchant.merchant_name}
+                  {i === 0 && (
+                    <span class="ml-2 text-xs bg-emerald-100 text-emerald-700 px-2 py-0.5 rounded-full">
+                      Recommandé
+                    </span>
+                  )}
+                </td>
+                <td class="px-5 py-3 text-emerald-600 font-bold">
+                  {formatPrice(product.price_min)}
+                  {product.price_min !== product.price_max && (
+                    <span class="text-slate-400 font-normal"> – {formatPrice(product.price_max)}</span>
+                  )}
+                </td>
+                <td class="px-5 py-3 text-right">
+                  <a
+                    href={href}
+                    rel="sponsored nofollow"
+                    class="inline-flex items-center px-4 py-2 bg-orange-500 hover:bg-orange-600 text-white font-medium rounded-lg transition-colors text-xs"
+                  >
+                    Voir le prix &rarr;
+                  </a>
+                </td>
+              </tr>
+            );
+          })}
+      </tbody>
+    </table>
+  </div>
+</div>

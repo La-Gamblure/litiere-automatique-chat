@@ -1,0 +1,33 @@
+---
+interface Props {
+  recommended_for: string[];
+  not_recommended_for: string[];
+}
+
+const { recommended_for, not_recommended_for } = Astro.props;
+---
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
+  <div class="bg-white border border-slate-200 rounded-xl p-5">
+    <h3 class="font-bold text-slate-900 mb-3">On le recommande si...</h3>
+    <ul class="space-y-2">
+      {recommended_for.map((item) => (
+        <li class="flex items-start gap-2 text-sm text-slate-700">
+          <span class="text-emerald-500 mt-0.5 flex-shrink-0">&#10003;</span>
+          <span>{item}</span>
+        </li>
+      ))}
+    </ul>
+  </div>
+  <div class="bg-white border border-slate-200 rounded-xl p-5">
+    <h3 class="font-bold text-slate-900 mb-3">On ne le recommande pas si...</h3>
+    <ul class="space-y-2">
+      {not_recommended_for.map((item) => (
+        <li class="flex items-start gap-2 text-sm text-slate-700">
+          <span class="text-red-500 mt-0.5 flex-shrink-0">&#10007;</span>
+          <span>{item}</span>
+        </li>
+      ))}
+    </ul>
+  </div>
+</div>

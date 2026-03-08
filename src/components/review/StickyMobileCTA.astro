@@ -1,0 +1,45 @@
+---
+import { getAffiliateHref, getPriceRange, type Product } from "../../utils/products";
+
+interface Props {
+  product: Product;
+}
+
+const { product } = Astro.props;
+const affiliateHref = getAffiliateHref(product);
+const priceRange = getPriceRange(product);
+---
+
+<div
+  id="sticky-mobile-cta"
+  class="fixed bottom-0 left-0 right-0 z-40 bg-white border-t border-slate-200 shadow-lg p-3 sm:hidden transition-transform duration-300"
+>
+  <div class="flex items-center justify-between gap-3">
+    <div class="min-w-0">
+      <p class="font-semibold text-slate-900 text-sm truncate">{product.title}</p>
+      <p class="text-xs text-emerald-600 font-bold">{priceRange}</p>
+    </div>
+    <a
+      href={affiliateHref}
+      rel="sponsored nofollow"
+      class="inline-flex items-center px-4 py-2.5 bg-orange-500 hover:bg-orange-600 text-white font-medium rounded-lg transition-colors text-sm whitespace-nowrap flex-shrink-0"
+    >
+      Voir le prix &rarr;
+    </a>
+  </div>
+</div>
+
+<script>
+  const stickyCTA = document.getElementById('sticky-mobile-cta');
+  const priceTable = document.getElementById('price-table');
+
+  if (stickyCTA && priceTable) {
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        stickyCTA.style.transform = entry.isIntersecting ? 'translateY(100%)' : 'translateY(0)';
+      },
+      { threshold: 0.1 }
+    );
+    observer.observe(priceTable);
+  }
+</script>

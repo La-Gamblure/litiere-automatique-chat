@@ -1,0 +1,33 @@
+---
+import { CRITERIA_LABELS, CRITERIA_ORDER, type CriterionKey } from "../../utils/criteria";
+
+interface Props {
+  ratings: Record<string, number>;
+}
+
+const { ratings } = Astro.props;
+---
+
+<div class="bg-white border border-slate-200 rounded-xl p-6 mb-8">
+  <h2 class="text-lg font-bold text-slate-900 mb-4">Notes par critère</h2>
+  <div class="space-y-4">
+    {CRITERIA_ORDER.map((key: CriterionKey) => {
+      const value = ratings[key] ?? 0;
+      const pct = (value / 10) * 100;
+      return (
+        <div>
+          <div class="flex items-center justify-between mb-1">
+            <span class="text-sm font-medium text-slate-700">{CRITERIA_LABELS[key]}</span>
+            <span class="text-sm font-bold text-slate-900">{value}/10</span>
+          </div>
+          <div class="w-full h-2.5 bg-slate-100 rounded-full overflow-hidden">
+            <div
+              class="h-full bg-emerald-500 rounded-full transition-all duration-500"
+              style={`width: ${pct}%`}
+            />
+          </div>
+        </div>
+      );
+    })}
+  </div>
+</div>

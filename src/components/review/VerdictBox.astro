@@ -1,0 +1,41 @@
+---
+import { getAffiliateHref, getPriceRange, type Product } from "../../utils/products";
+
+interface Props {
+  product: Product;
+  verdict: {
+    score: number;
+    summary: string;
+    one_liner: string;
+  };
+}
+
+const { product, verdict } = Astro.props;
+const affiliateHref = getAffiliateHref(product);
+const priceRange = getPriceRange(product);
+---
+
+<div class="bg-white border border-slate-200 rounded-xl p-6 sm:p-8 mb-8">
+  <div class="flex flex-col sm:flex-row gap-6 items-start">
+    <div class="flex-shrink-0 flex flex-col items-center">
+      <div class="w-20 h-20 rounded-full bg-emerald-50 border-4 border-emerald-500 flex items-center justify-center">
+        <span class="text-2xl font-bold text-emerald-700">{verdict.score}</span>
+      </div>
+      <span class="text-xs text-slate-400 mt-1">/ 10</span>
+    </div>
+    <div class="flex-1">
+      <p class="text-sm font-medium text-emerald-600 mb-1">{verdict.one_liner}</p>
+      <p class="text-slate-700 leading-relaxed mb-4">{verdict.summary}</p>
+      <div class="flex flex-col sm:flex-row items-start sm:items-center gap-3">
+        <a
+          href={affiliateHref}
+          rel="sponsored nofollow"
+          class="inline-flex items-center px-6 py-3 bg-orange-500 hover:bg-orange-600 text-white font-semibold rounded-lg transition-colors"
+        >
+          Voir le prix &rarr;
+        </a>
+        <span class="text-sm text-slate-500">{priceRange}</span>
+      </div>
+    </div>
+  </div>
+</div>

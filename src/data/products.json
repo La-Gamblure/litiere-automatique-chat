@@ -1,0 +1,352 @@
+[
+  {
+    "slug": "litter-robot-4",
+    "title": "Litter-Robot 4",
+    "brand": "Litter-Robot",
+    "description": "La référence premium. Globe rotatif breveté, filtre carbone, connexion Wi-Fi et app Whisker. Garantie 2 ans. Pour chats jusqu'à 11 kg.",
+    "image_url": null,
+    "price_min": 749,
+    "price_max": 899,
+    "rating": 4.5,
+    "rating_count": 12400,
+    "merchants": [
+      {
+        "merchant_name": "Litter-Robot FR",
+        "affiliate_url": "https://www.litter-robot.com/fr/?ref=litiereauto",
+        "affiliate_network": "Direct",
+        "commission_rate": 8.0,
+        "is_primary": true
+      },
+      {
+        "merchant_name": "Amazon",
+        "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE1?tag=litiereauto-21",
+        "affiliate_network": "Amazon Associates",
+        "commission_rate": 4.0,
+        "is_primary": false
+      }
+    ],
+    "specs": {
+      "noise_db": 48,
+      "capacity_liters": 57,
+      "max_cat_weight_kg": 11,
+      "max_cats": 4,
+      "dimensions_cm": "62 x 68 x 74",
+      "weight_kg": 11.3,
+      "mechanism": "globe",
+      "is_enclosed": true,
+      "has_wifi": true,
+      "has_app": true,
+      "has_health_tracking": true
+    },
+    "quiz_attributes": {
+      "budget_tier": "premium",
+      "noise_level": "low",
+      "footprint": "large",
+      "priority_tags": ["quietest", "easiest", "best_overall"],
+      "reasoning_fr": {
+        "budget": "Investissement premium mais durabilité et garantie 2 ans",
+        "noise": "Sous les 50 dB, parmi les plus silencieuses",
+        "smart": "App Whisker complète avec suivi santé",
+        "space": "Empreinte importante, prévoir 62x68cm",
+        "multi_cat": "Gère jusqu'à 4 chats"
+      }
+    }
+  },
+  {
+    "slug": "petkit-pura-max-2",
+    "title": "PETKIT Pura Max 2",
+    "brand": "PETKIT",
+    "description": "Litière automatique connectée avec spray anti-odeur N50, système anti-pincement xSecure, capacité 76L et contrôle via app PETKIT.",
+    "image_url": null,
+    "price_min": 399,
+    "price_max": 599,
+    "rating": 4.4,
+    "rating_count": 3200,
+    "merchants": [
+      {
+        "merchant_name": "PETKIT FR",
+        "affiliate_url": "https://www.petkit.fr/?ref=litiereauto",
+        "affiliate_network": "Direct",
+        "commission_rate": 6.0,
+        "is_primary": true
+      },
+      {
+        "merchant_name": "Amazon",
+        "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE2?tag=litiereauto-21",
+        "affiliate_network": "Amazon Associates",
+        "commission_rate": 4.0,
+        "is_primary": false
+      }
+    ],
+    "specs": {
+      "noise_db": 52,
+      "capacity_liters": 76,
+      "max_cat_weight_kg": 8,
+      "max_cats": 3,
+      "dimensions_cm": "60 x 58 x 62",
+      "weight_kg": 13.5,
+      "mechanism": "rotation",
+      "is_enclosed": true,
+      "has_wifi": true,
+      "has_app": true,
+      "has_health_tracking": true
+    },
+    "quiz_attributes": {
+      "budget_tier": "mid",
+      "noise_level": "medium",
+      "footprint": "medium",
+      "priority_tags": ["best_value", "smartest"],
+      "reasoning_fr": {
+        "budget": "Milieu de gamme avec un excellent rapport fonctionnalités-prix",
+        "noise": "Niveau sonore modéré, 52 dB en fonctionnement",
+        "smart": "App PETKIT complète + spray anti-odeur N50 intégré",
+        "space": "Empreinte raisonnable pour sa capacité de 76L",
+        "multi_cat": "Mode multi-chats avec identification individuelle"
+      }
+    }
+  },
+  {
+    "slug": "neakasa-m1",
+    "title": "Neakasa M1",
+    "brand": "Neakasa",
+    "description": "Grande ouverture adaptée aux gros chats (Maine Coon), ultra-silencieuse, connectée via app. Livrée avec tapis + sacs jetables. Garantie 2 ans pièces.",
+    "image_url": null,
+    "price_min": 429,
+    "price_max": 475,
+    "rating": 4.2,
+    "rating_count": 1200,
+    "merchants": [
+      {
+        "merchant_name": "Amazon",
+        "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE9?tag=litiereauto-21",
+        "affiliate_network": "Amazon Associates",
+        "commission_rate": 4.0,
+        "is_primary": true
+      }
+    ],
+    "specs": {
+      "noise_db": 45,
+      "capacity_liters": 65,
+      "max_cat_weight_kg": 10,
+      "max_cats": 3,
+      "dimensions_cm": "58 x 56 x 66",
+      "weight_kg": 10.8,
+      "mechanism": "rotation",
+      "is_enclosed": true,
+      "has_wifi": true,
+      "has_app": true,
+      "has_health_tracking": false
+    },
+    "quiz_attributes": {
+      "budget_tier": "mid",
+      "noise_level": "low",
+      "footprint": "medium",
+      "priority_tags": ["quietest", "big_cats"],
+      "reasoning_fr": {
+        "budget": "Milieu de gamme avec garantie 2 ans pièces",
+        "noise": "Ultra-silencieuse à 45 dB, la plus discrète du marché",
+        "smart": "App connectée basique mais fonctionnelle",
+        "space": "Ouverture extra-large pour les grands chats",
+        "multi_cat": "Convient pour 2-3 chats"
+      }
+    }
+  },
+  {
+    "slug": "catlink-baymax",
+    "title": "CATLINK Baymax 70L",
+    "brand": "CATLINK",
+    "description": "Litière autonettoyante avec 7 capteurs de sécurité, grande capacité 70L, app de suivi santé du chat et fonctionnement silencieux.",
+    "image_url": null,
+    "price_min": 294,
+    "price_max": 309,
+    "rating": 4.2,
+    "rating_count": 1800,
+    "merchants": [
+      {
+        "merchant_name": "Amazon",
+        "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE3?tag=litiereauto-21",
+        "affiliate_network": "Amazon Associates",
+        "commission_rate": 4.0,
+        "is_primary": true
+      }
+    ],
+    "specs": {
+      "noise_db": 50,
+      "capacity_liters": 70,
+      "max_cat_weight_kg": 8,
+      "max_cats": 3,
+      "dimensions_cm": "57 x 54 x 60",
+      "weight_kg": 10.2,
+      "mechanism": "rotation",
+      "is_enclosed": true,
+      "has_wifi": true,
+      "has_app": true,
+      "has_health_tracking": true
+    },
+    "quiz_attributes": {
+      "budget_tier": "budget",
+      "noise_level": "medium",
+      "footprint": "medium",
+      "priority_tags": ["best_budget_smart"],
+      "reasoning_fr": {
+        "budget": "Moins de 310 € avec suivi santé et app connectée",
+        "noise": "Fonctionnement silencieux à 50 dB",
+        "smart": "7 capteurs de sécurité + suivi santé via app",
+        "space": "Format compact pour sa capacité de 70L",
+        "multi_cat": "Gère jusqu'à 3 chats"
+      }
+    }
+  },
+  {
+    "slug": "devoko-90l",
+    "title": "Devoko 90L",
+    "brand": "Devoko",
+    "description": "Litière automatique XXL de 90L avec sécurité 6 niveaux, désodorisation intégrée, contrôle via app et design oreilles de chat. Best-seller Amazon.",
+    "image_url": null,
+    "price_min": 226,
+    "price_max": 287,
+    "rating": 4.3,
+    "rating_count": 5400,
+    "merchants": [
+      {
+        "merchant_name": "Cdiscount",
+        "affiliate_url": "https://www.cdiscount.com/product/devoko-90l?ref=litiereauto",
+        "affiliate_network": "Awin",
+        "commission_rate": 5.0,
+        "is_primary": true
+      },
+      {
+        "merchant_name": "Amazon",
+        "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE8?tag=litiereauto-21",
+        "affiliate_network": "Amazon Associates",
+        "commission_rate": 4.0,
+        "is_primary": false
+      }
+    ],
+    "specs": {
+      "noise_db": 55,
+      "capacity_liters": 90,
+      "max_cat_weight_kg": 8,
+      "max_cats": 4,
+      "dimensions_cm": "60 x 58 x 68",
+      "weight_kg": 12.0,
+      "mechanism": "rotation",
+      "is_enclosed": true,
+      "has_wifi": true,
+      "has_app": true,
+      "has_health_tracking": false
+    },
+    "quiz_attributes": {
+      "budget_tier": "budget",
+      "noise_level": "medium",
+      "footprint": "large",
+      "priority_tags": ["best_value", "best_multi_cat_budget"],
+      "reasoning_fr": {
+        "budget": "Moins de 290 € pour la plus grande capacité du marché",
+        "noise": "55 dB, légèrement plus audible que les modèles premium",
+        "smart": "App connectée avec 6 niveaux de sécurité",
+        "space": "90L de capacité mais empreinte conséquente",
+        "multi_cat": "Capacité XXL idéale pour 3-4 chats"
+      }
+    }
+  },
+  {
+    "slug": "petsafe-scoopfree",
+    "title": "PetSafe ScoopFree",
+    "brand": "PetSafe",
+    "description": "Litière automatique à cristaux avec bac jetable pré-rempli. Système simple, protection anti-fuites. Le prix le plus bas du marché.",
+    "image_url": null,
+    "price_min": 179,
+    "price_max": 219,
+    "rating": 3.8,
+    "rating_count": 4500,
+    "merchants": [
+      {
+        "merchant_name": "Zooplus",
+        "affiliate_url": "https://www.zooplus.fr/product/petsafe-scoopfree?ref=litiereauto",
+        "affiliate_network": "Awin",
+        "commission_rate": 5.0,
+        "is_primary": true
+      },
+      {
+        "merchant_name": "Amazon",
+        "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE7?tag=litiereauto-21",
+        "affiliate_network": "Amazon Associates",
+        "commission_rate": 4.0,
+        "is_primary": false
+      }
+    ],
+    "specs": {
+      "noise_db": 40,
+      "capacity_liters": 20,
+      "max_cat_weight_kg": 7,
+      "max_cats": 1,
+      "dimensions_cm": "70 x 37 x 17",
+      "weight_kg": 5.4,
+      "mechanism": "rake",
+      "is_enclosed": false,
+      "has_wifi": false,
+      "has_app": false,
+      "has_health_tracking": false
+    },
+    "quiz_attributes": {
+      "budget_tier": "entry",
+      "noise_level": "low",
+      "footprint": "small",
+      "priority_tags": ["cheapest", "simplest"],
+      "reasoning_fr": {
+        "budget": "Le prix le plus bas du marché, moins de 220 €",
+        "noise": "Mécanisme à râteau très silencieux (40 dB)",
+        "smart": "Pas de connectivité, fonctionnement 100% mécanique",
+        "space": "Le plus compact et plat, se glisse partout",
+        "multi_cat": "Conçu pour 1 seul chat"
+      }
+    }
+  },
+  {
+    "slug": "petsnowy-snow-plus",
+    "title": "PetSnowy SNOW+",
+    "brand": "PetSnowy",
+    "description": "Design fermé et compact, capacité 83L, sac auto-fermant pour zéro contact avec les déchets. Contrôle via app.",
+    "image_url": null,
+    "price_min": 549,
+    "price_max": 599,
+    "rating": 4.1,
+    "rating_count": 850,
+    "merchants": [
+      {
+        "merchant_name": "Amazon",
+        "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE10?tag=litiereauto-21",
+        "affiliate_network": "Amazon Associates",
+        "commission_rate": 4.0,
+        "is_primary": true
+      }
+    ],
+    "specs": {
+      "noise_db": 50,
+      "capacity_liters": 83,
+      "max_cat_weight_kg": 9,
+      "max_cats": 3,
+      "dimensions_cm": "58 x 57 x 64",
+      "weight_kg": 11.5,
+      "mechanism": "rotation",
+      "is_enclosed": true,
+      "has_wifi": true,
+      "has_app": true,
+      "has_health_tracking": false
+    },
+    "quiz_attributes": {
+      "budget_tier": "premium",
+      "noise_level": "medium",
+      "footprint": "medium",
+      "priority_tags": ["cleanest", "best_design"],
+      "reasoning_fr": {
+        "budget": "Segment premium à 550-600 €",
+        "noise": "Niveau sonore standard de 50 dB",
+        "smart": "App connectée + sac auto-fermant hygiénique",
+        "space": "Design compact et élégant",
+        "multi_cat": "Gère jusqu'à 3 chats"
+      }
+    }
+  }
+]

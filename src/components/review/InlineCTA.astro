@@ -1,0 +1,25 @@
+---
+import { getAffiliateHref, getPriceRange, type Product } from "../../utils/products";
+
+interface Props {
+  product: Product;
+}
+
+const { product } = Astro.props;
+const affiliateHref = getAffiliateHref(product);
+const priceRange = getPriceRange(product);
+---
+
+<div class="bg-slate-50 border border-slate-200 rounded-xl p-5 my-8 flex flex-col sm:flex-row items-center gap-4">
+  <div class="flex-1 text-center sm:text-left">
+    <p class="font-semibold text-slate-900">{product.title}</p>
+    <p class="text-sm text-emerald-600 font-bold">{priceRange}</p>
+  </div>
+  <a
+    href={affiliateHref}
+    rel="sponsored nofollow"
+    class="inline-flex items-center px-5 py-2.5 bg-orange-500 hover:bg-orange-600 text-white font-medium rounded-lg transition-colors text-sm whitespace-nowrap"
+  >
+    Voir le prix &rarr;
+  </a>
+</div>
