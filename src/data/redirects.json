@@ -1,9 +1,27 @@
 [
   {
     "schema_version": "1.0",
-    "slug": "go/litter-robot-4/litter-robot-fr",
-    "target_url": "https://www.litter-robot.com/fr/?ref=litiereauto",
-    "merchant_name": "Litter-Robot FR"
+    "slug": "go/petkit-pura-max-2/amazon",
+    "target_url": "https://www.amazon.fr/dp/B0EXAMPLE2?tag=litiereauto-21",
+    "merchant_name": "Amazon"
+  },
+  {
+    "schema_version": "1.0",
+    "slug": "go/petkit-pura-max-2/petkit-fr",
+    "target_url": "https://www.petkit.fr/?ref=litiereauto",
+    "merchant_name": "PETKIT FR"
+  },
+  {
+    "schema_version": "1.0",
+    "slug": "go/devoko-90l/amazon",
+    "target_url": "https://www.amazon.fr/dp/B0EXAMPLE8?tag=litiereauto-21",
+    "merchant_name": "Amazon"
+  },
+  {
+    "schema_version": "1.0",
+    "slug": "go/devoko-90l/cdiscount",
+    "target_url": "https://www.cdiscount.com/product/devoko-90l?ref=litiereauto",
+    "merchant_name": "Cdiscount"
   },
   {
     "schema_version": "1.0",
@@ -13,50 +31,38 @@
   },
   {
     "schema_version": "1.0",
-    "slug": "go/petkit-pura-max-2/amazon",
-    "target_url": "https://www.amazon.fr/dp/B0EXAMPLE2?tag=litiereauto-21",
+    "slug": "go/litter-robot-4/litter-robot-fr",
+    "target_url": "https://www.litter-robot.com/fr/?ref=litiereauto",
+    "merchant_name": "Litter-Robot FR"
+  },
+  {
+    "schema_version": "1.0",
+    "slug": "go/neakasa-m1/amazon",
+    "target_url": "https://www.amazon.fr/dp/B0EXAMPLE9?tag=litiereauto-21",
     "merchant_name": "Amazon"
   },
   {
     "schema_version": "1.0",
-    "slug": "go/petkit-pura-max-2/petkit",
-    "target_url": "https://www.petkit.com/fr/?ref=litiereauto",
-    "merchant_name": "PETKIT"
-  },
-  {
-    "schema_version": "1.0",
-    "slug": "go/catlink-scooper-luxury-pro/amazon",
+    "slug": "go/catlink-baymax/amazon",
     "target_url": "https://www.amazon.fr/dp/B0EXAMPLE3?tag=litiereauto-21",
     "merchant_name": "Amazon"
   },
   {
     "schema_version": "1.0",
-    "slug": "go/petree-arc/amazon",
-    "target_url": "https://www.amazon.fr/dp/B0EXAMPLE4?tag=litiereauto-21",
+    "slug": "go/petsnowy-snow-plus/amazon",
+    "target_url": "https://www.amazon.fr/dp/B0EXAMPLE10?tag=litiereauto-21",
     "merchant_name": "Amazon"
   },
   {
     "schema_version": "1.0",
-    "slug": "go/meowant-meo-003/amazon",
-    "target_url": "https://www.amazon.fr/dp/B0EXAMPLE5?tag=litiereauto-21",
-    "merchant_name": "Amazon"
-  },
-  {
-    "schema_version": "1.0",
-    "slug": "go/poopout-litiere-auto/amazon",
-    "target_url": "https://www.amazon.fr/dp/B0EXAMPLE6?tag=litiereauto-21",
-    "merchant_name": "Amazon"
-  },
-  {
-    "schema_version": "1.0",
-    "slug": "go/poopout-litiere-auto/cdiscount",
-    "target_url": "https://www.cdiscount.com/product/poopout-p100?ref=litiereauto",
-    "merchant_name": "Cdiscount"
-  },
-  {
-    "schema_version": "1.0",
-    "slug": "go/scoopfree-smart/amazon",
+    "slug": "go/petsafe-scoopfree/amazon",
     "target_url": "https://www.amazon.fr/dp/B0EXAMPLE7?tag=litiereauto-21",
     "merchant_name": "Amazon"
+  },
+  {
+    "schema_version": "1.0",
+    "slug": "go/petsafe-scoopfree/zooplus",
+    "target_url": "https://www.zooplus.fr/product/petsafe-scoopfree?ref=litiereauto",
+    "merchant_name": "Zooplus"
   }
 ]
