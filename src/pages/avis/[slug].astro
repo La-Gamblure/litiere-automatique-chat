@@ -73,8 +73,6 @@ const breadcrumbs = [
       )}
     </div>
 
-    <AffiliateDisclosure />
-
     {product.image_url && (
       <div class="rounded-xl overflow-hidden mb-8 shadow-md bg-slate-50 flex items-center justify-center p-8">
         <img
@@ -113,6 +111,8 @@ const breadcrumbs = [
     )}
 
     <RelatedProducts slugs={reviewData.related_slugs} />
+
+    <AffiliateDisclosure />
   </article>
 
   <StickyMobileCTA product={product} />
