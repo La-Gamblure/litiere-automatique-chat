@@ -31,8 +31,11 @@ Site de comparatif indépendant de litières automatiques pour chat. Monetisatio
 - Schema version "1.0" dans tous les JSON
 
 ## Etat actuel
-- MVP Phase 1 : scaffolding + pages + data + legal
-- Build : a tester
+- MVP Phase 1 : DONE — 19 pages, build OK, deploy OK
+- Site live : https://litiere-auto.netlify.app
+- GitHub : https://github.com/La-Gamblure/litiere-automatique-chat
+- Netlify site ID : b347e54a-ac2f-43bd-ab24-5297058efbd4
+- Produits verifies via recherche Exa (PETKIT Pura Max 2, Devoko 90L, Litter-Robot 4, Neakasa M1, CATLINK Baymax, PetSnowy SNOW+, PetSafe ScoopFree)
 
 ## Prochaines etapes
 - Phase 1 : build, deploy Netlify, GSC
