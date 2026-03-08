@@ -106,11 +106,18 @@
       "rating_count": 5400,
       "merchants": [
         {
+          "merchant_name": "Cdiscount",
+          "affiliate_url": "https://www.cdiscount.com/product/devoko-90l?ref=litiereauto",
+          "affiliate_network": "Awin",
+          "commission_rate": 5.0,
+          "is_primary": true
+        },
+        {
           "merchant_name": "Amazon",
           "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE8?tag=litiereauto-21",
           "affiliate_network": "Amazon Associates",
           "commission_rate": 4.0,
-          "is_primary": true
+          "is_primary": false
         }
       ],
       "position": 4,

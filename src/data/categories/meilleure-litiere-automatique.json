@@ -89,34 +89,10 @@
           "is_primary": true
         }
       ],
-      "position": 4,
+      "position": 3,
       "gift_type": "produit",
       "is_personalizable": false,
-      "custom_why_text": "La meilleure litière pour les grands chats et Maine Coon grâce à sa grande ouverture. Ultra-silencieuse et livrée avec tapis anti-projections et sacs jetables. Garantie 2 ans pièces."
-    },
-    {
-      "schema_version": "1.0",
-      "slug": "catlink-baymax",
-      "title": "CATLINK Baymax 70L",
-      "description": "Litière autonettoyante avec 7 capteurs de sécurité, grande capacité 70L, app de suivi santé du chat et fonctionnement silencieux.",
-      "image_url": null,
-      "price_min": 294,
-      "price_max": 309,
-      "rating": 4.2,
-      "rating_count": 1800,
-      "merchants": [
-        {
-          "merchant_name": "Amazon",
-          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE3?tag=litiereauto-21",
-          "affiliate_network": "Amazon Associates",
-          "commission_rate": 4.0,
-          "is_primary": true
-        }
-      ],
-      "position": 5,
-      "gift_type": "produit",
-      "is_personalizable": false,
-      "custom_why_text": "Excellent compromis autour de 300 €. Ses 7 capteurs de sécurité et son suivi santé via app en font un choix sûr pour les propriétaires connectés."
+      "custom_why_text": "La meilleure litière pour les grands chats et Maine Coon grâce à sa grande ouverture. Ultra-silencieuse à 45 dB et livrée avec tapis anti-projections et sacs jetables. Garantie 2 ans pièces."
     },
     {
       "schema_version": "1.0",
@@ -144,10 +120,34 @@
           "is_primary": false
         }
       ],
-      "position": 6,
+      "position": 4,
       "gift_type": "produit",
       "is_personalizable": false,
-      "custom_why_text": "Le meilleur rapport qualité-prix sous les 300 €. Sa capacité XXL de 90L est la plus grande du marché à ce prix, idéale pour les foyers multi-chats. Best-seller Amazon FR."
+      "custom_why_text": "Le meilleur rapport qualité-prix du comparatif. Capacité XXL de 90L (la plus grande à ce prix), 5 400+ avis et app connectée pour moins de 290 €. Idéal pour les foyers multi-chats avec un budget maîtrisé."
+    },
+    {
+      "schema_version": "1.0",
+      "slug": "catlink-baymax",
+      "title": "CATLINK Baymax 70L",
+      "description": "Litière autonettoyante avec 7 capteurs de sécurité, grande capacité 70L, app de suivi santé du chat et fonctionnement silencieux.",
+      "image_url": null,
+      "price_min": 294,
+      "price_max": 309,
+      "rating": 4.2,
+      "rating_count": 1800,
+      "merchants": [
+        {
+          "merchant_name": "Amazon",
+          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE3?tag=litiereauto-21",
+          "affiliate_network": "Amazon Associates",
+          "commission_rate": 4.0,
+          "is_primary": true
+        }
+      ],
+      "position": 5,
+      "gift_type": "produit",
+      "is_personalizable": false,
+      "custom_why_text": "Le choix connecté à 300 €. Ses 7 capteurs de sécurité et son suivi santé via app en font un modèle complet pour les propriétaires qui veulent suivre l'activité de leur chat sans se ruiner."
     },
     {
       "schema_version": "1.0",
@@ -175,7 +175,7 @@
           "is_primary": false
         }
       ],
-      "position": 7,
+      "position": 6,
       "gift_type": "produit",
       "is_personalizable": false,
       "custom_why_text": "L'entrée de gamme fiable et éprouvée. Son système à cristaux avec bac jetable permet zéro contact avec la litière. Idéal pour un premier essai sans gros investissement."

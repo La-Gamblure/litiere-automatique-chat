@@ -8,8 +8,9 @@ Site de comparatif indépendant de litières automatiques pour chat. Monetisatio
 - **Style** : Tailwind CSS v4 (Vite plugin)
 - **Data** : JSON (categories/produits/reviews) + Astro Content Collections avec glob loader (guides, reviews)
 - **Hosting** : Cloudflare Pages (litiere-auto.pages.dev) + Netlify legacy (litiere-auto.netlify.app)
+- **Domaine choisi** : meilleure-litiere.fr (à enregistrer)
 - **Functions** : CF Pages Functions (functions/api/) pour capture email quiz
-- **Images** : Placeholder SVG pour le MVP, Cloudinary prevu
+- **Images** : Photos produit réelles minées depuis les sites officiels (public/images/products/), banque de 142 photos dans assets/photo-mining/
 
 ## Architecture
 - Fork de Au-bon-cadeau (meme stack), adapte pour le vertical litiere auto
@@ -49,7 +50,9 @@ Site de comparatif indépendant de litières automatiques pour chat. Monetisatio
 - Phase 2B quiz : DONE — /quiz/ + modal + CF Function
 - Phase 2B YouTube outlines : DONE (11 outlines dans docs/youtube/)
 - Phase 2C guides + maillage : DONE — 8 nouveaux guides, maillage interne complet (guides ↔ reviews ↔ comparatifs ↔ quiz)
-- Phase 2D UX LeWizards : TODO — cards clickables, classement visuel, badges "Idéal pour", section détaillée comparatifs, double CTA guides
+- Phase 2D UX LeWizards : PARTIELLEMENT DONE — cards clickables ✓, classement visuel ✓. TODO : badges "Idéal pour", section détaillée comparatifs, double CTA guides
+- Images produit : DONE — 7 photos réelles dans public/images/products/, image_url dans products.json, hero sur pages review
+- Ordre produits optimisé par commission : DONE — Devoko/CATLINK swappés, marchands primary corrigés (5% Cdiscount/Zooplus > 4% Amazon)
 - 37 pages generees, build en ~1s
 - Site live : https://litiere-auto.pages.dev
 - GitHub : https://github.com/La-Gamblure/litiere-automatique-chat
@@ -61,8 +64,9 @@ Site de comparatif indépendant de litières automatiques pour chat. Monetisatio
 - PetSafe ScoopFree : seul modele ouvert (pas enclosed), seul modele sans app/wifi
 
 ## Prochaines etapes
+- Enregistrer meilleure-litiere.fr (NDD choisi) + configurer DNS sur CF Pages
 - Creer le KV namespace QUIZ_EMAILS dans le dashboard CF et mettre a jour wrangler.toml
 - Deployer sur CF Pages avec les Functions
-- Images Cloudinary
-- Custom domain
+- Phase 2D restante : badges "Idéal pour", section détaillée comparatifs, double CTA guides
 - Backlinks, GEO
+- 7 agents nano-banana-pro tournent encore en background (images hero lifestyle) — résultats à récupérer

@@ -72,7 +72,9 @@ Objectif : appliquer les patterns UX de LeWizards à notre site (sauf codes prom
 - [ ] **Badges "Idéal pour"** — ProductCard.astro : ajouter un badge contextuel sous le titre (ex: "Idéal multi-chats", "Meilleur rapport qualité-prix"). Data source: ajouter champ `ideal_pour` dans categories JSON
 - [ ] **Section détaillée par produit sur comparatifs** — [slug].astro : après la grille, ajouter une section avec mini pros/cons + CTA par produit (similaire au format LeWizards). Data source: reviews JSON (pros/cons déjà présents)
 - [ ] **Double CTA dans les guides** — dans les tableaux markdown des guides, ajouter une colonne "Avis" avec lien vers /avis/[slug]/ en plus du "Voir le prix" /go/
-- [ ] Images Cloudinary
-- [ ] Custom domain
+- [x] Images produit réelles (photo-mining + intégration public/images/products/)
+- [x] Optimisation ordre produits par commission (Devoko ↑, marchands primary corrigés)
+- [ ] Enregistrer meilleure-litiere.fr + config DNS CF Pages
+- [ ] Custom domain sur CF Pages
 - [ ] Backlinks, GEO
 - [ ] Google Search Console - soumettre sitemap

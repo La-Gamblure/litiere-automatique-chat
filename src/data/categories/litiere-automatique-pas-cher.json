@@ -20,24 +20,24 @@
       "rating_count": 5400,
       "merchants": [
         {
-          "merchant_name": "Amazon",
-          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE8?tag=litiereauto-21",
-          "affiliate_network": "Amazon Associates",
-          "commission_rate": 4.0,
-          "is_primary": true
-        },
-        {
           "merchant_name": "Cdiscount",
           "affiliate_url": "https://www.cdiscount.com/product/devoko-90l?ref=litiereauto",
           "affiliate_network": "Awin",
           "commission_rate": 5.0,
+          "is_primary": true
+        },
+        {
+          "merchant_name": "Amazon",
+          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE8?tag=litiereauto-21",
+          "affiliate_network": "Amazon Associates",
+          "commission_rate": 4.0,
           "is_primary": false
         }
       ],
       "position": 1,
       "gift_type": "produit",
       "is_personalizable": false,
-      "custom_why_text": "Notre choix n°1 en rapport qualité-prix. Capacité XXL de 90L, app connectée et 6 niveaux de sécurité pour moins de 290 €. Best-seller Amazon avec plus de 5 000 avis."
+      "custom_why_text": "Notre choix n°1 en rapport qualité-prix. Capacité XXL de 90L, app connectée et 6 niveaux de sécurité pour moins de 290 €. Plus de 5 400 avis positifs."
     },
     {
       "schema_version": "1.0",
@@ -75,17 +75,17 @@
       "rating_count": 4500,
       "merchants": [
         {
-          "merchant_name": "Amazon",
-          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE7?tag=litiereauto-21",
-          "affiliate_network": "Amazon Associates",
-          "commission_rate": 4.0,
-          "is_primary": true
-        },
-        {
           "merchant_name": "Zooplus",
           "affiliate_url": "https://www.zooplus.fr/product/petsafe-scoopfree?ref=litiereauto",
           "affiliate_network": "Awin",
           "commission_rate": 5.0,
+          "is_primary": true
+        },
+        {
+          "merchant_name": "Amazon",
+          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE7?tag=litiereauto-21",
+          "affiliate_network": "Amazon Associates",
+          "commission_rate": 4.0,
           "is_primary": false
         }
       ],
