@@ -8,7 +8,7 @@ Le Litter-Robot 4 se distingue par son globe rotatif sphérique caractéristique
 
 Le plastique est solide, les finitions soignées. L'ensemble fait 11,3 kg une fois vide. Le design est reconnaissable — certains l'adorent, d'autres trouvent qu'il prend trop de place. Dimensions : 62 x 68 x 74 cm. Prévoyez un emplacement dédié.
 
-L'ouverture est suffisamment large pour accueillir des chats jusqu'à 11 kg, y compris les Maine Coon. C'est l'un des rares modèles du marché à supporter ce gabarit sans compromis.
+L'ouverture est suffisamment large pour accueillir des chats jusqu'à 11 kg, y compris les Maine Coon. C'est l'un des rares modèles du marché à supporter ce gabarit sans compromis — consultez notre [guide des litières pour grand chat](/guides/litiere-automatique-grand-chat-xxl/) pour les détails.
 
 ## Fonctionnement au quotidien
 
@@ -46,7 +46,7 @@ L'entretien du Litter-Robot 4 se résume à :
 - **Remplacer le filtre carbone** : tous les 3 mois environ
 - **Vérifier le tamis** : occasionnellement, retirer les résidus collés
 
-Le globe se retire facilement pour un nettoyage en profondeur. Pas de pièce fragile ni d'électronique exposée dans la zone de nettoyage.
+Le globe se retire facilement pour un nettoyage en profondeur. Pas de pièce fragile ni d'électronique exposée dans la zone de nettoyage. Pour un guide complet d'entretien étape par étape, consultez notre [guide d'entretien des litières automatiques](/guides/litiere-automatique-entretien-nettoyage/).
 
 Le coût mensuel en consommables est raisonnable : litière agglomérante classique (15-20 €) + sacs de tiroir (5-10 €). Pas de bac propriétaire ni de consommable captif.
 
@@ -56,4 +56,4 @@ Le Litter-Robot 4 mérite sa réputation de référence. Après plusieurs semain
 
 Son principal défaut est son prix : 749 à 899 € selon le coloris et les promotions. C'est le double de la plupart des alternatives. La question est simple : êtes-vous prêt à payer pour la tranquillité d'esprit et une garantie constructeur de 2 ans ?
 
-Pour les foyers multi-chats (2-4 chats), c'est un investissement qui se justifie par la robustesse et la capacité de traitement. Pour un chat seul avec un budget serré, des alternatives à 300-400 € font très bien le travail.
+Pour les [foyers multi-chats](/guides/litiere-automatique-plusieurs-chats/) (2-4 chats), c'est un investissement qui se justifie par la robustesse et la capacité de traitement. Pour un chat seul avec un budget serré, des alternatives à 300-400 € font très bien le travail.

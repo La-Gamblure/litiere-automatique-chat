@@ -27,6 +27,15 @@ related_categories:
   - "meilleure-litiere-automatique"
   - "pas-cher"
   - "fermee"
+related_guides:
+  - "litiere-automatique-entretien-nettoyage"
+  - "habituer-chat-litiere-automatique"
+  - "litiere-automatique-grand-chat-xxl"
+  - "litiere-automatique-silencieuse"
+  - "litiere-automatique-connectee-app"
+  - "litiere-automatique-plusieurs-chats"
+  - "cout-litiere-automatique-budget"
+  - "litiere-automatique-problemes-solutions"
 ---
 
 Nettoyer la litière tous les jours, personne n'aime ça. Les litières automatiques règlent le problème, mais il y a une quarantaine de modèles sur le marché, de 150 à 650 €, et les fiches produits se ressemblent toutes. Dur de savoir ce qui vaut le coup.
@@ -49,7 +58,7 @@ Trois types de mécanismes existent :
 
 ### 1. Combien de chats, et quel gabarit ?
 
-Un chat de 4 kg et un Maine Coon de 9 kg n'ont pas les mêmes besoins. Vérifiez le poids max supporté (certains modèles plafonnent à 7 kg), la taille de l'ouverture, et la capacité du bac à déchets : plus vous avez de chats, plus vite il se remplit.
+Un chat de 4 kg et un [Maine Coon de 9 kg](/guides/litiere-automatique-grand-chat-xxl/) n'ont pas les mêmes besoins. Vérifiez le poids max supporté (certains modèles plafonnent à 7 kg), la taille de l'ouverture, et la capacité du bac à déchets : plus vous avez de chats, plus vite il se remplit.
 
 Le Litter-Robot 4 accepte jusqu'à 11 kg. Le PETKIT Pura Max 2 aussi. Pour un chat de taille normale, la plupart des modèles font l'affaire.
 
@@ -85,7 +94,7 @@ Pensez aussi à la prise électrique et à l'espace pour ouvrir le tiroir à dé
 
 ### 4. Le bruit
 
-Si la litière va dans votre salon ou votre chambre, ce critère passe au premier plan. Les chiffres fabricants sont souvent optimistes. En pratique :
+Si la litière va dans votre salon ou votre chambre, ce critère passe au premier plan. Notre [classement des litières les plus silencieuses](/guides/litiere-automatique-silencieuse/) détaille les mesures en décibels. Les chiffres fabricants sont souvent optimistes. En pratique :
 
 - Moins de 50 dB (Litter-Robot 4, CATLINK Baymax) : un bruit de fond, comparable à un réfrigérateur. On s'y habitue vite.
 - 50-60 dB (PETKIT Pura Max 2, PetSnowy) : audible mais pas gênant.
@@ -95,7 +104,7 @@ Si la litière va dans votre salon ou votre chambre, ce critère passe au premie
 
 Les modèles Wi-Fi avec app permettent de recevoir une notification quand le bac est plein, de suivre la fréquence de passage de votre chat (pratique pour repérer un problème de santé), et de déclencher un nettoyage à distance.
 
-PETKIT et Litter-Robot ont les apps les mieux conçues. Certaines marques chinoises moins connues proposent des apps buggées ou à moitié traduites en français. Si vous n'en avez rien à faire de la connectivité, le Neakasa M1 fonctionne très bien sans app.
+PETKIT et Litter-Robot ont les [apps les mieux conçues](/guides/litiere-automatique-connectee-app/). Certaines marques chinoises moins connues proposent des apps buggées ou à moitié traduites en français. Si vous n'en avez rien à faire de la connectivité, le Neakasa M1 fonctionne très bien sans app.
 
 ### 6. La sécurité
 
@@ -119,9 +128,9 @@ La première, c'est d'acheter un modèle à moins de 100 € sur Amazon. Les cap
 
 Deuxième piège : la compatibilité litière. Si vous utilisez de la litière végétale (bois, maïs), vérifiez que le modèle la supporte. La majorité sont conçus pour la litière agglomérante minérale, point.
 
-Beaucoup de gens jettent aussi l'ancien bac le premier jour. Mauvaise idée. Gardez-le à côté pendant une à deux semaines. Certains chats ont besoin de temps pour accepter le bruit et le mouvement. Les forcer, c'est risquer qu'ils se retiennent ou aillent sur votre tapis.
+Beaucoup de gens jettent aussi l'ancien bac le premier jour. Mauvaise idée. Gardez-le à côté pendant une à deux semaines — notre [guide pour habituer son chat](/guides/habituer-chat-litiere-automatique/) détaille la méthode progressive. Certains chats ont besoin de temps pour accepter le bruit et le mouvement. Les forcer, c'est risquer qu'ils se retiennent ou aillent sur votre tapis.
 
-Dernier point : "automatique" ne veut pas dire "aucun entretien". Il faut vider le bac à déchets, nettoyer le mécanisme au moins une fois par mois, et remplacer la litière. C'est quand même bien moins contraignant qu'un bac classique.
+Dernier point : "automatique" ne veut pas dire "[aucun entretien](/guides/litiere-automatique-entretien-nettoyage/)". Il faut vider le bac à déchets, nettoyer le mécanisme au moins une fois par mois, et remplacer la litière. C'est quand même bien moins contraignant qu'un bac classique.
 
 ## Quel modèle pour quel profil ?
 

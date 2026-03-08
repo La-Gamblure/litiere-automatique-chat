@@ -167,6 +167,24 @@ const budgetRanges = [
       <FAQ items={category.faq} />
     )}
 
+    <section class="mt-12">
+      <h2 class="text-2xl font-bold text-slate-900 mb-6">Guides utiles</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        <a href="/guides/comment-choisir-litiere-automatique/" class="block bg-white border border-slate-200 rounded-lg p-4 hover:shadow-md hover:border-emerald-200 transition-all duration-200">
+          <span class="font-medium text-slate-900 text-sm">Comment choisir sa litière automatique</span>
+          <span class="block text-xs text-slate-500 mt-1">Guide d'achat complet &rarr;</span>
+        </a>
+        <a href="/guides/litiere-automatique-entretien-nettoyage/" class="block bg-white border border-slate-200 rounded-lg p-4 hover:shadow-md hover:border-emerald-200 transition-all duration-200">
+          <span class="font-medium text-slate-900 text-sm">Entretien et nettoyage</span>
+          <span class="block text-xs text-slate-500 mt-1">Prolongez la durée de vie &rarr;</span>
+        </a>
+        <a href="/guides/cout-litiere-automatique-budget/" class="block bg-white border border-slate-200 rounded-lg p-4 hover:shadow-md hover:border-emerald-200 transition-all duration-200">
+          <span class="font-medium text-slate-900 text-sm">Budget complet</span>
+          <span class="block text-xs text-slate-500 mt-1">Achat + consommables &rarr;</span>
+        </a>
+      </div>
+    </section>
+
     {relatedCats.length > 0 && (
       <section class="mt-12">
         <h2 class="text-2xl font-bold text-slate-900 mb-6">Comparatifs similaires</h2>

@@ -27,7 +27,7 @@ L'app PetSnowy (iOS/Android) est correcte sans être exceptionnelle :
 - **Mode nuit** : suspension des cycles
 - **Historique** : fréquence d'utilisation
 
-L'app ne propose pas de suivi santé ni d'identification multi-chats. C'est fonctionnel mais basique comparé au PETKIT ou au Litter-Robot. La connexion Wi-Fi est stable.
+L'app ne propose pas de suivi santé ni d'identification multi-chats. C'est fonctionnel mais basique comparé au PETKIT ou au Litter-Robot (voir notre [comparatif des apps](/guides/litiere-automatique-connectee-app/)). La connexion Wi-Fi est stable.
 
 ## Niveau sonore
 
@@ -44,7 +44,7 @@ L'entretien est simplifié par le sac auto-fermant :
 - **Bac** : quasiment pas de nettoyage grâce au sac
 - **Recharges sacs** : environ 15 € pour 20 sacs
 
-Le coût mensuel : litière agglomérante (15-20 €) + sacs auto-fermants (~5 €/mois) + sacs poubelle classiques pour le bac (3 €). Le système de sac propriétaire ajoute un léger surcoût mais le confort d'utilisation le justifie.
+Le coût mensuel : litière agglomérante (15-20 €) + sacs auto-fermants (~5 €/mois) + sacs poubelle classiques pour le bac (3 €). Le système de sac propriétaire ajoute un léger surcoût mais le confort d'utilisation le justifie. Notre [guide budget litière automatique](/guides/cout-litiere-automatique-budget/) compare tous les modèles.
 
 ## Verdict détaillé
 

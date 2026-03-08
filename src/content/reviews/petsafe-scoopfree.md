@@ -30,7 +30,7 @@ Pour d'autres, l'absence de notifications (bac plein, erreur) est un manque. Il 
 
 ## Niveau sonore
 
-Le mécanisme à râteau du ScoopFree est le plus silencieux du comparatif : 40 dB. C'est à peine audible, comparable au ronronnement d'un chat. Le mouvement est lent et linéaire, sans la rotation mécanique des modèles à tambour.
+Le mécanisme à râteau du ScoopFree est le plus silencieux du comparatif : 40 dB (voir notre [classement des litières les plus silencieuses](/guides/litiere-automatique-silencieuse/)). C'est à peine audible, comparable au ronronnement d'un chat. Le mouvement est lent et linéaire, sans la rotation mécanique des modèles à tambour.
 
 Le cycle dure environ 30 secondes — bien plus court que les 2-3 minutes des litières à rotation. Le bruit est si discret que la plupart des chats n'y réagissent pas du tout, même les plus craintifs.
 
@@ -42,7 +42,7 @@ C'est le point fort du ScoopFree : l'entretien le plus simple du marché.
 - **Râteau** : essuyage occasionnel si des résidus s'y collent
 - **Bac** : aucun nettoyage si on utilise les bacs jetables
 
-Le coût des bacs jetables est le point à surveiller : 15-20 € par bac, soit 15-40 €/mois selon la fréquence de remplacement. C'est plus cher que la litière agglomérante à long terme. Des bacs rechargeables compatibles existent pour réduire ce coût.
+Le coût des bacs jetables est le point à surveiller : 15-20 € par bac, soit 15-40 €/mois selon la fréquence de remplacement. C'est plus cher que la litière agglomérante à long terme (voir notre [analyse complète des coûts](/guides/cout-litiere-automatique-budget/)). Des bacs rechargeables compatibles existent pour réduire ce coût.
 
 ## Verdict détaillé
 

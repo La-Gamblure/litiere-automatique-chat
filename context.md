@@ -48,7 +48,8 @@ Site de comparatif indépendant de litières automatiques pour chat. Monetisatio
 - Phase 2B fiches produit : DONE — 7 fiches /avis/[slug]/ avec tous les composants
 - Phase 2B quiz : DONE — /quiz/ + modal + CF Function
 - Phase 2B YouTube outlines : DONE (11 outlines dans docs/youtube/)
-- 29 pages generees, build en 2s
+- Phase 2C guides + maillage : DONE — 8 nouveaux guides, maillage interne complet (guides ↔ reviews ↔ comparatifs ↔ quiz)
+- 37 pages generees, build en ~1s
 - Site live : https://litiere-auto.pages.dev
 - GitHub : https://github.com/La-Gamblure/litiere-automatique-chat
 
@@ -61,8 +62,6 @@ Site de comparatif indépendant de litières automatiques pour chat. Monetisatio
 ## Prochaines etapes
 - Creer le KV namespace QUIZ_EMAILS dans le dashboard CF et mettre a jour wrangler.toml
 - Deployer sur CF Pages avec les Functions
-- 5-10 articles guides supplementaires
-- Maillage interne (guides <-> fiches produit <-> comparatifs)
 - Images Cloudinary
 - Custom domain
 - Backlinks, GEO

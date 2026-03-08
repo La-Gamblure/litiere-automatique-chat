@@ -14,7 +14,7 @@ L'intérieur du tambour est spacieux grâce au volume de 90L. Les chats ont plus
 
 Le mécanisme de rotation tamise la litière et évacue les agglomérats dans le bac inférieur. Cycle de nettoyage : environ 3 minutes. Délai post-visite configurable via l'app.
 
-Avec 90L de capacité, c'est la litière qui tolère le plus de chats sans vidange fréquente. Pour un chat : vidange tous les 10-12 jours. Pour deux chats : 6-7 jours. Pour trois chats : 4-5 jours. C'est le modèle à privilégier pour les foyers multi-chats avec un budget limité.
+Avec 90L de capacité, c'est la litière qui tolère le plus de chats sans vidange fréquente. Pour un chat : vidange tous les 10-12 jours. Pour deux chats : 6-7 jours. Pour trois chats : 4-5 jours. C'est le modèle à privilégier pour les [foyers multi-chats](/guides/litiere-automatique-plusieurs-chats/) avec un budget limité.
 
 Les 6 niveaux de sécurité (capteur de poids, infrarouge, anti-pincement, détection de bourrage, protection moteur, arrêt d'urgence) sont complets pour le prix.
 
@@ -50,7 +50,7 @@ L'entretien est facilité par la grande ouverture :
 - **Filtre de désodorisation** : remplacement tous les 2-3 mois
 - **Capteurs** : essuyage occasionnel
 
-Le grand volume du tambour rend le nettoyage intérieur plus facile que sur les modèles compacts. Pas de recoins inaccessibles.
+Le grand volume du tambour rend le nettoyage intérieur plus facile que sur les modèles compacts. Pas de recoins inaccessibles. Retrouvez toutes les étapes dans notre [guide d'entretien](/guides/litiere-automatique-entretien-nettoyage/).
 
 Coût mensuel : litière agglomérante (15-25 € — consommation légèrement plus élevée pour remplir les 90L) + sacs (3-5 €) + filtre (~3 €/mois amorti).
 

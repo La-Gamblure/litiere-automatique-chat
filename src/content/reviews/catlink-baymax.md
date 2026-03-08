@@ -28,7 +28,7 @@ L'app CATLINK (iOS/Android) est la bonne surprise de ce modèle :
 - **Notifications** : bac plein, anomalie, visite inhabituellement longue
 - **Multi-chats** : distinction par le poids
 
-Le suivi santé par le poids est un atout rare à moins de 310 €. La courbe d'évolution pondérale permet de détecter un changement de comportement alimentaire ou un problème de santé naissant.
+Le suivi santé par le poids est un atout rare à moins de 310 €. La courbe d'évolution pondérale permet de détecter un changement de comportement alimentaire ou un problème de santé naissant. Pour en savoir plus, consultez notre [comparatif des apps connectées](/guides/litiere-automatique-connectee-app/).
 
 L'interface est en français, claire, sans bloatware. La connexion Wi-Fi 2.4 GHz est fiable.
 
@@ -48,7 +48,7 @@ L'entretien est simple et peu coûteux :
 
 Pas de consommable propriétaire, pas de spray à racheter, pas de filtre spécifique. Litière agglomérante standard + sacs poubelle classiques.
 
-Coût mensuel : litière (15-20 €) + sacs (3-5 €). Le budget d'entretien le plus bas de notre comparatif.
+Coût mensuel : litière (15-20 €) + sacs (3-5 €). Le budget d'entretien le plus bas de notre comparatif. Notre [guide du budget litière automatique](/guides/cout-litiere-automatique-budget/) détaille tous les coûts.
 
 ## Verdict détaillé
 

@@ -28,7 +28,7 @@ L'app PETKIT (iOS/Android) offre un contrôle complet :
 - **Programmation** : cycles planifiés, mode nuit, mode vacances
 - **Alertes** : bac plein, niveau de litière bas, erreur moteur
 
-La connexion Wi-Fi 2.4 GHz fonctionne bien. L'app est traduite en français, avec une interface claire. Seul bémol : les notifications peuvent être un peu envahissantes par défaut — pensez à les configurer.
+La connexion Wi-Fi 2.4 GHz fonctionne bien. L'app est traduite en français, avec une interface claire. Seul bémol : les notifications peuvent être un peu envahissantes par défaut — pensez à les configurer. Pour un comparatif détaillé des apps, consultez notre [guide des litières connectées](/guides/litiere-automatique-connectee-app/).
 
 ## Niveau sonore
 
@@ -45,7 +45,7 @@ L'entretien est bien pensé :
 - **Spray N50** : recharge tous les 3 mois (~15 €)
 - **Capteurs** : essuyage occasionnel si la litière y adhère
 
-Le tambour se retire en quelques secondes pour un nettoyage complet. Les capteurs xSecure sont accessibles sans outil. Le coût mensuel total : litière agglomérante (15-20 €) + sacs (5 €) + recharge N50 (5 €/mois amorti).
+Le tambour se retire en quelques secondes pour un nettoyage complet. Les capteurs xSecure sont accessibles sans outil. Notre [guide d'entretien](/guides/litiere-automatique-entretien-nettoyage/) détaille la procédure complète. Le coût mensuel total : litière agglomérante (15-20 €) + sacs (5 €) + recharge N50 (5 €/mois amorti).
 
 ## Verdict détaillé
 

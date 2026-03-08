@@ -30,6 +30,7 @@ const guides = defineCollection({
       )
       .default([]),
     related_categories: z.array(z.string()).default([]),
+    related_guides: z.array(z.string()).default([]),
   }),
 });
 

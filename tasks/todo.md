@@ -57,8 +57,8 @@
 - [ ] Creer KV namespace QUIZ_EMAILS dans CF dashboard
 - [ ] Remplacer liens affiliation placeholder par vrais liens
 - [ ] Deploy CF Pages avec Functions
-- [ ] 5-10 articles guides supplementaires
-- [ ] Maillage interne
+- [x] 8 articles guides (entretien, habituer, grand chat, silencieuse, connectee, multi-chats, budget, problemes)
+- [x] Maillage interne (guides ↔ reviews ↔ comparatifs ↔ quiz)
 - [ ] Images Cloudinary
 - [ ] Custom domain
 - [ ] Backlinks, GEO

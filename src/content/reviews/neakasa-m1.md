@@ -16,7 +16,7 @@ Le Neakasa M1 utilise un mécanisme de rotation classique : le tambour tourne ap
 
 La capacité de 65L est dans la moyenne haute. Pour un chat seul, comptez une vidange tous les 7-8 jours. Pour deux chats, 4-5 jours. La garantie 2 ans pièces est un argument rassurant pour un produit de cette gamme de prix.
 
-L'ouverture extra-large change réellement l'expérience pour les propriétaires de grands chats. Là où d'autres modèles forcent un chat de 8+ kg à se contorsionner, le Neakasa M1 offre un accès confortable.
+L'ouverture extra-large change réellement l'expérience pour les propriétaires de grands chats. Là où d'autres modèles forcent un chat de 8+ kg à se contorsionner, le Neakasa M1 offre un accès confortable. Consultez notre [guide litière automatique pour grand chat](/guides/litiere-automatique-grand-chat-xxl/) pour les détails.
 
 ## App et connectivité
 
@@ -33,7 +33,7 @@ Pour qui l'app minimaliste suffit amplement : les propriétaires d'un ou deux ch
 
 ## Niveau sonore
 
-C'est le point fort majeur du Neakasa M1 : 45 dB en fonctionnement. C'est le modèle le plus silencieux de notre comparatif, plus discret qu'un réfrigérateur.
+C'est le point fort majeur du Neakasa M1 : 45 dB en fonctionnement. C'est le modèle le plus silencieux de notre comparatif (voir notre [classement des litières les plus silencieuses](/guides/litiere-automatique-silencieuse/)), plus discret qu'un réfrigérateur.
 
 Le bruit se résume à un léger ronronnement pendant la rotation. Aucun claquement, aucun grincement. Pour les foyers où la litière est dans un espace de vie ou une chambre, c'est un critère décisif.
 
