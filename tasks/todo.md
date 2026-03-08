@@ -10,21 +10,23 @@
 - [x] Homepage (hero, grille categories, trust signals, FAQ, JSON-LD)
 - [x] Hub /litieres-automatiques/ (grille groupee, methode)
 - [x] Page comparatif [slug].astro (produits, filtres budget, FAQ, related)
-- [x] 3 categories JSON (meilleure, pas-cher, fermee) + 6 produits principal
-- [x] Redirects /go/ (10 liens affiliation)
+- [x] 3 categories JSON (meilleure 7 produits, pas-cher 3, fermee 4)
+- [x] Redirects /go/ (11 liens affiliation)
+- [x] Produits mis a jour avec recherche Exa (prix verifies, vrais best-sellers)
 - [x] Legal (mentions legales, confidentialite, a-propos)
 - [x] robots.txt, favicon.svg
 - [x] config.ts (constantes site)
 - [x] global.css (Tailwind v4)
 
+- [x] npm install + npm run build (18 pages, 607ms)
+- [x] Git init + commit initial + push GitHub (La-Gamblure/litiere-automatique-chat)
+- [x] Deploy Netlify — https://litiere-auto.netlify.app (site ID: b347e54a-ac2f-43bd-ab24-5297058efbd4)
+
 ### TODO
-- [ ] npm install + npm run build (valider build)
-- [ ] Deploy Netlify
 - [ ] Google Search Console - soumettre sitemap
 - [ ] Remplacer liens affiliation placeholder par vrais liens
 - [ ] Completer infos editeur dans mentions legales
 - [ ] Generer og-default.png
-- [ ] Git init + commit initial + push GitHub
 
 ## Phase 2
 - [ ] Articles guides (Content Collections Markdown)
