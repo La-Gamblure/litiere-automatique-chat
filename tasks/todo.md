@@ -1,8 +1,7 @@
 # Litière Automatique Chat - TODO
 
-## Phase 1 (MVP)
+## Phase 1 (MVP) — DONE
 
-### DONE
 - [x] Scaffolding projet (fork Au-bon-cadeau, nettoyage)
 - [x] package.json, astro.config.mjs, tsconfig.json, netlify.toml
 - [x] BaseLayout.astro (nav, footer, OG tags, mobile menu)
@@ -12,40 +11,55 @@
 - [x] Page comparatif [slug].astro (produits, filtres budget, FAQ, related)
 - [x] 3 categories JSON (meilleure 7 produits, pas-cher 3, fermee 4)
 - [x] Redirects /go/ (11 liens affiliation)
-- [x] Produits mis a jour avec recherche Exa (prix verifies, vrais best-sellers)
+- [x] Produits mis a jour avec recherche Exa
 - [x] Legal (mentions legales, confidentialite, a-propos)
-- [x] robots.txt, favicon.svg
-- [x] config.ts (constantes site)
-- [x] global.css (Tailwind v4)
+- [x] Deploy Netlify + Cloudflare Pages
 
-- [x] npm install + npm run build (18 pages, 607ms)
-- [x] Git init + commit initial + push GitHub (La-Gamblure/litiere-automatique-chat)
-- [x] Deploy Netlify — https://litiere-auto.netlify.app (site ID: b347e54a-ac2f-43bd-ab24-5297058efbd4)
+## Phase 2A (Content Collections) — DONE
 
-### TODO
-- [ ] Google Search Console - soumettre sitemap
-- [ ] Remplacer liens affiliation placeholder par vrais liens
-- [ ] Completer infos editeur dans mentions legales
-- [ ] Generer og-default.png
-
-## Phase 2
 - [x] Content Collections setup (content.config.ts, schema Zod, glob loader)
-- [x] ArticleLayout.astro (JSON-LD Article, breadcrumbs, TOC, FAQ, related categories)
-- [x] TableOfContents.astro (sticky sidebar, H2/H3)
+- [x] ArticleLayout.astro (JSON-LD Article, breadcrumbs, TOC, FAQ, related)
 - [x] Route dynamique guides/[slug].astro
-- [x] Page listing guides/index.astro
-- [x] Prose styles dans global.css
-- [x] Nav "Guides" dans header + footer
-- [x] Section "Nos derniers guides" sur homepage
-- [x] Premier article draft : comment-choisir-litiere-automatique.md (~1500 mots)
-- [x] Passer l'article par /humanizer et publier (draft: false)
-- [x] Migration Cloudflare Pages (wrangler.toml, _headers, npm run deploy)
-- [ ] 5-10 articles P1 (types litiere, fermee, XXL, distributeurs)
+- [x] Premier article : comment-choisir-litiere-automatique.md
+
+## Phase 2B (Fiches Produit + Quiz + YouTube) — EN COURS
+
+### Module 1 : Data enrichment — DONE
+- [x] src/data/products.json (7 produits, specs, quiz_attributes)
+- [x] src/utils/products.ts (helpers, types)
+- [x] src/utils/criteria.ts (labels FR, ordre)
+
+### Module 2 : Fiches produit /avis/[slug]/ — DONE
+- [x] Review JSON pour les 7 produits (src/data/reviews/)
+- [x] Review markdown pour les 7 produits (src/content/reviews/)
+- [x] Collection reviews dans content.config.ts
+- [x] 8 composants review/ (VerdictBox, CriteriaRatings, ProsCons, InlineCTA, PriceComparisonTable, RecommendationBox, RelatedProducts, StickyMobileCTA)
+- [x] ProductJsonLd (schema Product + Review + AggregateOffer)
+- [x] Page /avis/[slug].astro (route dynamique)
+- [x] ProductCard : lien conditionnel "Lire notre avis"
+
+### Module 3 : Quiz — DONE
+- [x] quiz-engine.js (questions, scoring, recommendations)
+- [x] quiz-renderer.js (DOM rendering, progress, result, email form)
+- [x] Page /quiz/ (standalone)
+- [x] QuizModal (<dialog>, data-quiz-trigger)
+- [x] QuizModal integre dans BaseLayout
+- [x] CTA quiz sur homepage hero + comparatifs
+- [x] CF Pages Function /api/quiz-email (KV storage)
+- [x] wrangler.toml avec binding QUIZ_EMAILS
+
+### Module 4 : YouTube outlines — EN COURS
+- [ ] 4 outlines generaux (guide achat, top 7, pas cher, fermee)
+- [ ] 7 outlines produit (1 par fiche)
+
+## TODO restant
+
+- [ ] Creer KV namespace QUIZ_EMAILS dans CF dashboard
+- [ ] Remplacer liens affiliation placeholder par vrais liens
+- [ ] Deploy CF Pages avec Functions
+- [ ] 5-10 articles guides supplementaires
 - [ ] Maillage interne
 - [ ] Images Cloudinary
-- [ ] CloudinaryImage.astro component
-
-## Phase 3
 - [ ] Custom domain
-- [ ] Backlinks
-- [ ] GEO optimization
+- [ ] Backlinks, GEO
+- [ ] Google Search Console - soumettre sitemap
