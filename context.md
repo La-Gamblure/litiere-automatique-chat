@@ -47,7 +47,7 @@ Site de comparatif indépendant de litières automatiques pour chat. Monetisatio
 - Phase 2A content collections : DONE
 - Phase 2B fiches produit : DONE — 7 fiches /avis/[slug]/ avec tous les composants
 - Phase 2B quiz : DONE — /quiz/ + modal + CF Function
-- Phase 2B YouTube outlines : EN COURS
+- Phase 2B YouTube outlines : DONE (11 outlines dans docs/youtube/)
 - 29 pages generees, build en 2s
 - Site live : https://litiere-auto.pages.dev
 - GitHub : https://github.com/La-Gamblure/litiere-automatique-chat

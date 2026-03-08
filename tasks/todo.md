@@ -48,9 +48,9 @@
 - [x] CF Pages Function /api/quiz-email (KV storage)
 - [x] wrangler.toml avec binding QUIZ_EMAILS
 
-### Module 4 : YouTube outlines — EN COURS
-- [ ] 4 outlines generaux (guide achat, top 7, pas cher, fermee)
-- [ ] 7 outlines produit (1 par fiche)
+### Module 4 : YouTube outlines — DONE
+- [x] 4 outlines generaux (guide achat, top 7, pas cher, fermee)
+- [x] 7 outlines produit (1 par fiche)
 
 ## TODO restant
 
