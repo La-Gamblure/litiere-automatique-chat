@@ -57,6 +57,8 @@ Quelques astuces supplémentaires : mettez un peu de litière usagée de l'ancie
 
 Si après deux semaines votre chat refuse toujours, le problème est peut-être le format. Certains chats détestent les espaces fermés. Le [Litter-Robot 4](/avis/litter-robot-4/) a une entrée assez large qui aide. Le [PetSafe ScoopFree](/avis/petsafe-scoopfree/) est ouvert, ce qui convient mieux aux chats anxieux.
 
+👉 [Voir le Litter-Robot 4 au meilleur prix](/go/litter-robot-4/) | [Voir le PetSafe ScoopFree au meilleur prix](/go/petsafe-scoopfree/)
+
 Pour un protocole complet étape par étape, consultez notre guide [Comment habituer son chat à la litière automatique](/guides/habituer-chat-litiere-automatique/).
 
 ## Problème #4 — Mauvaises odeurs malgré le nettoyage auto
@@ -111,6 +113,8 @@ La machine ne détecte pas votre chat, ou se déclenche toute seule sans raison.
 
 **Recalibrez.** La plupart des modèles ont une procédure de recalibrage dans l'app ou via une combinaison de boutons. Sur le [PETKIT Pura Max 2](/avis/petkit-pura-max-2/) (poids max 8 kg), c'est dans les réglages de l'app. Sur le [Litter-Robot 4](/avis/litter-robot-4/) (11 kg max), maintenez le bouton "Cycle" 5 secondes avec le bac vide.
 
+👉 [Voir le PETKIT Pura Max 2 au meilleur prix](/go/petkit-pura-max-2/) | [Voir le Litter-Robot 4 au meilleur prix](/go/litter-robot-4/)
+
 **Nettoyez les contacts.** Les capteurs de poids sont en contact avec le sol ou la base. De la poussière, de la litière renversée ou un tapis sous la machine peuvent fausser la mesure. Nettoyez et posez la machine sur une surface dure et plane.
 
 **Chat trop léger.** Les capteurs de poids ont un seuil minimum, généralement autour de 1,5 kg. Pour un chaton en dessous de ce poids, attendez qu'il grandisse ou utilisez un bac classique en attendant.
@@ -141,15 +145,15 @@ Si rien ne fonctionne, c'est probablement la carte électronique. Direction SAV.
 
 Avant de tenter une réparation, vérifiez votre garantie. Ouvrir la machine peut l'annuler sur certains modèles.
 
-| Marque | Garantie | SAV en France | Remarques |
-|--------|----------|---------------|-----------|
-| [Litter-Robot](/avis/litter-robot-4/) | 2 ans | Oui (via distributeur EU) | Garantie étendue disponible |
-| [PETKIT](/avis/petkit-pura-max-2/) | 1 an | Oui (PETKIT Europe) | Réactif par email |
-| [Neakasa](/avis/neakasa-m1/) | 1 an | Via Amazon principalement | Remplacement rapide via Amazon |
-| [CATLINK](/avis/catlink-baymax/) | 1 an | Limité (distributeur EU) | Délais plus longs |
-| [Devoko](/avis/devoko-90l/) | 1 an | Via Amazon | SAV correct |
-| [PetSafe](/avis/petsafe-scoopfree/) | 1 an | Oui (PetSafe Europe) | Marque bien implantée en France |
-| [PetSnowy](/avis/petsnowy-snow-plus/) | 1 an | Via site officiel | Peut être lent hors US |
+| Marque | Garantie | SAV en France | Remarques | Offre |
+|--------|----------|---------------|-----------|:---:|
+| [Litter-Robot](/avis/litter-robot-4/) | 2 ans | Oui (via distributeur EU) | Garantie étendue disponible | [Voir le prix](/go/litter-robot-4/) |
+| [PETKIT](/avis/petkit-pura-max-2/) | 1 an | Oui (PETKIT Europe) | Réactif par email | [Voir le prix](/go/petkit-pura-max-2/) |
+| [Neakasa](/avis/neakasa-m1/) | 1 an | Via Amazon principalement | Remplacement rapide via Amazon | [Voir le prix](/go/neakasa-m1/) |
+| [CATLINK](/avis/catlink-baymax/) | 1 an | Limité (distributeur EU) | Délais plus longs | [Voir le prix](/go/catlink-baymax/) |
+| [Devoko](/avis/devoko-90l/) | 1 an | Via Amazon | SAV correct | [Voir le prix](/go/devoko-90l/) |
+| [PetSafe](/avis/petsafe-scoopfree/) | 1 an | Oui (PetSafe Europe) | Marque bien implantée en France | [Voir le prix](/go/petsafe-scoopfree/) |
+| [PetSnowy](/avis/petsnowy-snow-plus/) | 1 an | Via site officiel | Peut être lent hors US | [Voir le prix](/go/petsnowy-snow-plus/) |
 
 **Conseil :** achetez sur Amazon quand c'est possible. Le retour 30 jours et la politique de remplacement d'Amazon sont bien plus simples que le SAV constructeur pour la plupart des marques.
 

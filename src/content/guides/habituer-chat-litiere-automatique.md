@@ -90,6 +90,8 @@ Tous les modèles ne sont pas égaux face à un chat méfiant. D'après les reto
 
 Le [PetSafe ScoopFree](/avis/petsafe-scoopfree/) (40 dB, 149-179 €) est le plus silencieux de tous avec son râteau discret. Mais ses cristaux de silice ont une texture inhabituelle que certains chats n'aiment pas. C'est un autre type de transition.
 
+👉 [Voir le Litter-Robot 4 au meilleur prix](/go/litter-robot-4/) | 👉 [Voir le Neakasa M1 au meilleur prix](/go/neakasa-m1/) | 👉 [Voir le Devoko 90L au meilleur prix](/go/devoko-90l/)
+
 ## Cas particuliers
 
 ### Les chatons (moins de 6 mois)
@@ -102,7 +104,7 @@ Attention cependant : les chatons de moins de 1,5 kg ne sont pas détectés par 
 
 La transition prend souvent 2 à 4 semaines. Les chats âgés sont plus attachés à leurs routines et plus sensibles au stress. Quelques ajustements :
 
-- Privilégiez un modèle silencieux : le [Neakasa M1](/avis/neakasa-m1/) à 45 dB ou le [PetSafe ScoopFree](/avis/petsafe-scoopfree/) à 40 dB.
+- Privilégiez un modèle silencieux : le [Neakasa M1](/avis/neakasa-m1/) à 45 dB ([voir le prix](/go/neakasa-m1/)) ou le [PetSafe ScoopFree](/avis/petsafe-scoopfree/) à 40 dB ([voir le prix](/go/petsafe-scoopfree/)).
 - Gardez l'ancien bac plus longtemps (3-4 semaines au lieu de 2).
 - Si votre chat a de l'arthrose, vérifiez la hauteur de l'entrée. Certains modèles ont un seuil assez haut qui peut gêner un chat qui a du mal à sauter.
 
@@ -121,7 +123,7 @@ Avec plusieurs chats, la transition est souvent plus facile parce qu'il suffit q
 
 La règle du nombre de bacs reste valable : nombre de chats + 1. Si vous avez 2 chats, prévoyez la litière automatique + 1 bac classique, au moins pendant les premières semaines.
 
-Le [Litter-Robot 4](/avis/litter-robot-4/) avec sa capacité de 57 litres et son support jusqu'à 11 kg est le plus adapté aux foyers multi-chats. Le [PETKIT Pura Max 2](/avis/petkit-pura-max-2/) (60 litres, 8 kg max) convient aussi si vos chats sont de gabarit normal.
+Le [Litter-Robot 4](/avis/litter-robot-4/) avec sa capacité de 57 litres et son support jusqu'à 11 kg est le plus adapté aux foyers multi-chats ([voir le prix](/go/litter-robot-4/)). Le [PETKIT Pura Max 2](/avis/petkit-pura-max-2/) (60 litres, 8 kg max) convient aussi si vos chats sont de gabarit normal ([voir le prix](/go/petkit-pura-max-2/)).
 
 ## Les erreurs à éviter
 

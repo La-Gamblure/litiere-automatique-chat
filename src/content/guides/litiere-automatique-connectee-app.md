@@ -46,12 +46,12 @@ Est-ce que ça justifie de payer plus cher ? Pas toujours. Mais si vous avez un 
 
 On a évalué chaque application sur cinq critères : les notifications (fiabilité et pertinence), le suivi santé (données collectées et leur utilité), la gestion multi-chats (identification individuelle), la compatibilité domotique (Alexa, Google Home), et la qualité générale de l'interface.
 
-| Modèle | App | Notifications | Suivi santé | Multi-chats | Domotique | Note |
-|--------|-----|:---:|:---:|:---:|:---:|:---:|
-| [Litter-Robot 4](/avis/litter-robot-4/) | Whisker | Oui | Poids + fréquence | Oui (individuel) | Alexa, Google | 4.5/5 |
-| [PETKIT Pura Max 2](/avis/petkit-pura-max-2/) | PETKIT | Oui | Fréquence + durée | Oui | Alexa | 4/5 |
-| [CATLINK Baymax](/avis/catlink-baymax/) | CATLINK | Oui | 7 capteurs, rapport | Oui (par poids) | Non | 3.5/5 |
-| [PetSnowy SNOW+](/avis/petsnowy-snow-plus/) | PetSnowy | Oui | Basique | Non | Non | 2.5/5 |
+| Modèle | App | Notifications | Suivi santé | Multi-chats | Domotique | Note | Offre |
+|--------|-----|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Litter-Robot 4](/avis/litter-robot-4/) | Whisker | Oui | Poids + fréquence | Oui (individuel) | Alexa, Google | 4.5/5 | [Voir le prix](/go/litter-robot-4/) |
+| [PETKIT Pura Max 2](/avis/petkit-pura-max-2/) | PETKIT | Oui | Fréquence + durée | Oui | Alexa | 4/5 | [Voir le prix](/go/petkit-pura-max-2/) |
+| [CATLINK Baymax](/avis/catlink-baymax/) | CATLINK | Oui | 7 capteurs, rapport | Oui (par poids) | Non | 3.5/5 | [Voir le prix](/go/catlink-baymax/) |
+| [PetSnowy SNOW+](/avis/petsnowy-snow-plus/) | PetSnowy | Oui | Basique | Non | Non | 2.5/5 | [Voir le prix](/go/petsnowy-snow-plus/) |
 
 ### 1. Whisker (Litter-Robot 4) — la référence
 
@@ -117,10 +117,18 @@ Tous les modèles n'ont pas besoin d'être connectés. Trois références de not
 
 **Budget premium (749-899 €)** : le [Litter-Robot 4](/avis/litter-robot-4/) avec l'app Whisker. Le suivi de poids individuel et l'intégration domotique en font la solution la plus complète pour les foyers multi-chats ou les propriétaires attentifs.
 
+👉 [Voir le Litter-Robot 4 au meilleur prix](/go/litter-robot-4/)
+
 **Budget malin (399-449 €)** : le [PETKIT Pura Max 2](/avis/petkit-pura-max-2/) offre 80 % des fonctionnalités connectées du Litter-Robot pour la moitié du prix. L'app est solide, les notifications fiables, et le spray N50 est un bonus appréciable.
+
+👉 [Voir le PETKIT Pura Max 2 au meilleur prix](/go/petkit-pura-max-2/)
 
 **Budget données santé (279-309 €)** : le [CATLINK Baymax](/avis/catlink-baymax/) si le suivi santé est votre priorité. Ses 7 capteurs et rapports détaillés rivalisent avec des modèles plus chers, même si l'app manque un peu de polish.
 
+👉 [Voir le CATLINK Baymax au meilleur prix](/go/catlink-baymax/)
+
 **Budget minimal** : oubliez l'app. Le [Neakasa M1](/avis/neakasa-m1/) à 199-249 € fait le job sans Wi-Fi et sans complication.
+
+👉 [Voir le Neakasa M1 au meilleur prix](/go/neakasa-m1/)
 
 Pas sûr de ce qui vous convient ? Notre [quiz interactif](/quiz/) vous oriente en 2 minutes. Et pour le comparatif complet de tous les modèles, c'est par [ici](/litieres-automatiques/meilleure-litiere-automatique/).

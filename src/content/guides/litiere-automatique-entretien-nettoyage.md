@@ -68,6 +68,8 @@ Débranchez la machine. Toujours. Retirez toute la litière restante (gardez-la 
 
 **Râteau mécanique ([PetSafe ScoopFree](/avis/petsafe-scoopfree/))** : retirez le bac prérempli usagé. Nettoyez le râteau et ses rails. Les cristaux de silice du PetSafe ne produisent pas d'agglomérats, mais le râteau accumule des résidus collants avec le temps. Un coup de brosse à dents sur les dents du peigne fait des miracles.
 
+👉 [Voir le Litter-Robot 4 au meilleur prix](/go/litter-robot-4/) | 👉 [Voir le Neakasa M1 au meilleur prix](/go/neakasa-m1/) | 👉 [Voir le PetSafe ScoopFree au meilleur prix](/go/petsafe-scoopfree/)
+
 ### Les produits à utiliser (et ceux à éviter)
 
 **Oui :** eau tiède + savon doux (type savon de Marseille), vinaigre blanc dilué (50/50 avec de l'eau), lingettes sans parfum pour les zones difficiles d'accès.
@@ -87,6 +89,16 @@ Chaque litière automatique a ses consommables. Les oublier, c'est comme ne jama
 **Sacs à déchets** : certains modèles imposent des sacs propriétaires. D'autres acceptent des sacs poubelle classiques. Vérifiez avant d'acheter, la différence de coût sur un an est significative.
 
 **Bacs préremplis (PetSafe)** : le [PetSafe ScoopFree](/avis/petsafe-scoopfree/) fonctionne avec des bacs de cristaux jetables à 15-20 € pièce, remplacés toutes les 2-4 semaines. C'est pratique mais c'est le système le plus cher en consommables sur la durée.
+
+| Modèle | Filtres / 3 mois | Sacs / mois | Consommable spécial | |
+|--------|-----------------|-------------|--------------------|-|
+| [Litter-Robot 4](/avis/litter-robot-4/) | ~12 € | Sacs standards | — | [Voir le prix](/go/litter-robot-4/) |
+| [PETKIT Pura Max 2](/avis/petkit-pura-max-2/) | ~10 € | 2-3 € | Spray N50 ~15 €/3 mois | [Voir le prix](/go/petkit-pura-max-2/) |
+| [Neakasa M1](/avis/neakasa-m1/) | ~5 € | Sacs standards | — | [Voir le prix](/go/neakasa-m1/) |
+| [CATLINK Baymax](/avis/catlink-baymax/) | ~8 € | 2-3 € | — | [Voir le prix](/go/catlink-baymax/) |
+| [Devoko 90L](/avis/devoko-90l/) | ~5 € | 2-3 € | Filtre déso. ~3 €/mois | [Voir le prix](/go/devoko-90l/) |
+| [PetSafe ScoopFree](/avis/petsafe-scoopfree/) | — | — | Bac cristaux 15-20 €/mois | [Voir le prix](/go/petsafe-scoopfree/) |
+| [PetSnowy SNOW+](/avis/petsnowy-snow-plus/) | ~10 € | Sacs auto-fermants ~5 € | — | [Voir le prix](/go/petsnowy-snow-plus/) |
 
 Pour un calcul détaillé du coût total de possession, consultez notre guide dédié au [budget litière automatique](/guides/cout-litiere-automatique-budget/).
 
@@ -134,3 +146,11 @@ Au final, on parle d'environ 15 minutes par semaine en moyenne. C'est très loin
 L'entretien varie beaucoup d'un modèle à l'autre. Les machines avec un démontage simple et des pièces compatibles lave-vaisselle (comme le bac du Litter-Robot 4) facilitent la vie. Celles avec beaucoup de recoins et des pièces propriétaires la compliquent.
 
 Si la facilité d'entretien est un critère important pour vous, consultez notre [comparatif des meilleures litières automatiques](/litieres-automatiques/meilleure-litiere-automatique/) où on note chaque modèle sur ce point. Et si vous ne savez pas par où commencer, notre [quiz](/quiz/) vous orientera vers le modèle adapté à vos priorités en moins de 2 minutes.
+
+Nos recommandations entretien facile :
+
+👉 [Voir le Litter-Robot 4](/go/litter-robot-4/) — démontage le plus simple, pièces lavables au lave-vaisselle
+
+👉 [Voir le Neakasa M1](/go/neakasa-m1/) — aucun consommable propriétaire, le moins cher à entretenir
+
+👉 [Voir le Devoko 90L](/go/devoko-90l/) — grand tambour = nettoyage intérieur facile

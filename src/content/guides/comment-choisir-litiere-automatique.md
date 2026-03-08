@@ -134,12 +134,12 @@ Dernier point : "automatique" ne veut pas dire "[aucun entretien](/guides/litier
 
 ## Quel modèle pour quel profil ?
 
-| Votre situation | Notre choix | Prix | En deux mots |
-|----------------|-------------|------|--------------|
-| Premier achat, budget serré | Neakasa M1 | ~200 € | Simple et fiable |
-| Un chat, budget correct | PETKIT Pura Max 2 | ~450 € | Bonne app, silencieux |
-| Gros chat ou multi-chats | Litter-Robot 4 | ~650 € | Accepte jusqu'à 11 kg |
-| Les odeurs vous obsèdent | Litière fermée | 300-500 € | Filtre charbon actif |
+| Votre situation | Notre choix | Prix | En deux mots | |
+|----------------|-------------|------|--------------|---|
+| Premier achat, budget serré | Neakasa M1 | ~200 € | Simple et fiable | [Voir le prix](/go/neakasa-m1/) |
+| Un chat, budget correct | PETKIT Pura Max 2 | ~450 € | Bonne app, silencieux | [Voir le prix](/go/petkit-pura-max-2/) |
+| Gros chat ou multi-chats | Litter-Robot 4 | ~650 € | Accepte jusqu'à 11 kg | [Voir le prix](/go/litter-robot-4/) |
+| Les odeurs vous obsèdent | Litière fermée | 300-500 € | Filtre charbon actif | [Voir le comparatif](/litieres-automatiques/fermee/) |
 
 Tous les détails dans notre [comparatif des meilleures litières automatiques](/litieres-automatiques/meilleure-litiere-automatique/).
 
