@@ -1,0 +1,105 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import { readFileSync, existsSync } from "node:fs";
+
+interface Category {
+  slug: string;
+  h1: string;
+  meta_description: string;
+  category_type: string;
+  products: any[];
+}
+
+let categories: Category[] = [];
+const categoriesPath = "src/data/categories.json";
+try {
+  if (existsSync(categoriesPath)) {
+    categories = JSON.parse(readFileSync(categoriesPath, "utf-8"));
+  }
+} catch {
+  categories = [];
+}
+
+const breadcrumbs = [
+  { label: "Accueil", href: "/" },
+  { label: "Litières Automatiques", href: "/litieres-automatiques/" },
+];
+
+const title = "Litières Automatiques Chat : Tous nos Comparatifs | LitièreAuto";
+const description = "Explorez tous nos comparatifs de litières automatiques pour chat : meilleur modèle, pas cher, fermée, pour plusieurs chats. Recommandations indépendantes et avis vérifiés.";
+
+const typeLabels: Record<string, string> = {
+  "comparatif": "Comparatifs généraux",
+  "budget": "Par budget",
+  "type": "Par type",
+};
+
+const groupedCategories = categories.reduce<Record<string, Category[]>>((acc, cat) => {
+  const type = cat.category_type || "other";
+  if (!acc[type]) acc[type] = [];
+  acc[type].push(cat);
+  return acc;
+}, {});
+
+const totalProducts = categories.reduce((sum, cat) => sum + cat.products.length, 0);
+---
+
+<BaseLayout title={title} description={description}>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <Breadcrumbs items={breadcrumbs} />
+
+    <h1 class="text-3xl sm:text-4xl font-bold text-slate-900 mb-4">Tous nos comparatifs litières automatiques</h1>
+    <p class="text-lg text-slate-600 mb-10 max-w-3xl">
+      {categories.length} comparatifs, {totalProducts} modèles analysés. Chaque recommandation est basée sur une analyse indépendante des caractéristiques techniques, des avis utilisateurs et des prix du marché.
+    </p>
+
+    {categories.length > 0 ? (
+      <div class="space-y-12">
+        {Object.entries(groupedCategories).map(([type, cats]) => (
+          <section>
+            <h2 class="text-xl font-bold text-slate-800 mb-6 pb-2 border-b border-slate-200">
+              {typeLabels[type] || type}
+            </h2>
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+              {cats.map((cat) => (
+                <a
+                  href={`/litieres-automatiques/${cat.slug}/`}
+                  class="group block bg-white border border-slate-200 rounded-xl p-6 hover:shadow-md hover:border-emerald-200 transition-all duration-200"
+                >
+                  <h3 class="font-semibold text-lg text-slate-900 group-hover:text-emerald-600 transition-colors mb-2">
+                    {cat.h1}
+                  </h3>
+                  <p class="text-sm text-slate-500 mb-3">{cat.meta_description}</p>
+                  <span class="text-sm font-medium text-emerald-600">
+                    {cat.products.length > 0 ? `${cat.products.length} modèles` : "Bientôt"} &rarr;
+                  </span>
+                </a>
+              ))}
+            </div>
+          </section>
+        ))}
+      </div>
+    ) : (
+      <p class="text-slate-500">Aucun comparatif disponible pour le moment.</p>
+    )}
+
+    <section class="mt-16 bg-slate-50 rounded-2xl p-8">
+      <h2 class="text-xl font-bold text-slate-900 mb-4">Notre méthode</h2>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-600">
+        <div>
+          <h3 class="font-semibold text-slate-800 mb-2">Analyse rigoureuse</h3>
+          <p>Chaque modèle est évalué sur des critères objectifs : fiabilité, niveau sonore, capacité, compatibilité litière et retours utilisateurs réels.</p>
+        </div>
+        <div>
+          <h3 class="font-semibold text-slate-800 mb-2">Comparaison des prix</h3>
+          <p>Nous vérifions les prix chez Amazon, les sites officiels et d'autres marchands pour vous orienter vers la meilleure offre du moment.</p>
+        </div>
+        <div>
+          <h3 class="font-semibold text-slate-800 mb-2">Pas de contenu sponsorisé</h3>
+          <p>Aucune marque ne peut acheter sa place dans nos comparatifs. Notre financement repose sur l'affiliation : une commission versée par le marchand, jamais par vous.</p>
+        </div>
+      </div>
+    </section>
+  </div>
+</BaseLayout>

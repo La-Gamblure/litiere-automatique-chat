@@ -1,0 +1,222 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import ProductCard from "../../components/ProductCard.astro";
+import FAQ from "../../components/FAQ.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import AffiliateDisclosure from "../../components/AffiliateDisclosure.astro";
+import { readFileSync, existsSync, readdirSync } from "node:fs";
+import { join } from "node:path";
+
+export function getStaticPaths() {
+  const categoriesDir = "src/data/categories";
+  let paths: { params: { slug: string }; props: { category: any } }[] = [];
+
+  try {
+    if (existsSync(categoriesDir)) {
+      const files = readdirSync(categoriesDir).filter((f: string) => f.endsWith(".json"));
+      for (const file of files) {
+        try {
+          const data = JSON.parse(readFileSync(join(categoriesDir, file), "utf-8"));
+          const slug = file.replace(".json", "");
+          paths.push({ params: { slug }, props: { category: data } });
+        } catch {
+          // Skip malformed files
+        }
+      }
+    }
+  } catch {
+    // No categories directory
+  }
+
+  return paths;
+}
+
+interface Category {
+  slug: string;
+  h1: string;
+  keyword_primary: string;
+  meta_title: string;
+  meta_description: string;
+  intro_text: string;
+  category_type: string;
+  products: any[];
+  faq: { question: string; answer: string }[];
+  related_categories: string[];
+}
+
+const { category } = Astro.props as { category: Category };
+
+// Load categories.json for related categories labels
+let allCategories: Category[] = [];
+try {
+  if (existsSync("src/data/categories.json")) {
+    allCategories = JSON.parse(readFileSync("src/data/categories.json", "utf-8"));
+  }
+} catch {
+  allCategories = [];
+}
+
+const relatedCats = (category.related_categories || [])
+  .map((slug: string) => allCategories.find((c) => c.slug === slug))
+  .filter(Boolean) as Category[];
+
+const sortedProducts = [...category.products].sort((a, b) => a.position - b.position);
+
+const breadcrumbs = [
+  { label: "Accueil", href: "/" },
+  { label: "Litières Automatiques", href: "/litieres-automatiques/" },
+  { label: category.h1, href: `/litieres-automatiques/${category.slug}/` },
+];
+
+const site = Astro.site?.origin || "https://litiere-auto.netlify.app";
+const canonicalUrl = `${site}/litieres-automatiques/${category.slug}/`;
+const collectionSchema = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  name: category.h1,
+  description: category.meta_description,
+  url: canonicalUrl,
+  mainEntity: {
+    "@type": "ItemList",
+    numberOfItems: sortedProducts.length,
+    itemListElement: sortedProducts.map((p: any, i: number) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      name: p.title,
+      url: `${site}/go/${p.slug}/`,
+    })),
+  },
+};
+
+// Budget filter ranges
+const budgetRanges = [
+  { label: "Tous les prix", min: 0, max: Infinity },
+  { label: "Moins de 200 €", min: 0, max: 200 },
+  { label: "200 - 400 €", min: 200, max: 400 },
+  { label: "400 - 600 €", min: 400, max: 600 },
+  { label: "Plus de 600 €", min: 600, max: Infinity },
+];
+---
+
+<BaseLayout title={category.meta_title} description={category.meta_description}>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(collectionSchema)} />
+  </Fragment>
+
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <Breadcrumbs items={breadcrumbs} />
+
+    <h1 class="text-3xl sm:text-4xl font-bold text-slate-900 mb-4">{category.h1}</h1>
+
+    <p class="text-lg text-slate-600 mb-6 max-w-3xl leading-relaxed">
+      {category.intro_text}
+    </p>
+
+    <AffiliateDisclosure />
+
+    <!-- Budget filter -->
+    <div class="mb-8" id="product-filters">
+      <div>
+        <label for="budget-filter" class="block text-sm font-medium text-slate-700 mb-1">Filtrer par budget</label>
+        <select
+          id="budget-filter"
+          class="w-full sm:w-auto px-3 py-2 border border-slate-300 rounded-lg text-sm text-slate-700 bg-white focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500"
+        >
+          {budgetRanges.map((range, i) => (
+            <option value={i} data-min={range.min} data-max={range.max === Infinity ? "99999" : range.max}>
+              {range.label}
+            </option>
+          ))}
+        </select>
+      </div>
+    </div>
+
+    <p id="filter-count" class="text-sm text-slate-500 mb-4"></p>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 mb-12" id="product-grid">
+      {sortedProducts.map((product) => (
+        <div
+          class="product-card"
+          data-price-min={product.price_min}
+          data-price-max={product.price_max}
+        >
+          <ProductCard product={product} />
+        </div>
+      ))}
+    </div>
+
+    <p id="no-results" class="hidden text-center text-slate-500 py-8 mb-12">
+      Aucun modèle ne correspond à ce budget. Essayez une autre tranche de prix.
+    </p>
+
+    {category.faq && category.faq.length > 0 && (
+      <FAQ items={category.faq} />
+    )}
+
+    {relatedCats.length > 0 && (
+      <section class="mt-12">
+        <h2 class="text-2xl font-bold text-slate-900 mb-6">Comparatifs similaires</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+          {relatedCats.map((cat) => (
+            <a
+              href={`/litieres-automatiques/${cat.slug}/`}
+              class="block bg-white border border-slate-200 rounded-lg p-4 hover:shadow-md hover:border-emerald-200 transition-all duration-200"
+            >
+              <span class="font-medium text-slate-900 hover:text-emerald-600 text-sm">
+                {cat.h1}
+              </span>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+  </div>
+
+  <script>
+    function initFilters() {
+      const budgetSelect = document.getElementById("budget-filter") as HTMLSelectElement | null;
+      const cards = document.querySelectorAll<HTMLElement>(".product-card");
+      const filterCount = document.getElementById("filter-count");
+      const noResults = document.getElementById("no-results");
+      const grid = document.getElementById("product-grid");
+
+      if (!budgetSelect || !cards.length) return;
+
+      function applyFilters() {
+        const selectedOption = budgetSelect!.selectedOptions[0];
+        const budgetMin = parseFloat(selectedOption.dataset.min || "0");
+        const budgetMax = parseFloat(selectedOption.dataset.max || "99999");
+
+        let visible = 0;
+
+        cards.forEach((card) => {
+          const priceMin = parseFloat(card.dataset.priceMin || "0");
+          const priceMax = parseFloat(card.dataset.priceMax || "0");
+          const matchesBudget = priceMin <= budgetMax && priceMax >= budgetMin;
+
+          if (matchesBudget) {
+            card.style.display = "";
+            visible++;
+          } else {
+            card.style.display = "none";
+          }
+        });
+
+        if (filterCount) {
+          const total = cards.length;
+          filterCount.textContent = visible < total
+            ? `${visible} modèle${visible > 1 ? "s" : ""} sur ${total}`
+            : "";
+        }
+
+        if (noResults) noResults.classList.toggle("hidden", visible > 0);
+        if (grid) grid.classList.toggle("hidden", visible === 0);
+      }
+
+      budgetSelect.addEventListener("change", applyFilters);
+    }
+
+    document.addEventListener("DOMContentLoaded", initFilters);
+    document.addEventListener("astro:page-load", initFilters);
+  </script>
+</BaseLayout>

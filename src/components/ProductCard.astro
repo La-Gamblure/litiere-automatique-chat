@@ -1,0 +1,95 @@
+---
+interface Merchant {
+  merchant_name: string;
+  affiliate_url: string;
+  is_primary: boolean;
+}
+
+interface Product {
+  slug: string;
+  title: string;
+  description: string;
+  image_url?: string;
+  price_min: number;
+  price_max: number;
+  merchants: Merchant[];
+  custom_why_text?: string | null;
+  rating?: number;
+  rating_count?: number;
+}
+
+interface Props {
+  product: Product;
+}
+
+const { product } = Astro.props;
+
+const primaryMerchant = product.merchants.find((m) => m.is_primary) || product.merchants[0];
+const merchantSlug = primaryMerchant.merchant_name.toLowerCase().replace(/[\s.]+/g, "-").replace(/-+/g, "-");
+const affiliateHref = `/go/${product.slug}/${merchantSlug}/`;
+
+const formatPrice = (price: number) =>
+  new Intl.NumberFormat("fr-FR", { style: "currency", currency: "EUR", minimumFractionDigits: 0, maximumFractionDigits: 0 }).format(price);
+
+const priceRange =
+  product.price_min === product.price_max
+    ? formatPrice(product.price_min)
+    : `${formatPrice(product.price_min)} - ${formatPrice(product.price_max)}`;
+---
+
+<article class="bg-white rounded-xl border border-slate-200 shadow-sm hover:shadow-md transition-shadow duration-200 overflow-hidden flex flex-col">
+  <div class="aspect-[4/3] bg-slate-100 relative overflow-hidden">
+    {product.image_url ? (
+      <img
+        src={product.image_url}
+        alt={product.title}
+        class="w-full h-full object-cover"
+        loading="lazy"
+      />
+    ) : (
+      <div class="w-full h-full flex items-center justify-center text-slate-300">
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-16 h-16" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4" />
+        </svg>
+      </div>
+    )}
+  </div>
+
+  <div class="p-5 flex flex-col flex-1">
+    <h3 class="font-semibold text-slate-900 text-lg leading-snug mb-1">
+      {product.title}
+    </h3>
+
+    {product.rating && (
+      <div class="flex items-center gap-1 mb-2">
+        <span class="text-orange-400 text-sm">{"★".repeat(Math.round(product.rating))}</span>
+        <span class="text-xs text-slate-400">
+          {product.rating}/5{product.rating_count ? ` (${product.rating_count} avis)` : ""}
+        </span>
+      </div>
+    )}
+
+    <p class="text-emerald-600 font-bold text-base mb-3">{priceRange}</p>
+
+    <p class="text-sm text-slate-600 leading-relaxed mb-4 flex-1">
+      {product.custom_why_text || product.description}
+    </p>
+
+    <a
+      href={affiliateHref}
+      rel="sponsored nofollow"
+      class="inline-flex items-center justify-center w-full px-4 py-2.5 bg-orange-500 hover:bg-orange-600 text-white font-medium rounded-lg transition-colors text-sm"
+    >
+      Voir le prix &rarr;
+    </a>
+
+    {product.merchants.length > 1 && (
+      <p class="text-xs text-slate-400 mt-2 text-center">
+        Aussi chez {product.merchants
+          .filter((m) => !m.is_primary)
+          .map((m) => m.merchant_name)
+          .join(", ")}
+      </p>
+    )}
+  </div>
+</article>

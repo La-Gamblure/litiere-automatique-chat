@@ -1,0 +1,42 @@
+---
+interface BreadcrumbItem {
+  label: string;
+  href: string;
+}
+
+interface Props {
+  items: BreadcrumbItem[];
+}
+
+const { items } = Astro.props;
+const site = Astro.site?.origin || "https://litiere-auto.netlify.app";
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: items.map((item, index) => ({
+    "@type": "ListItem",
+    position: index + 1,
+    name: item.label,
+    item: `${site}${item.href}`,
+  })),
+};
+---
+
+<nav aria-label="Fil d'Ariane" class="mb-6">
+  <ol class="flex flex-wrap items-center gap-1 text-sm text-slate-500">
+    {items.map((item, index) => (
+      <li class="flex items-center gap-1">
+        {index > 0 && <span class="text-slate-300">/</span>}
+        {index === items.length - 1 ? (
+          <span class="text-slate-700 font-medium">{item.label}</span>
+        ) : (
+          <a href={item.href} class="hover:text-emerald-600 transition-colors">
+            {item.label}
+          </a>
+        )}
+      </li>
+    ))}
+  </ol>
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+</nav>

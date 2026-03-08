@@ -1,0 +1,238 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { readFileSync, existsSync } from "node:fs";
+
+interface Category {
+  slug: string;
+  h1: string;
+  meta_title: string;
+  meta_description: string;
+  category_type: string;
+  products: any[];
+}
+
+let categories: Category[] = [];
+const categoriesPath = "src/data/categories.json";
+try {
+  if (existsSync(categoriesPath)) {
+    categories = JSON.parse(readFileSync(categoriesPath, "utf-8"));
+  }
+} catch {
+  categories = [];
+}
+
+const title = "Litière Automatique Chat : Comparatif et Guide d'Achat 2026";
+const description = "Comparatif indépendant des meilleures litières automatiques pour chat. Tests, avis, prix et guide pour choisir la litière autonettoyante idéale.";
+
+const websiteSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: "LitièreAuto",
+  url: "https://litiere-auto.netlify.app",
+  description: "Comparatif indépendant des meilleures litières automatiques pour chat",
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: [
+    {
+      "@type": "Question",
+      name: "Qu'est-ce qu'une litière automatique pour chat ?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Une litière automatique est un bac équipé de capteurs et d'un mécanisme motorisé qui nettoie automatiquement les déjections de votre chat. Plus besoin de ramasser manuellement : la litière se tamise seule et dépose les agglomérats dans un bac fermé.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "Quel est le prix moyen d'une litière automatique ?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Les prix vont de 150 € pour les modèles basiques à 650 € pour les modèles premium comme le Litter-Robot 4. Le budget moyen se situe entre 300 et 450 €. L'investissement est rentabilisé par le gain de temps et le confort au quotidien.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "Comment sont sélectionnés les produits sur ce site ?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Chaque litière automatique est évaluée selon des critères objectifs : fiabilité du mécanisme, niveau sonore, capacité du bac à déchets, facilité d'entretien, qualité de l'app mobile et retours des utilisateurs. Aucune marque ne paie pour apparaître dans nos comparatifs.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "Est-ce que mon chat va s'habituer à une litière automatique ?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Oui, la grande majorité des chats s'adaptent en quelques jours. Conseil : gardez l'ancienne litière à côté pendant une à deux semaines, le temps que votre chat découvre et adopte le nouveau bac. Le mécanisme ne se déclenche qu'après le départ du chat.",
+      },
+    },
+  ],
+};
+---
+
+<BaseLayout title={title} description={description}>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+  </Fragment>
+
+  <!-- Hero -->
+  <section class="bg-gradient-to-b from-emerald-50 to-white py-16 sm:py-24">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+      <h1 class="text-4xl sm:text-5xl font-bold text-slate-900 mb-4 leading-tight">
+        La meilleure litière automatique<br class="hidden sm:block" /> pour votre chat
+      </h1>
+      <p class="text-lg sm:text-xl text-slate-600 max-w-2xl mx-auto mb-8">
+        Comparatifs indépendants, avis vérifiés et guide d'achat pour ne plus jamais nettoyer la litière à la main.
+      </p>
+      <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+        <a
+          href="/litieres-automatiques/meilleure-litiere-automatique/"
+          class="inline-flex items-center px-6 py-3 bg-orange-500 hover:bg-orange-600 text-white font-semibold rounded-lg transition-colors text-base"
+        >
+          Voir le comparatif 2026 &rarr;
+        </a>
+        <a
+          href="/litieres-automatiques/"
+          class="inline-flex items-center px-6 py-3 border-2 border-emerald-500 text-emerald-600 hover:bg-emerald-50 font-semibold rounded-lg transition-colors text-base"
+        >
+          Toutes les catégories
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Categories grid -->
+  {categories.length > 0 && (
+    <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+      <h2 class="text-2xl font-bold text-slate-900 mb-8 text-center">Nos comparatifs</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {categories.map((cat) => (
+          <a
+            href={`/litieres-automatiques/${cat.slug}/`}
+            class="group block bg-white border border-slate-200 rounded-xl p-6 hover:shadow-md hover:border-emerald-200 transition-all duration-200"
+          >
+            <h3 class="font-semibold text-slate-900 group-hover:text-emerald-600 transition-colors mb-2">
+              {cat.h1}
+            </h3>
+            <p class="text-sm text-slate-500">
+              {cat.products.length > 0 ? `${cat.products.length} modèles comparés` : "Comparatif à venir"}
+            </p>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <!-- How it works -->
+  <section class="bg-slate-50 py-16">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <h2 class="text-2xl font-bold text-slate-900 mb-10 text-center">Comment ça marche</h2>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div class="text-center">
+          <div class="w-12 h-12 bg-emerald-100 text-emerald-600 rounded-full flex items-center justify-center mx-auto mb-4 text-xl font-bold">
+            1
+          </div>
+          <h3 class="font-semibold text-slate-900 mb-2">Choisissez votre catégorie</h3>
+          <p class="text-sm text-slate-600">
+            Meilleure litière automatique, modèle pas cher, litière fermée... trouvez le comparatif qui correspond à votre besoin.
+          </p>
+        </div>
+        <div class="text-center">
+          <div class="w-12 h-12 bg-emerald-100 text-emerald-600 rounded-full flex items-center justify-center mx-auto mb-4 text-xl font-bold">
+            2
+          </div>
+          <h3 class="font-semibold text-slate-900 mb-2">Comparez les modèles</h3>
+          <p class="text-sm text-slate-600">
+            Prix, avis, fonctionnalités, niveau sonore : toutes les infos pour faire le bon choix, au même endroit.
+          </p>
+        </div>
+        <div class="text-center">
+          <div class="w-12 h-12 bg-emerald-100 text-emerald-600 rounded-full flex items-center justify-center mx-auto mb-4 text-xl font-bold">
+            3
+          </div>
+          <h3 class="font-semibold text-slate-900 mb-2">Achetez au meilleur prix</h3>
+          <p class="text-sm text-slate-600">
+            Accédez directement à l'offre la moins chère chez Amazon, le site officiel ou d'autres marchands de confiance.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Trust signals -->
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+    <h2 class="text-2xl font-bold text-slate-900 mb-10 text-center">Pourquoi nous faire confiance ?</h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+      <div class="bg-white border border-slate-200 rounded-xl p-6">
+        <div class="w-10 h-10 bg-emerald-100 text-emerald-600 rounded-lg flex items-center justify-center mb-4 text-lg font-bold">
+          &#10003;
+        </div>
+        <h3 class="font-semibold text-slate-900 mb-2">100% indépendant</h3>
+        <p class="text-sm text-slate-600">
+          Aucune marque ne paie pour apparaître dans nos comparatifs. Nos recommandations reposent uniquement sur la qualité des produits.
+        </p>
+      </div>
+      <div class="bg-white border border-slate-200 rounded-xl p-6">
+        <div class="w-10 h-10 bg-teal-100 text-teal-600 rounded-lg flex items-center justify-center mb-4 text-lg font-bold">
+          &#9733;
+        </div>
+        <h3 class="font-semibold text-slate-900 mb-2">Avis vérifiés</h3>
+        <p class="text-sm text-slate-600">
+          Nous analysons des milliers d'avis utilisateurs sur Amazon, forums et groupes spécialisés pour chaque produit testé.
+        </p>
+      </div>
+      <div class="bg-white border border-slate-200 rounded-xl p-6">
+        <div class="w-10 h-10 bg-orange-100 text-orange-600 rounded-lg flex items-center justify-center mb-4 text-lg font-bold">
+          &#8634;
+        </div>
+        <h3 class="font-semibold text-slate-900 mb-2">Mis à jour régulièrement</h3>
+        <p class="text-sm text-slate-600">
+          Nos comparatifs sont révisés chaque mois pour suivre les nouveaux modèles, les variations de prix et les retours utilisateurs.
+        </p>
+      </div>
+      <div class="bg-white border border-slate-200 rounded-xl p-6">
+        <div class="w-10 h-10 bg-slate-100 text-slate-600 rounded-lg flex items-center justify-center mb-4 text-lg font-bold">
+          &#128274;
+        </div>
+        <h3 class="font-semibold text-slate-900 mb-2">Transparent</h3>
+        <p class="text-sm text-slate-600">
+          Tous les liens d'affiliation sont clairement signalés. Le prix que vous payez reste identique, avec ou sans notre lien.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+    <h2 class="text-2xl font-bold text-slate-900 mb-4 text-center">Questions fréquentes</h2>
+    <div class="max-w-3xl mx-auto divide-y divide-slate-200">
+      <div class="py-5">
+        <h3 class="font-semibold text-slate-900 mb-2">Qu'est-ce qu'une litière automatique pour chat ?</h3>
+        <p class="text-sm text-slate-600">
+          Une litière automatique est un bac équipé de capteurs et d'un mécanisme motorisé qui nettoie automatiquement les déjections de votre chat. Plus besoin de ramasser manuellement : la litière se tamise seule et dépose les agglomérats dans un bac fermé. Vous n'avez qu'à vider ce bac tous les 5 à 14 jours.
+        </p>
+      </div>
+      <div class="py-5">
+        <h3 class="font-semibold text-slate-900 mb-2">Quel est le prix moyen d'une litière automatique ?</h3>
+        <p class="text-sm text-slate-600">
+          Les prix vont de 150 € pour les modèles d'entrée de gamme à 650 € pour les modèles premium comme le Litter-Robot 4. Le budget moyen pour un bon modèle se situe entre 300 et 450 €. L'investissement est vite rentabilisé par le confort au quotidien.
+        </p>
+      </div>
+      <div class="py-5">
+        <h3 class="font-semibold text-slate-900 mb-2">Comment sont sélectionnés les produits sur ce site ?</h3>
+        <p class="text-sm text-slate-600">
+          Chaque litière automatique est évaluée selon des critères objectifs : fiabilité du mécanisme, niveau sonore, capacité du bac à déchets, facilité d'entretien, qualité de l'app mobile et retours des utilisateurs réels. Aucune marque ne paie pour apparaître dans nos comparatifs.
+        </p>
+      </div>
+      <div class="py-5">
+        <h3 class="font-semibold text-slate-900 mb-2">Est-ce que mon chat va s'habituer à une litière automatique ?</h3>
+        <p class="text-sm text-slate-600">
+          Oui, la grande majorité des chats s'adaptent en quelques jours. Conseil : gardez l'ancienne litière à côté pendant une à deux semaines, le temps que votre chat découvre et adopte le nouveau bac. Le mécanisme ne se déclenche qu'après le départ du chat, ce qui le rassure.
+        </p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

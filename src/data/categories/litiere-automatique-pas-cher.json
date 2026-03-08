@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "slug": "litiere-automatique-pas-cher",
+  "h1": "Litière Automatique Pas Cher : Les Meilleurs Modèles à Petit Prix",
+  "keyword_primary": "litiere automatique chat pas cher",
+  "meta_title": "Litière Automatique Pas Cher : Comparatif Budget 2026",
+  "meta_description": "Les meilleures litières automatiques pour chat à petit prix. Comparatif des modèles abordables avec un bon rapport qualité-prix en 2026.",
+  "intro_text": "Une litière automatique ne signifie pas forcément un investissement à 500 €. Plusieurs modèles fiables existent sous la barre des 250 € et offrent un nettoyage automatisé efficace. Voici notre sélection des litières autonettoyantes avec le meilleur rapport qualité-prix.",
+  "category_type": "budget",
+  "products": [
+    {
+      "schema_version": "1.0",
+      "slug": "meowant-meo-003",
+      "title": "MeoWant MeO-003",
+      "description": "Litière automatique fiable avec capteur infrarouge, cycle de nettoyage en 5 minutes et bac amovible.",
+      "image_url": null,
+      "price_min": 199,
+      "price_max": 249,
+      "rating": 4.0,
+      "rating_count": 2100,
+      "merchants": [
+        {
+          "merchant_name": "Amazon",
+          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE5?tag=litiereauto-21",
+          "affiliate_network": "Amazon Associates",
+          "commission_rate": 4.0,
+          "is_primary": true
+        }
+      ],
+      "position": 1,
+      "gift_type": "produit",
+      "is_personalizable": false,
+      "custom_why_text": "Notre choix n°1 en entrée de gamme. Fiable, simple à utiliser, avec plus de 2 000 avis positifs sur Amazon."
+    },
+    {
+      "schema_version": "1.0",
+      "slug": "poopout-litiere-auto",
+      "title": "POOPOUT P100",
+      "description": "Litière automatique fermée avec filtre à charbon anti-odeurs et cycle rapide en 3 minutes.",
+      "image_url": null,
+      "price_min": 159,
+      "price_max": 199,
+      "rating": 3.9,
+      "rating_count": 780,
+      "merchants": [
+        {
+          "merchant_name": "Amazon",
+          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE6?tag=litiereauto-21",
+          "affiliate_network": "Amazon Associates",
+          "commission_rate": 4.0,
+          "is_primary": true
+        },
+        {
+          "merchant_name": "Cdiscount",
+          "affiliate_url": "https://www.cdiscount.com/product/poopout-p100?ref=litiereauto",
+          "affiliate_network": "Awin",
+          "commission_rate": 5.0,
+          "is_primary": false
+        }
+      ],
+      "position": 2,
+      "gift_type": "produit",
+      "is_personalizable": false,
+      "custom_why_text": "Le plus petit prix de notre sélection à partir de 159 €. Son filtre à charbon est un vrai plus pour les petits espaces."
+    },
+    {
+      "schema_version": "1.0",
+      "slug": "scoopfree-smart",
+      "title": "PetSafe ScoopFree Smart",
+      "description": "Litière automatique à cristaux avec bac jetable. Pas d'agglomérats à gérer, remplacement du bac toutes les 2-4 semaines.",
+      "image_url": null,
+      "price_min": 179,
+      "price_max": 219,
+      "rating": 3.8,
+      "rating_count": 4500,
+      "merchants": [
+        {
+          "merchant_name": "Amazon",
+          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE7?tag=litiereauto-21",
+          "affiliate_network": "Amazon Associates",
+          "commission_rate": 4.0,
+          "is_primary": true
+        }
+      ],
+      "position": 3,
+      "gift_type": "produit",
+      "is_personalizable": false,
+      "custom_why_text": "Une approche différente avec des bacs jetables pré-remplis de cristaux. Zéro contact avec la litière, idéal pour ceux qui veulent le minimum d'entretien."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Une litière automatique pas chère est-elle fiable ?",
+      "answer": "Oui, les modèles entre 150 et 250 € offrent un mécanisme de nettoyage efficace pour un à deux chats. La différence avec les modèles premium se fait sur le niveau sonore, la connectivité (app mobile), la taille du bac à déchets et les fonctionnalités avancées comme le suivi de santé."
+    },
+    {
+      "question": "Quel est le coût d'entretien mensuel d'une litière automatique ?",
+      "answer": "Comptez environ 15-25 €/mois pour la litière agglomérante et 5-10 €/mois pour les sacs de collecte. Le modèle PetSafe ScoopFree utilise des bacs jetables à environ 15-20 € chacun (durée 2-4 semaines). Au total, le coût mensuel est comparable à celui d'une litière manuelle classique."
+    }
+  ],
+  "related_categories": ["meilleure-litiere-automatique", "litiere-automatique-fermee"]
+}

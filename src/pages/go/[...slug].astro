@@ -1,0 +1,47 @@
+---
+import { readFileSync, existsSync } from "node:fs";
+
+export function getStaticPaths() {
+  const redirectsPath = "src/data/redirects.json";
+  let paths: { params: { slug: string }; props: { target_url: string; merchant_name: string } }[] = [];
+
+  try {
+    if (existsSync(redirectsPath)) {
+      const redirects = JSON.parse(readFileSync(redirectsPath, "utf-8"));
+      for (const r of redirects) {
+        const slug = r.slug.replace(/^go\//, "");
+        paths.push({
+          params: { slug },
+          props: { target_url: r.target_url, merchant_name: r.merchant_name },
+        });
+      }
+    }
+  } catch {
+    // No redirects file
+  }
+
+  return paths;
+}
+
+const { target_url, merchant_name } = Astro.props as { target_url: string; merchant_name: string };
+---
+
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta http-equiv="refresh" content={`0;url=${target_url}`} />
+    <title>Redirection vers {merchant_name}</title>
+  </head>
+  <body class="flex items-center justify-center min-h-screen bg-slate-50">
+    <div class="text-center">
+      <p class="text-slate-600 text-lg">Redirection en cours...</p>
+      <p class="text-slate-400 text-sm mt-2">
+        Vous allez être redirigé vers {merchant_name}.
+      </p>
+    </div>
+    <script is:inline define:vars={{ target_url }}>
+      window.location.replace(target_url);
+    </script>
+  </body>
+</html>

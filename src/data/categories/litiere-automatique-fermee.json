@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "slug": "litiere-automatique-fermee",
+  "h1": "Litière Automatique Fermée : Les Modèles les Plus Discrets",
+  "keyword_primary": "litiere automatique fermee chat",
+  "meta_title": "Litière Automatique Fermée Chat : Comparatif 2026",
+  "meta_description": "Comparatif des meilleures litières automatiques fermées pour chat. Modèles discrets, anti-odeurs et silencieux pour votre intérieur.",
+  "intro_text": "Les litières automatiques fermées sont la solution idéale pour limiter les odeurs et les projections de litière tout en bénéficiant du nettoyage automatique. Leur design fermé les rend plus discrètes dans un salon ou un couloir. Voici les meilleurs modèles du marché.",
+  "category_type": "type",
+  "products": [
+    {
+      "schema_version": "1.0",
+      "slug": "litter-robot-4",
+      "title": "Litter-Robot 4",
+      "description": "Globe rotatif entièrement fermé, capteurs de poids, Wi-Fi et app mobile. La référence du marché.",
+      "image_url": null,
+      "price_min": 549,
+      "price_max": 649,
+      "rating": 4.5,
+      "rating_count": 12400,
+      "merchants": [
+        {
+          "merchant_name": "Litter-Robot FR",
+          "affiliate_url": "https://www.litter-robot.com/fr/?ref=litiereauto",
+          "affiliate_network": "Direct",
+          "commission_rate": 8.0,
+          "is_primary": true
+        },
+        {
+          "merchant_name": "Amazon",
+          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE1?tag=litiereauto-21",
+          "affiliate_network": "Amazon Associates",
+          "commission_rate": 4.0,
+          "is_primary": false
+        }
+      ],
+      "position": 1,
+      "gift_type": "produit",
+      "is_personalizable": false,
+      "custom_why_text": "Design fermé iconique avec ouverture en haut ou sur le côté. Le globe rotatif est entièrement clos, ce qui en fait une des litières les plus efficaces contre les odeurs."
+    },
+    {
+      "schema_version": "1.0",
+      "slug": "petkit-pura-max-2",
+      "title": "PETKIT Pura Max 2",
+      "description": "Litière fermée avec purificateur d'air intégré, capteur infrarouge et contrôle via app xSecure.",
+      "image_url": null,
+      "price_min": 449,
+      "price_max": 499,
+      "rating": 4.3,
+      "rating_count": 3200,
+      "merchants": [
+        {
+          "merchant_name": "Amazon",
+          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE2?tag=litiereauto-21",
+          "affiliate_network": "Amazon Associates",
+          "commission_rate": 4.0,
+          "is_primary": true
+        }
+      ],
+      "position": 2,
+      "gift_type": "produit",
+      "is_personalizable": false,
+      "custom_why_text": "Le purificateur d'air intégré fait la différence. Le Pura Max 2 neutralise activement les odeurs, un cran au-dessus du simple filtre à charbon."
+    },
+    {
+      "schema_version": "1.0",
+      "slug": "poopout-litiere-auto",
+      "title": "POOPOUT P100",
+      "description": "Litière automatique fermée compacte avec filtre à charbon anti-odeurs et cycle rapide.",
+      "image_url": null,
+      "price_min": 159,
+      "price_max": 199,
+      "rating": 3.9,
+      "rating_count": 780,
+      "merchants": [
+        {
+          "merchant_name": "Amazon",
+          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE6?tag=litiereauto-21",
+          "affiliate_network": "Amazon Associates",
+          "commission_rate": 4.0,
+          "is_primary": true
+        }
+      ],
+      "position": 3,
+      "gift_type": "produit",
+      "is_personalizable": false,
+      "custom_why_text": "Le meilleur modèle fermé à petit prix. Compact et discret avec son filtre à charbon, il s'intègre facilement dans un petit espace."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Pourquoi choisir une litière automatique fermée ?",
+      "answer": "Une litière fermée retient mieux les odeurs grâce à son design clos et ses filtres intégrés. Elle empêche aussi les projections de litière autour du bac. Résultat : un intérieur plus propre et sans odeurs, même si la litière est dans votre salon."
+    },
+    {
+      "question": "Mon chat acceptera-t-il une litière fermée ?",
+      "answer": "La plupart des chats s'adaptent bien aux litières fermées, surtout si l'entrée est suffisamment grande. Si votre chat hésite, retirez le capot pendant quelques jours le temps qu'il s'habitue au bac, puis remettez-le progressivement."
+    }
+  ],
+  "related_categories": ["meilleure-litiere-automatique", "litiere-automatique-pas-cher"]
+}

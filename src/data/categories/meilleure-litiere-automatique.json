@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0",
+  "slug": "meilleure-litiere-automatique",
+  "h1": "Meilleure Litière Automatique pour Chat en 2026",
+  "keyword_primary": "meilleure litiere automatique chat",
+  "meta_title": "Meilleure Litière Automatique Chat : Comparatif 2026",
+  "meta_description": "Comparatif des meilleures litières automatiques pour chat en 2026. Tests, avis, prix et guide d'achat pour choisir la litière autonettoyante idéale.",
+  "intro_text": "Vous en avez assez de nettoyer la litière de votre chat quotidiennement ? Les litières automatiques autonettoyantes font le travail à votre place grâce à un mécanisme de tamisage ou de ratissage activé par des capteurs de mouvement. Après avoir analysé les modèles les plus vendus en France, voici notre comparatif des meilleures litières automatiques en 2026.",
+  "category_type": "comparatif",
+  "products": [
+    {
+      "schema_version": "1.0",
+      "slug": "litter-robot-4",
+      "title": "Litter-Robot 4",
+      "description": "La référence des litières automatiques. Globe rotatif breveté, capteurs de poids, connexion Wi-Fi et app mobile. Capacité pour chats jusqu'à 11 kg.",
+      "image_url": null,
+      "price_min": 549,
+      "price_max": 649,
+      "rating": 4.5,
+      "rating_count": 12400,
+      "merchants": [
+        {
+          "merchant_name": "Litter-Robot FR",
+          "affiliate_url": "https://www.litter-robot.com/fr/?ref=litiereauto",
+          "affiliate_network": "Direct",
+          "commission_rate": 8.0,
+          "is_primary": true
+        },
+        {
+          "merchant_name": "Amazon",
+          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE1?tag=litiereauto-21",
+          "affiliate_network": "Amazon Associates",
+          "commission_rate": 4.0,
+          "is_primary": false
+        }
+      ],
+      "position": 1,
+      "gift_type": "produit",
+      "is_personalizable": false,
+      "custom_why_text": "Le choix n°1 des propriétaires de chats exigeants. Le Litter-Robot 4 est la litière automatique la plus fiable et la plus silencieuse du marché, avec une app pour suivre la santé de votre chat."
+    },
+    {
+      "schema_version": "1.0",
+      "slug": "petkit-pura-max-2",
+      "title": "PETKIT Pura Max 2",
+      "description": "Litière automatique avec capteur infrarouge, détection multi-chats, purificateur d'air intégré et contrôle via app xSecure.",
+      "image_url": null,
+      "price_min": 449,
+      "price_max": 499,
+      "rating": 4.3,
+      "rating_count": 3200,
+      "merchants": [
+        {
+          "merchant_name": "Amazon",
+          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE2?tag=litiereauto-21",
+          "affiliate_network": "Amazon Associates",
+          "commission_rate": 4.0,
+          "is_primary": true
+        },
+        {
+          "merchant_name": "PETKIT",
+          "affiliate_url": "https://www.petkit.com/fr/?ref=litiereauto",
+          "affiliate_network": "Direct",
+          "commission_rate": 6.0,
+          "is_primary": false
+        }
+      ],
+      "position": 2,
+      "gift_type": "produit",
+      "is_personalizable": false,
+      "custom_why_text": "Le meilleur rapport qualité-prix en haut de gamme. Le Pura Max 2 offre des fonctionnalités comparables au Litter-Robot pour 100 € de moins, avec un purificateur d'air en bonus."
+    },
+    {
+      "schema_version": "1.0",
+      "slug": "catlink-scooper-luxury-pro",
+      "title": "CATLINK Scooper Luxury Pro",
+      "description": "Litière autonettoyante avec double détection (poids + radar), mode multi-chats, bac à déchets XL de 9L et connexion Wi-Fi.",
+      "image_url": null,
+      "price_min": 399,
+      "price_max": 449,
+      "rating": 4.2,
+      "rating_count": 1800,
+      "merchants": [
+        {
+          "merchant_name": "Amazon",
+          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE3?tag=litiereauto-21",
+          "affiliate_network": "Amazon Associates",
+          "commission_rate": 4.0,
+          "is_primary": true
+        }
+      ],
+      "position": 3,
+      "gift_type": "produit",
+      "is_personalizable": false,
+      "custom_why_text": "Idéal pour les foyers multi-chats grâce à sa double détection et son grand bac à déchets de 9 litres qui réduit la fréquence de vidage."
+    },
+    {
+      "schema_version": "1.0",
+      "slug": "petree-arc",
+      "title": "PetRee ARC",
+      "description": "Litière automatique compacte et silencieuse (< 40 dB). Design moderne, rotation à 360°, capteurs de sécurité et app mobile.",
+      "image_url": null,
+      "price_min": 349,
+      "price_max": 399,
+      "rating": 4.1,
+      "rating_count": 950,
+      "merchants": [
+        {
+          "merchant_name": "Amazon",
+          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE4?tag=litiereauto-21",
+          "affiliate_network": "Amazon Associates",
+          "commission_rate": 4.0,
+          "is_primary": true
+        }
+      ],
+      "position": 4,
+      "gift_type": "produit",
+      "is_personalizable": false,
+      "custom_why_text": "La plus silencieuse de notre comparatif avec moins de 40 dB en fonctionnement. Parfaite si votre chat est craintif ou si la litière est dans une pièce de vie."
+    },
+    {
+      "schema_version": "1.0",
+      "slug": "meowant-meo-003",
+      "title": "MeoWant MeO-003",
+      "description": "Litière automatique d'entrée de gamme avec capteur infrarouge, nettoyage en 5 minutes et bac amovible facile à vider.",
+      "image_url": null,
+      "price_min": 199,
+      "price_max": 249,
+      "rating": 4.0,
+      "rating_count": 2100,
+      "merchants": [
+        {
+          "merchant_name": "Amazon",
+          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE5?tag=litiereauto-21",
+          "affiliate_network": "Amazon Associates",
+          "commission_rate": 4.0,
+          "is_primary": true
+        }
+      ],
+      "position": 5,
+      "gift_type": "produit",
+      "is_personalizable": false,
+      "custom_why_text": "Le meilleur choix pour un premier achat. Le MeO-003 offre l'essentiel du nettoyage automatique sous les 250 €, avec une fiabilité prouvée par plus de 2 000 avis positifs."
+    },
+    {
+      "schema_version": "1.0",
+      "slug": "poopout-litiere-auto",
+      "title": "POOPOUT P100",
+      "description": "Litière automatique fermée avec filtre à charbon anti-odeurs, capteur de proximité et cycle de nettoyage rapide en 3 minutes.",
+      "image_url": null,
+      "price_min": 159,
+      "price_max": 199,
+      "rating": 3.9,
+      "rating_count": 780,
+      "merchants": [
+        {
+          "merchant_name": "Amazon",
+          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE6?tag=litiereauto-21",
+          "affiliate_network": "Amazon Associates",
+          "commission_rate": 4.0,
+          "is_primary": true
+        },
+        {
+          "merchant_name": "Cdiscount",
+          "affiliate_url": "https://www.cdiscount.com/product/poopout-p100?ref=litiereauto",
+          "affiliate_network": "Awin",
+          "commission_rate": 5.0,
+          "is_primary": false
+        }
+      ],
+      "position": 6,
+      "gift_type": "produit",
+      "is_personalizable": false,
+      "custom_why_text": "Le modèle le plus abordable de notre sélection. Son filtre à charbon actif neutralise efficacement les odeurs, un vrai plus pour les petits appartements."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Comment fonctionne une litière automatique pour chat ?",
+      "answer": "Une litière automatique utilise des capteurs (poids, infrarouge ou radar) pour détecter quand votre chat entre et sort du bac. Après un délai programmable, un mécanisme de tamisage ou de ratissage sépare les agglomérats de la litière propre et les dépose dans un bac à déchets fermé. Vous n'avez plus qu'à vider ce bac tous les 5 à 14 jours selon le modèle et le nombre de chats."
+    },
+    {
+      "question": "Quel budget prévoir pour une litière automatique ?",
+      "answer": "Les prix varient de 150 € pour les modèles d'entrée de gamme à 650 € pour les modèles premium comme le Litter-Robot 4. Le budget moyen se situe entre 300 € et 450 €. Pensez aussi au coût récurrent de la litière agglomérante (environ 15-20 €/mois) et des sacs de collecte (5-10 €/mois selon les modèles)."
+    },
+    {
+      "question": "Est-ce que les litières automatiques conviennent à tous les chats ?",
+      "answer": "La plupart des chats s'adaptent en quelques jours à une litière automatique. Cependant, les chatons de moins de 3 kg peuvent ne pas déclencher les capteurs de poids. Les chats très craintifs peuvent mettre plus de temps à s'habituer au bruit du mécanisme. Astuce : gardez l'ancienne litière à côté pendant la transition."
+    },
+    {
+      "question": "Quelle litière utiliser dans une litière automatique ?",
+      "answer": "La plupart des litières automatiques nécessitent de la litière agglomérante (bentonite ou tofu). Les litières en cristaux de silice fonctionnent avec certains modèles spécifiques. Évitez les litières non agglomérantes, végétales légères ou à base de papier qui ne forment pas de blocs solides suffisants pour le tamisage."
+    },
+    {
+      "question": "Les litières automatiques sont-elles bruyantes ?",
+      "answer": "Le niveau sonore varie selon les modèles. Les plus silencieuses (PetRee ARC, Litter-Robot 4) fonctionnent sous les 50 dB, soit le niveau d'une conversation normale. Les modèles moins chers peuvent atteindre 60-65 dB. Le cycle de nettoyage dure en moyenne 2 à 5 minutes et ne se déclenche que lorsque le chat a quitté le bac."
+    },
+    {
+      "question": "Une litière automatique est-elle adaptée pour plusieurs chats ?",
+      "answer": "Oui, la plupart des modèles haut de gamme gèrent sans problème 2 à 3 chats. Certains modèles comme le CATLINK Scooper Luxury Pro et le PETKIT Pura Max 2 disposent d'un mode multi-chats qui identifie chaque animal par son poids. Pour 3 chats ou plus, prévoyez un modèle avec un grand bac à déchets (7L minimum)."
+    }
+  ],
+  "related_categories": ["litiere-automatique-pas-cher", "litiere-automatique-fermee"]
+}
