@@ -1,0 +1,127 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import Breadcrumbs from "../components/Breadcrumbs.astro";
+import TableOfContents from "../components/TableOfContents.astro";
+import FAQ from "../components/FAQ.astro";
+import { SITE } from "../config";
+
+interface Props {
+  title: string;
+  description: string;
+  date: Date;
+  updatedDate?: Date;
+  author: string;
+  keyword_primary: string;
+  image?: string;
+  faq: { question: string; answer: string }[];
+  related_categories: string[];
+  headings: { depth: number; slug: string; text: string }[];
+  slug: string;
+}
+
+const {
+  title,
+  description,
+  date,
+  updatedDate,
+  author,
+  image,
+  faq,
+  related_categories,
+  headings,
+  slug,
+} = Astro.props;
+
+const breadcrumbs = [
+  { label: "Accueil", href: "/" },
+  { label: "Guides", href: "/guides/" },
+  { label: title, href: `/guides/${slug}/` },
+];
+
+const formatDate = (d: Date) =>
+  d.toLocaleDateString("fr-FR", { year: "numeric", month: "long", day: "numeric" });
+
+const articleSchema = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  headline: title,
+  description,
+  author: { "@type": "Organization", name: author },
+  publisher: { "@type": "Organization", name: SITE.name, url: SITE.url },
+  datePublished: date.toISOString(),
+  ...(updatedDate && { dateModified: updatedDate.toISOString() }),
+  ...(image && { image }),
+  mainEntityOfPage: {
+    "@type": "WebPage",
+    "@id": `${SITE.url}/guides/${slug}/`,
+  },
+};
+
+// Map category slugs to display names
+const categoryLabels: Record<string, string> = {
+  "meilleure-litiere-automatique": "Meilleure litière automatique",
+  "pas-cher": "Litière automatique pas cher",
+  "fermee": "Litière automatique fermée",
+};
+---
+
+<BaseLayout title={title} description={description} ogType="article">
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+  </Fragment>
+
+  <article class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <Breadcrumbs items={breadcrumbs} />
+
+    <header class="mb-10 max-w-3xl">
+      <h1 class="text-3xl sm:text-4xl font-bold text-slate-900 mb-4 leading-tight">
+        {title}
+      </h1>
+      <div class="flex flex-wrap items-center gap-x-4 gap-y-1 text-sm text-slate-500">
+        <span>Par {author}</span>
+        <span>&middot;</span>
+        <time datetime={date.toISOString()}>{formatDate(date)}</time>
+        {updatedDate && (
+          <>
+            <span>&middot;</span>
+            <span>
+              Mis à jour le <time datetime={updatedDate.toISOString()}>{formatDate(updatedDate)}</time>
+            </span>
+          </>
+        )}
+      </div>
+    </header>
+
+    <div class="flex gap-12">
+      <div class="prose max-w-3xl min-w-0 flex-1">
+        <slot />
+      </div>
+      <TableOfContents headings={headings} />
+    </div>
+
+    {faq.length > 0 && (
+      <div class="max-w-3xl mt-16">
+        <FAQ items={faq} />
+      </div>
+    )}
+
+    {related_categories.length > 0 && (
+      <div class="max-w-3xl mt-12">
+        <h2 class="text-xl font-bold text-slate-900 mb-4">Nos comparatifs</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          {related_categories.map((cat) => (
+            <a
+              href={`/litieres-automatiques/${cat}/`}
+              class="block bg-white border border-slate-200 rounded-lg p-4 hover:shadow-md hover:border-emerald-200 transition-all"
+            >
+              <span class="font-medium text-slate-900 hover:text-emerald-600">
+                {categoryLabels[cat] || cat}
+              </span>
+              <span class="block text-sm text-slate-500 mt-1">Voir le comparatif &rarr;</span>
+            </a>
+          ))}
+        </div>
+      </div>
+    )}
+  </article>
+</BaseLayout>

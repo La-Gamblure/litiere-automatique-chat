@@ -6,14 +6,14 @@ Site de comparatif indépendant de litières automatiques pour chat. Monetisatio
 ## Stack technique
 - **SSG** : Astro 5 (output: static)
 - **Style** : Tailwind CSS v4 (Vite plugin)
-- **Data** : JSON (categories/produits) + Markdown Content Collections (guides, Phase 2)
-- **Hosting** : Netlify (litiere-auto.netlify.app)
+- **Data** : JSON (categories/produits) + Astro Content Collections avec glob loader (guides)
+- **Hosting** : Cloudflare Pages (litiere-auto.pages.dev) + Netlify legacy (litiere-auto.netlify.app)
 - **Images** : Placeholder SVG pour le MVP, Cloudinary en Phase 2
 
 ## Architecture
 - Fork de Au-bon-cadeau (meme stack), adapte pour le vertical litiere auto
 - 100% statique (SSG)
-- Routes : `/litieres-automatiques/[slug]/` pour les comparatifs
+- Routes : `/litieres-automatiques/[slug]/` pour les comparatifs, `/guides/[slug]/` pour les articles
 - Redirects affiliate : `/go/[slug]/`
 - Pas de Preact, pas de quiz, pas de Supabase, pas de dashboard
 
@@ -31,10 +31,12 @@ Site de comparatif indépendant de litières automatiques pour chat. Monetisatio
 - Schema version "1.0" dans tous les JSON
 
 ## Etat actuel
-- MVP Phase 1 : DONE — 19 pages, build OK, deploy OK
+- MVP Phase 1 : DONE
+- Phase 2 content collections : DONE — infrastructure guides en place (content.config.ts, ArticleLayout, TOC, routes, nav, homepage section)
 - Site live : https://litiere-auto.netlify.app
 - GitHub : https://github.com/La-Gamblure/litiere-automatique-chat
-- Netlify site ID : b347e54a-ac2f-43bd-ab24-5297058efbd4
+- Netlify site ID : b347e54a-ac2f-43bd-ab24-5297058efbd4 (legacy)
+- Cloudflare Pages : litiere-auto.pages.dev (deploy via `npm run deploy`)
 - Produits verifies via recherche Exa (PETKIT Pura Max 2, Devoko 90L, Litter-Robot 4, Neakasa M1, CATLINK Baymax, PetSnowy SNOW+, PetSafe ScoopFree)
 
 ## Prochaines etapes

@@ -1,0 +1,61 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+
+const guides = await getCollection("guides", ({ data }) => !data.draft);
+const sortedGuides = guides.sort(
+  (a, b) => b.data.date.getTime() - a.data.date.getTime()
+);
+
+const breadcrumbs = [
+  { label: "Accueil", href: "/" },
+  { label: "Guides", href: "/guides/" },
+];
+
+const title = "Guides Litière Automatique Chat : Conseils et Astuces";
+const description =
+  "Tous nos guides pour bien choisir, installer et entretenir votre litière automatique pour chat. Conseils pratiques et avis d'experts.";
+
+const formatDate = (d: Date) =>
+  d.toLocaleDateString("fr-FR", { year: "numeric", month: "long", day: "numeric" });
+---
+
+<BaseLayout title={title} description={description}>
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <Breadcrumbs items={breadcrumbs} />
+
+    <h1 class="text-3xl sm:text-4xl font-bold text-slate-900 mb-4">
+      Guides &amp; conseils
+    </h1>
+    <p class="text-lg text-slate-600 mb-10 max-w-2xl">
+      Tout ce qu'il faut savoir pour choisir, installer et entretenir une litière automatique pour chat.
+    </p>
+
+    {sortedGuides.length > 0 ? (
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {sortedGuides.map((guide) => (
+          <a
+            href={`/guides/${guide.id}/`}
+            class="group block bg-white border border-slate-200 rounded-xl p-6 hover:shadow-md hover:border-emerald-200 transition-all duration-200"
+          >
+            <time
+              datetime={guide.data.date.toISOString()}
+              class="text-xs text-slate-400 uppercase tracking-wide"
+            >
+              {formatDate(guide.data.date)}
+            </time>
+            <h2 class="font-semibold text-slate-900 group-hover:text-emerald-600 transition-colors mt-2 mb-2">
+              {guide.data.title}
+            </h2>
+            <p class="text-sm text-slate-500 line-clamp-3">
+              {guide.data.description}
+            </p>
+          </a>
+        ))}
+      </div>
+    ) : (
+      <p class="text-slate-500">Aucun guide disponible pour le moment.</p>
+    )}
+  </section>
+</BaseLayout>

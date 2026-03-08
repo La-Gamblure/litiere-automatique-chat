@@ -29,7 +29,17 @@
 - [ ] Generer og-default.png
 
 ## Phase 2
-- [ ] Articles guides (Content Collections Markdown)
+- [x] Content Collections setup (content.config.ts, schema Zod, glob loader)
+- [x] ArticleLayout.astro (JSON-LD Article, breadcrumbs, TOC, FAQ, related categories)
+- [x] TableOfContents.astro (sticky sidebar, H2/H3)
+- [x] Route dynamique guides/[slug].astro
+- [x] Page listing guides/index.astro
+- [x] Prose styles dans global.css
+- [x] Nav "Guides" dans header + footer
+- [x] Section "Nos derniers guides" sur homepage
+- [x] Premier article draft : comment-choisir-litiere-automatique.md (~1500 mots)
+- [x] Passer l'article par /humanizer et publier (draft: false)
+- [x] Migration Cloudflare Pages (wrangler.toml, _headers, npm run deploy)
 - [ ] 5-10 articles P1 (types litiere, fermee, XXL, distributeurs)
 - [ ] Maillage interne
 - [ ] Images Cloudinary
