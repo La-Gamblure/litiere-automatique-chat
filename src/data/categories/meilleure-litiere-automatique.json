@@ -10,68 +10,6 @@
   "products": [
     {
       "schema_version": "1.0",
-      "slug": "petkit-pura-max-2",
-      "title": "PETKIT Pura Max 2",
-      "description": "Litière automatique connectée avec spray anti-odeur N50, système anti-pincement xSecure, capacité 76L et contrôle via app PETKIT.",
-      "image_url": null,
-      "price_min": 399,
-      "price_max": 599,
-      "rating": 4.4,
-      "rating_count": 3200,
-      "merchants": [
-        {
-          "merchant_name": "Amazon",
-          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE2?tag=litiereauto-21",
-          "affiliate_network": "Amazon Associates",
-          "commission_rate": 4.0,
-          "is_primary": true
-        },
-        {
-          "merchant_name": "PETKIT FR",
-          "affiliate_url": "https://www.petkit.fr/?ref=litiereauto",
-          "affiliate_network": "Direct",
-          "commission_rate": 6.0,
-          "is_primary": false
-        }
-      ],
-      "position": 1,
-      "gift_type": "produit",
-      "is_personalizable": false,
-      "custom_why_text": "La référence 2026. Le Pura Max 2 combine connectivité, sécurité multi-capteurs xSecure et désodorisant N50 intégré. Disponible à partir de 399 € avec coupon sur le site officiel."
-    },
-    {
-      "schema_version": "1.0",
-      "slug": "devoko-90l",
-      "title": "Devoko 90L",
-      "description": "Litière automatique XXL de 90L avec sécurité 6 niveaux, désodorisation intégrée, contrôle via app et design oreilles de chat. Best-seller Amazon.",
-      "image_url": null,
-      "price_min": 226,
-      "price_max": 287,
-      "rating": 4.3,
-      "rating_count": 5400,
-      "merchants": [
-        {
-          "merchant_name": "Amazon",
-          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE8?tag=litiereauto-21",
-          "affiliate_network": "Amazon Associates",
-          "commission_rate": 4.0,
-          "is_primary": true
-        },
-        {
-          "merchant_name": "Cdiscount",
-          "affiliate_url": "https://www.cdiscount.com/product/devoko-90l?ref=litiereauto",
-          "affiliate_network": "Awin",
-          "commission_rate": 5.0,
-          "is_primary": false
-        }
-      ],
-      "position": 2,
-      "gift_type": "produit",
-      "is_personalizable": false,
-      "custom_why_text": "Le meilleur rapport qualité-prix du marché. Sa capacité géante de 90L est idéale pour les foyers multi-chats, et son prix sous les 300 € en fait le best-seller Amazon FR."
-    },
-    {
-      "schema_version": "1.0",
       "slug": "litter-robot-4",
       "title": "Litter-Robot 4",
       "description": "La référence premium. Globe rotatif breveté, filtre carbone, connexion Wi-Fi et app Whisker. Garantie 2 ans. Pour chats jusqu'à 11 kg.",
@@ -82,24 +20,55 @@
       "rating_count": 12400,
       "merchants": [
         {
-          "merchant_name": "Amazon",
-          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE1?tag=litiereauto-21",
-          "affiliate_network": "Amazon Associates",
-          "commission_rate": 4.0,
-          "is_primary": true
-        },
-        {
           "merchant_name": "Litter-Robot FR",
           "affiliate_url": "https://www.litter-robot.com/fr/?ref=litiereauto",
           "affiliate_network": "Direct",
           "commission_rate": 8.0,
+          "is_primary": true
+        },
+        {
+          "merchant_name": "Amazon",
+          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE1?tag=litiereauto-21",
+          "affiliate_network": "Amazon Associates",
+          "commission_rate": 4.0,
           "is_primary": false
         }
       ],
-      "position": 3,
+      "position": 1,
       "gift_type": "produit",
       "is_personalizable": false,
-      "custom_why_text": "Le haut de gamme absolu avec une fiabilité éprouvée depuis des années. Garantie 2 ans, globe rotatif breveté et app Whisker pour le suivi santé. Pour ceux qui veulent le meilleur sans compromis."
+      "custom_why_text": "Notre choix n°1. Le Litter-Robot 4 est la litière la mieux notée du marché (4.5/5, 12 000+ avis). Globe rotatif breveté ultra-fiable, app Whisker pour suivre la santé de votre chat, et garantie 2 ans. Un investissement qui dure."
+    },
+    {
+      "schema_version": "1.0",
+      "slug": "petkit-pura-max-2",
+      "title": "PETKIT Pura Max 2",
+      "description": "Litière automatique connectée avec spray anti-odeur N50, système anti-pincement xSecure, capacité 76L et contrôle via app PETKIT.",
+      "image_url": null,
+      "price_min": 399,
+      "price_max": 599,
+      "rating": 4.4,
+      "rating_count": 3200,
+      "merchants": [
+        {
+          "merchant_name": "PETKIT FR",
+          "affiliate_url": "https://www.petkit.fr/?ref=litiereauto",
+          "affiliate_network": "Direct",
+          "commission_rate": 6.0,
+          "is_primary": true
+        },
+        {
+          "merchant_name": "Amazon",
+          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE2?tag=litiereauto-21",
+          "affiliate_network": "Amazon Associates",
+          "commission_rate": 4.0,
+          "is_primary": false
+        }
+      ],
+      "position": 2,
+      "gift_type": "produit",
+      "is_personalizable": false,
+      "custom_why_text": "Le meilleur rapport fonctionnalités-prix. Spray anti-odeur N50 intégré, sécurité xSecure multi-capteurs et app complète. À partir de 399 € avec coupon sur le site officiel PETKIT."
     },
     {
       "schema_version": "1.0",
@@ -123,7 +92,7 @@
       "position": 4,
       "gift_type": "produit",
       "is_personalizable": false,
-      "custom_why_text": "Pensée pour les grands chats et les Maine Coon grâce à sa grande ouverture. Ultra-silencieuse au quotidien et livrée avec tapis anti-projections et sacs jetables."
+      "custom_why_text": "La meilleure litière pour les grands chats et Maine Coon grâce à sa grande ouverture. Ultra-silencieuse et livrée avec tapis anti-projections et sacs jetables. Garantie 2 ans pièces."
     },
     {
       "schema_version": "1.0",
@@ -147,31 +116,38 @@
       "position": 5,
       "gift_type": "produit",
       "is_personalizable": false,
-      "custom_why_text": "Excellent compromis entre prix et fonctionnalités. Ses 7 capteurs de sécurité et son suivi santé via app en font un choix sûr autour des 300 €."
+      "custom_why_text": "Excellent compromis autour de 300 €. Ses 7 capteurs de sécurité et son suivi santé via app en font un choix sûr pour les propriétaires connectés."
     },
     {
       "schema_version": "1.0",
-      "slug": "petsnowy-snow-plus",
-      "title": "PetSnowy SNOW+",
-      "description": "Capacité 83L, contrôle via app, système de sac auto-fermant pour zéro contact avec les déchets. Design compact et moderne.",
+      "slug": "devoko-90l",
+      "title": "Devoko 90L",
+      "description": "Litière automatique XXL de 90L avec sécurité 6 niveaux, désodorisation intégrée, contrôle via app et design oreilles de chat. Best-seller Amazon.",
       "image_url": null,
-      "price_min": 549,
-      "price_max": 599,
-      "rating": 4.1,
-      "rating_count": 850,
+      "price_min": 226,
+      "price_max": 287,
+      "rating": 4.3,
+      "rating_count": 5400,
       "merchants": [
         {
+          "merchant_name": "Cdiscount",
+          "affiliate_url": "https://www.cdiscount.com/product/devoko-90l?ref=litiereauto",
+          "affiliate_network": "Awin",
+          "commission_rate": 5.0,
+          "is_primary": true
+        },
+        {
           "merchant_name": "Amazon",
-          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE10?tag=litiereauto-21",
+          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE8?tag=litiereauto-21",
           "affiliate_network": "Amazon Associates",
           "commission_rate": 4.0,
-          "is_primary": true
+          "is_primary": false
         }
       ],
       "position": 6,
       "gift_type": "produit",
       "is_personalizable": false,
-      "custom_why_text": "Son système de sac auto-fermant élimine tout contact avec les déchets. La solution la plus hygiénique pour les propriétaires sensibles aux odeurs."
+      "custom_why_text": "Le meilleur rapport qualité-prix sous les 300 €. Sa capacité XXL de 90L est la plus grande du marché à ce prix, idéale pour les foyers multi-chats. Best-seller Amazon FR."
     },
     {
       "schema_version": "1.0",
@@ -185,17 +161,17 @@
       "rating_count": 4500,
       "merchants": [
         {
-          "merchant_name": "Amazon",
-          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE7?tag=litiereauto-21",
-          "affiliate_network": "Amazon Associates",
-          "commission_rate": 4.0,
-          "is_primary": true
-        },
-        {
           "merchant_name": "Zooplus",
           "affiliate_url": "https://www.zooplus.fr/product/petsafe-scoopfree?ref=litiereauto",
           "affiliate_network": "Awin",
           "commission_rate": 5.0,
+          "is_primary": true
+        },
+        {
+          "merchant_name": "Amazon",
+          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE7?tag=litiereauto-21",
+          "affiliate_network": "Amazon Associates",
+          "commission_rate": 4.0,
           "is_primary": false
         }
       ],

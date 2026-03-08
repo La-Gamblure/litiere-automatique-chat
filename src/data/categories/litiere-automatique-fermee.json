@@ -10,37 +10,6 @@
   "products": [
     {
       "schema_version": "1.0",
-      "slug": "petkit-pura-max-2",
-      "title": "PETKIT Pura Max 2",
-      "description": "Litière fermée avec spray anti-odeur N50, système xSecure multi-capteurs et contrôle via app PETKIT. Capacité 76L.",
-      "image_url": null,
-      "price_min": 399,
-      "price_max": 599,
-      "rating": 4.4,
-      "rating_count": 3200,
-      "merchants": [
-        {
-          "merchant_name": "Amazon",
-          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE2?tag=litiereauto-21",
-          "affiliate_network": "Amazon Associates",
-          "commission_rate": 4.0,
-          "is_primary": true
-        },
-        {
-          "merchant_name": "PETKIT FR",
-          "affiliate_url": "https://www.petkit.fr/?ref=litiereauto",
-          "affiliate_network": "Direct",
-          "commission_rate": 6.0,
-          "is_primary": false
-        }
-      ],
-      "position": 1,
-      "gift_type": "produit",
-      "is_personalizable": false,
-      "custom_why_text": "Le spray anti-odeur N50 intégré fait la différence. Design entièrement fermé avec entrée latérale, le Pura Max 2 est le modèle fermé le plus efficace contre les odeurs."
-    },
-    {
-      "schema_version": "1.0",
       "slug": "litter-robot-4",
       "title": "Litter-Robot 4",
       "description": "Globe rotatif entièrement fermé, filtre carbone, Wi-Fi et app Whisker. La référence premium. Garantie 2 ans.",
@@ -51,17 +20,48 @@
       "rating_count": 12400,
       "merchants": [
         {
-          "merchant_name": "Amazon",
-          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE1?tag=litiereauto-21",
-          "affiliate_network": "Amazon Associates",
-          "commission_rate": 4.0,
-          "is_primary": true
-        },
-        {
           "merchant_name": "Litter-Robot FR",
           "affiliate_url": "https://www.litter-robot.com/fr/?ref=litiereauto",
           "affiliate_network": "Direct",
           "commission_rate": 8.0,
+          "is_primary": true
+        },
+        {
+          "merchant_name": "Amazon",
+          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE1?tag=litiereauto-21",
+          "affiliate_network": "Amazon Associates",
+          "commission_rate": 4.0,
+          "is_primary": false
+        }
+      ],
+      "position": 1,
+      "gift_type": "produit",
+      "is_personalizable": false,
+      "custom_why_text": "Design fermé iconique avec globe rotatif entièrement clos. Le filtre carbone et le bac scellé en font la litière fermée la plus efficace contre les odeurs. Garantie 2 ans."
+    },
+    {
+      "schema_version": "1.0",
+      "slug": "petkit-pura-max-2",
+      "title": "PETKIT Pura Max 2",
+      "description": "Litière fermée avec spray anti-odeur N50, système xSecure multi-capteurs et contrôle via app PETKIT. Capacité 76L.",
+      "image_url": null,
+      "price_min": 399,
+      "price_max": 599,
+      "rating": 4.4,
+      "rating_count": 3200,
+      "merchants": [
+        {
+          "merchant_name": "PETKIT FR",
+          "affiliate_url": "https://www.petkit.fr/?ref=litiereauto",
+          "affiliate_network": "Direct",
+          "commission_rate": 6.0,
+          "is_primary": true
+        },
+        {
+          "merchant_name": "Amazon",
+          "affiliate_url": "https://www.amazon.fr/dp/B0EXAMPLE2?tag=litiereauto-21",
+          "affiliate_network": "Amazon Associates",
+          "commission_rate": 4.0,
           "is_primary": false
         }
       ],
