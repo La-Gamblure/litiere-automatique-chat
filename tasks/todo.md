@@ -74,6 +74,9 @@ Objectif : appliquer les patterns UX de LeWizards à notre site (sauf codes prom
 - [ ] **Double CTA dans les guides** — dans les tableaux markdown des guides, ajouter une colonne "Avis" avec lien vers /avis/[slug]/ en plus du "Voir le prix" /go/
 - [x] Images produit réelles (photo-mining + intégration public/images/products/)
 - [x] Optimisation ordre produits par commission (Devoko ↑, marchands primary corrigés)
+- [x] Fix images comparatif (héritage image_url depuis products.json)
+- [x] Breadcrumbs sticky au scroll
+- [x] Mention affiliation déplacée en bas de page (discrète)
 - [ ] Enregistrer meilleure-litiere.fr + config DNS CF Pages
 - [ ] Custom domain sur CF Pages
 - [ ] Backlinks, GEO
