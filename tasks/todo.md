@@ -59,6 +59,19 @@
 - [ ] Deploy CF Pages avec Functions
 - [x] 8 articles guides (entretien, habituer, grand chat, silencieuse, connectee, multi-chats, budget, problemes)
 - [x] Maillage interne (guides ↔ reviews ↔ comparatifs ↔ quiz)
+- [x] CTAs affiliés dans tous les guides (88 /go/ links)
+- [x] Fix wrangler.toml KV placeholder → deploy CF Pages OK
+
+## Phase 2D (UX LeWizards-inspired) — TODO
+
+Référence : ~/leswizards-analysis.json (analyse complète du site leswizards.com)
+Objectif : appliquer les patterns UX de LeWizards à notre site (sauf codes promo)
+
+- [ ] **Cards 100% clickables** — ProductCard.astro : wrapper toute la card dans un lien, pas seulement le CTA. Garder le double CTA (Voir prix + Lire avis) mais rendre la surface entière cliquable vers /go/
+- [ ] **Classement visuel numéroté** — Pages comparatif [slug].astro : ajouter 🥇🥈🥉 + rang numérique sur les ProductCards. Utiliser le champ `position` déjà présent dans les données catégorie
+- [ ] **Badges "Idéal pour"** — ProductCard.astro : ajouter un badge contextuel sous le titre (ex: "Idéal multi-chats", "Meilleur rapport qualité-prix"). Data source: ajouter champ `ideal_pour` dans categories JSON
+- [ ] **Section détaillée par produit sur comparatifs** — [slug].astro : après la grille, ajouter une section avec mini pros/cons + CTA par produit (similaire au format LeWizards). Data source: reviews JSON (pros/cons déjà présents)
+- [ ] **Double CTA dans les guides** — dans les tableaux markdown des guides, ajouter une colonne "Avis" avec lien vers /avis/[slug]/ en plus du "Voir le prix" /go/
 - [ ] Images Cloudinary
 - [ ] Custom domain
 - [ ] Backlinks, GEO

@@ -62,6 +62,19 @@ const relatedCats = (category.related_categories || [])
 
 const sortedProducts = [...category.products].sort((a, b) => a.position - b.position);
 
+// Load review data for each product (for detail section)
+const productReviews: Record<string, any> = {};
+for (const product of sortedProducts) {
+  const reviewPath = `src/data/reviews/${product.slug}.json`;
+  try {
+    if (existsSync(reviewPath)) {
+      productReviews[product.slug] = JSON.parse(readFileSync(reviewPath, "utf-8"));
+    }
+  } catch {
+    // Skip if review can't be loaded
+  }
+}
+
 const breadcrumbs = [
   { label: "Accueil", href: "/" },
   { label: "Litières Automatiques", href: "/litieres-automatiques/" },
@@ -148,13 +161,13 @@ const budgetRanges = [
     <p id="filter-count" class="text-sm text-slate-500 mb-4"></p>
 
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 mb-12" id="product-grid">
-      {sortedProducts.map((product) => (
+      {sortedProducts.map((product, index) => (
         <div
           class="product-card"
           data-price-min={product.price_min}
           data-price-max={product.price_max}
         >
-          <ProductCard product={product} />
+          <ProductCard product={product} rank={index + 1} />
         </div>
       ))}
     </div>
@@ -162,6 +175,62 @@ const budgetRanges = [
     <p id="no-results" class="hidden text-center text-slate-500 py-8 mb-12">
       Aucun modèle ne correspond à ce budget. Essayez une autre tranche de prix.
     </p>
+
+    {Object.keys(productReviews).length > 0 && (
+      <section class="mb-12">
+        <h2 class="text-2xl font-bold text-slate-900 mb-6">Détail par modèle</h2>
+        <div class="space-y-6">
+          {sortedProducts.map((product, index) => {
+            const review = productReviews[product.slug];
+            if (!review) return null;
+            const primaryMerchant = product.merchants.find((m: any) => m.is_primary) || product.merchants[0];
+            const merchantSlug = primaryMerchant.merchant_name.toLowerCase().replace(/[\s.]+/g, "-").replace(/-+/g, "-");
+            const pros = (review.pros || []).slice(0, 3);
+            const cons = (review.cons || []).slice(0, 3);
+            return (
+              <div class="bg-white border border-slate-200 rounded-xl p-5 sm:p-6 border-l-4 border-l-emerald-500">
+                <h3 class="text-lg font-bold text-slate-900 mb-3">
+                  <span class="text-emerald-600 mr-1">#{index + 1}</span> {product.title}
+                </h3>
+                <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-4">
+                  <ul class="space-y-1.5">
+                    {pros.map((pro: string) => (
+                      <li class="text-sm text-slate-700 flex items-start gap-2">
+                        <span class="text-emerald-500 font-bold mt-0.5 shrink-0">&#10003;</span>
+                        <span>{pro}</span>
+                      </li>
+                    ))}
+                  </ul>
+                  <ul class="space-y-1.5">
+                    {cons.map((con: string) => (
+                      <li class="text-sm text-slate-700 flex items-start gap-2">
+                        <span class="text-red-400 font-bold mt-0.5 shrink-0">&#10007;</span>
+                        <span>{con}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+                <div class="flex flex-wrap gap-3">
+                  <a
+                    href={`/go/${product.slug}/${merchantSlug}/`}
+                    rel="sponsored nofollow"
+                    class="inline-flex items-center px-4 py-2 bg-orange-500 hover:bg-orange-600 text-white text-sm font-medium rounded-lg transition-colors"
+                  >
+                    Voir le prix &rarr;
+                  </a>
+                  <a
+                    href={`/avis/${product.slug}/`}
+                    class="inline-flex items-center px-4 py-2 border border-emerald-600 text-emerald-600 hover:bg-emerald-50 text-sm font-medium rounded-lg transition-colors"
+                  >
+                    Lire notre avis &rarr;
+                  </a>
+                </div>
+              </div>
+            );
+          })}
+        </div>
+      </section>
+    )}
 
     {category.faq && category.faq.length > 0 && (
       <FAQ items={category.faq} />

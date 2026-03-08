@@ -22,10 +22,22 @@ interface Product {
 
 interface Props {
   product: Product;
+  rank?: number;
 }
 
-const { product } = Astro.props;
+const { product, rank } = Astro.props;
 const hasReview = existsSync(`src/data/reviews/${product.slug}.json`);
+
+const idealPourLabels: Record<string, string> = {
+  "litter-robot-4": "Grands chats & multi-chats",
+  "petkit-pura-max-2": "Meilleure app connectée",
+  "neakasa-m1": "Meilleur rapport qualité-prix",
+  "catlink-baymax": "Suivi santé petit budget",
+  "devoko-90l": "Plus grande capacité (90L)",
+  "petsafe-scoopfree": "Le plus simple & silencieux",
+  "petsnowy-snow-plus": "Design & hygiène premium",
+};
+const idealPourLabel = idealPourLabels[product.slug];
 
 const primaryMerchant = product.merchants.find((m) => m.is_primary) || product.merchants[0];
 const merchantSlug = primaryMerchant.merchant_name.toLowerCase().replace(/[\s.]+/g, "-").replace(/-+/g, "-");
@@ -40,7 +52,15 @@ const priceRange =
     : `${formatPrice(product.price_min)} - ${formatPrice(product.price_max)}`;
 ---
 
-<article class="bg-white rounded-xl border border-slate-200 shadow-sm hover:shadow-md transition-shadow duration-200 overflow-hidden flex flex-col">
+<article class="bg-white rounded-xl border border-slate-200 shadow-sm hover:shadow-lg transition-shadow duration-200 overflow-hidden flex flex-col relative cursor-pointer group">
+  <!-- Full-surface clickable link -->
+  <a
+    href={affiliateHref}
+    rel="sponsored nofollow"
+    class="absolute inset-0 z-0"
+    aria-label={`Voir le prix de ${product.title}`}
+  ></a>
+
   <div class="aspect-[4/3] bg-slate-100 relative overflow-hidden">
     {product.image_url ? (
       <img
@@ -56,12 +76,21 @@ const priceRange =
         </svg>
       </div>
     )}
+    {rank && (
+      <span class={`absolute top-2 left-2 px-2 py-0.5 rounded-full text-xs font-bold text-white shadow ${rank <= 3 ? "bg-emerald-600" : "bg-slate-500"}`}>
+        {rank === 1 ? "\u{1F947} #1" : rank === 2 ? "\u{1F948} #2" : rank === 3 ? "\u{1F949} #3" : `#${rank}`}
+      </span>
+    )}
   </div>
 
-  <div class="p-5 flex flex-col flex-1">
+  <div class="p-5 flex flex-col flex-1 relative z-10">
     <h3 class="font-semibold text-slate-900 text-lg leading-snug mb-1">
       {product.title}
     </h3>
+
+    {idealPourLabel && (
+      <span class="inline-block text-xs bg-emerald-50 text-emerald-700 px-2 py-0.5 rounded-full font-medium mb-2">{idealPourLabel}</span>
+    )}
 
     {product.rating && (
       <div class="flex items-center gap-1 mb-2">
