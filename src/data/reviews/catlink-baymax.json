@@ -1,0 +1,69 @@
+{
+  "product_slug": "catlink-baymax",
+  "meta": {
+    "title": "Avis CATLINK Baymax 70L : Test Complet et Honnête (2026)",
+    "description": "Notre avis détaillé sur le CATLINK Baymax 70L après test complet. 7 capteurs de sécurité, suivi santé via app — le tout pour moins de 310 €.",
+    "date": "2026-03-08",
+    "updated": "2026-03-08"
+  },
+  "verdict": {
+    "score": 8.0,
+    "summary": "Le CATLINK Baymax 70L est la surprise du comparatif. Pour moins de 310 €, il embarque 7 capteurs de sécurité, un suivi santé via app et une capacité de 70L. C'est le meilleur point d'entrée pour une litière connectée intelligente, à condition d'accepter un niveau sonore correct sans être exceptionnel.",
+    "one_liner": "Le meilleur rapport qualité-prix en litière connectée"
+  },
+  "criteria_ratings": {
+    "facilite_utilisation": 8.0,
+    "bruit": 7.5,
+    "securite": 9.0,
+    "application": 8.5,
+    "capacite": 7.5,
+    "rapport_qualite_prix": 9.0
+  },
+  "pros": [
+    "Prix imbattable : toutes les fonctionnalités connectées pour moins de 310 €",
+    "7 capteurs de sécurité : infrarouge, poids, anti-pincement, détection de présence",
+    "Suivi santé via app CATLINK : poids, fréquence d'utilisation, alertes comportementales",
+    "Capacité 70L suffisante pour 2-3 chats avec vidange hebdomadaire",
+    "Format compact (57 x 54 cm) pour sa capacité : s'intègre facilement"
+  ],
+  "cons": [
+    "Niveau sonore de 50 dB : correct mais audible dans un environnement calme",
+    "Poids maximum de 8 kg : pas adapté aux très gros chats",
+    "Disponible uniquement sur Amazon France, pas de vente directe",
+    "Marque moins connue en France : SAV parfois lent sur les pièces détachées"
+  ],
+  "recommended_for": [
+    "Budgets serrés qui veulent quand même une litière connectée avec suivi santé",
+    "Premier achat de litière automatique : excellent rapport fonctionnalités-prix pour découvrir",
+    "Foyers avec 1-2 chats de gabarit standard (moins de 8 kg)",
+    "Propriétaires qui veulent surveiller la santé de leur chat via app sans investir 500 €+"
+  ],
+  "not_recommended_for": [
+    "Propriétaires de gros chats (>8 kg) ou Maine Coon",
+    "Personnes très sensibles au bruit (préférer la Neakasa M1 à 45 dB)",
+    "Ceux qui veulent un SAV réactif garanti avec boutique physique en France"
+  ],
+  "faq": [
+    {
+      "question": "Le CATLINK Baymax 70L vaut-il son prix de moins de 310 € ?",
+      "answer": "C'est objectivement le meilleur rapport qualité-prix du marché en litière connectée. Pour ce prix, vous avez 7 capteurs de sécurité, le suivi santé via app et 70L de capacité. Les alternatives comparables (PETKIT, Litter-Robot) coûtent 100 à 500 € de plus."
+    },
+    {
+      "question": "Comment fonctionne le suivi santé du CATLINK Baymax ?",
+      "answer": "L'app CATLINK enregistre le poids du chat à chaque visite, la fréquence d'utilisation et la durée. Elle envoie des alertes si des changements inhabituels sont détectés (perte de poids, fréquence anormale), ce qui peut aider à repérer des problèmes urinaires tôt."
+    },
+    {
+      "question": "Les 7 capteurs de sécurité sont-ils fiables ?",
+      "answer": "Oui, le CATLINK Baymax utilise une combinaison de capteurs infrarouges, de poids et anti-pincement qui arrêtent immédiatement la rotation si un chat est détecté. Le système est redondant : même si un capteur défaille, les autres prennent le relais."
+    },
+    {
+      "question": "Le CATLINK Baymax est-il adapté aux chatons ?",
+      "answer": "CATLINK recommande un poids minimum de 1,5 kg (environ 3 mois). Les 7 capteurs de sécurité rendent la machine sûre, mais surveillez les premières utilisations. L'ouverture est accessible pour les petits gabarits."
+    },
+    {
+      "question": "Quelle litière utiliser dans le CATLINK Baymax 70L ?",
+      "answer": "Le CATLINK Baymax fonctionne avec toute litière agglomérante : bentonite classique, litière de tofu ou mélanges. Évitez la litière de cristaux de silice et les formules non agglomérantes qui ne forment pas de blocs solides nécessaires au tamisage."
+    }
+  ],
+  "related_slugs": ["devoko-90l", "petkit-pura-max-2", "neakasa-m1"]
+}

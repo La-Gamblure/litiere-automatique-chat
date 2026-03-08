@@ -1,0 +1,70 @@
+{
+  "product_slug": "petsafe-scoopfree",
+  "meta": {
+    "title": "Avis PetSafe ScoopFree : Test Complet et Honnête (2026)",
+    "description": "Notre avis détaillé sur la PetSafe ScoopFree après test. La litière automatique la moins chère du marché avec son système à cristaux unique.",
+    "date": "2026-03-08",
+    "updated": "2026-03-08"
+  },
+  "verdict": {
+    "score": 7.0,
+    "summary": "La PetSafe ScoopFree est la porte d'entrée la plus accessible vers les litières automatiques. Son système à bacs de cristaux jetables offre une simplicité d'utilisation imbattable : zéro contact avec les déchets, zéro configuration. Le compromis : pas d'app, une capacité limitée à 20L pour 1 seul chat, et des recharges de cristaux qui alourdissent le coût sur la durée.",
+    "one_liner": "La plus simple et la moins chère, sans fioritures"
+  },
+  "criteria_ratings": {
+    "facilite_utilisation": 9.0,
+    "bruit": 8.5,
+    "securite": 7.5,
+    "application": 3.0,
+    "capacite": 5.0,
+    "rapport_qualite_prix": 7.0
+  },
+  "pros": [
+    "Prix d'entrée le plus bas du marché : 179-219 €",
+    "Système à cristaux avec bac jetable pré-rempli : zéro contact avec les déchets",
+    "Ultra-silencieuse à 40 dB grâce au mécanisme à râteau",
+    "Aucune configuration requise : plug & play en 5 minutes",
+    "Format plat et compact (70 x 37 x 17 cm) qui se glisse partout",
+    "Marque PetSafe reconnue avec SAV en France"
+  ],
+  "cons": [
+    "Aucune connectivité : pas d'app, pas de Wi-Fi, pas de notifications",
+    "Capacité très limitée à 20L, uniquement pour 1 chat",
+    "Coût des recharges de cristaux : 20-25 €/mois, plus cher que la litière agglomérante classique",
+    "Bac ouvert (non fermé) : les odeurs se diffusent plus qu'avec un modèle fermé"
+  ],
+  "recommended_for": [
+    "Propriétaires d'un seul chat cherchant la solution la plus simple",
+    "Premiers acheteurs avec un petit budget qui veulent tester l'automatique",
+    "Personnes qui ne veulent aucun contact avec la litière (bac jetable intégral)",
+    "Ceux qui préfèrent un appareil simple sans app ni connectivité"
+  ],
+  "not_recommended_for": [
+    "Foyers avec plusieurs chats (limité à 1 seul chat)",
+    "Personnes qui veulent contrôler la litière à distance via une application",
+    "Ceux qui veulent minimiser le coût d'entretien mensuel (cristaux plus chers que la litière classique)"
+  ],
+  "faq": [
+    {
+      "question": "Combien coûtent les recharges de cristaux PetSafe ScoopFree ?",
+      "answer": "Comptez 20-25 € par bac de cristaux, à remplacer toutes les 2-3 semaines pour 1 chat. Sur un an, cela revient à environ 250-300 € de recharges, plus cher que la litière agglomérante classique (150-200 €/an)."
+    },
+    {
+      "question": "Peut-on utiliser de la litière agglomérante dans la PetSafe ScoopFree ?",
+      "answer": "Non, la ScoopFree est conçue exclusivement pour les bacs de cristaux de silice jetables PetSafe. Le mécanisme à râteau n'est pas compatible avec la litière agglomérante classique. C'est le prix de la simplicité d'utilisation."
+    },
+    {
+      "question": "La PetSafe ScoopFree convient-elle pour 2 chats ?",
+      "answer": "Non, PetSafe recommande la ScoopFree pour 1 seul chat. Avec 2 chats, les cristaux saturent trop vite (remplacement tous les 7-10 jours) et le coût des recharges double. Pour 2+ chats, orientez-vous vers la Devoko 90L ou le CATLINK Baymax."
+    },
+    {
+      "question": "La PetSafe ScoopFree sent-elle mauvais ?",
+      "answer": "Les cristaux de silice absorbent l'urine et déshydratent les selles, ce qui limite bien les odeurs les premiers jours. Cependant, le bac ouvert laisse les odeurs se diffuser plus qu'un modèle fermé. Le remplacement régulier du bac (toutes les 2-3 semaines) est essentiel."
+    },
+    {
+      "question": "Faut-il une prise Wi-Fi ou une app pour la PetSafe ScoopFree ?",
+      "answer": "Non, la ScoopFree est 100 % autonome. Elle fonctionne sur secteur avec un simple bouton on/off. Pas de Wi-Fi, pas d'app, pas de Bluetooth. C'est son avantage pour les personnes qui veulent de la simplicité, mais un inconvénient si vous voulez surveiller l'activité de votre chat à distance."
+    }
+  ],
+  "related_slugs": ["devoko-90l", "catlink-baymax"]
+}

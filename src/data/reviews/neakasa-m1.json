@@ -1,0 +1,70 @@
+{
+  "product_slug": "neakasa-m1",
+  "meta": {
+    "title": "Avis Neakasa M1 : Test Complet et Honnête (2026)",
+    "description": "Notre avis détaillé sur la Neakasa M1 après test complet. Ultra-silencieuse à 45 dB, grande ouverture pour gros chats et Maine Coon. Notes et prix.",
+    "date": "2026-03-08",
+    "updated": "2026-03-08"
+  },
+  "verdict": {
+    "score": 8.0,
+    "summary": "La Neakasa M1 se distingue par son silence remarquable (45 dB) et son ouverture extra-large pensée pour les gros chats type Maine Coon. Livrée avec tapis et sacs, elle est prête à l'emploi dès le déballage. Son app reste basique comparée à la concurrence, mais elle fait l'essentiel sans fioriture.",
+    "one_liner": "La plus silencieuse, taillée pour les gros gabarits"
+  },
+  "criteria_ratings": {
+    "facilite_utilisation": 8.5,
+    "bruit": 9.5,
+    "securite": 8.0,
+    "application": 7.0,
+    "capacite": 8.0,
+    "rapport_qualite_prix": 7.5
+  },
+  "pros": [
+    "Ultra-silencieuse à 45 dB : la plus discrète du marché, idéale en chambre ou studio",
+    "Grande ouverture spécialement conçue pour les gros chats et Maine Coon (jusqu'à 10 kg)",
+    "Livrée avec tapis anti-projections et sacs jetables inclus",
+    "Garantie 2 ans pièces, SAV réactif",
+    "Mise en route simple : fonctionnelle en moins de 10 minutes",
+    "Capacité de 65L correcte pour 2-3 chats"
+  ],
+  "cons": [
+    "App Neakasa basique : pas de suivi santé ni d'identification multi-chats",
+    "Prix de 429-475 € élevé par rapport aux fonctionnalités connectées proposées",
+    "Pas de système anti-odeur intégré (type spray ou filtre carbone avancé)",
+    "Disponible uniquement sur Amazon, pas de vente directe en France"
+  ],
+  "recommended_for": [
+    "Propriétaires de Maine Coon ou gros chats (jusqu'à 10 kg)",
+    "Personnes sensibles au bruit ou placement dans une chambre/studio",
+    "Ceux qui veulent une litière prête à l'emploi dès le déballage",
+    "Foyers avec 2-3 chats de gabarit moyen à grand"
+  ],
+  "not_recommended_for": [
+    "Ceux qui veulent une app complète avec suivi santé détaillé",
+    "Propriétaires cherchant le meilleur rapport qualité-prix (le CATLINK Baymax offre plus de fonctionnalités pour moins cher)",
+    "Personnes qui veulent un système anti-odeur intégré"
+  ],
+  "faq": [
+    {
+      "question": "La Neakasa M1 est-elle vraiment silencieuse ?",
+      "answer": "Oui, avec 45 dB mesurés, la Neakasa M1 est la litière automatique la plus silencieuse du marché. C'est comparable au bruit d'un appartement calme. Le cycle de nettoyage est quasi inaudible depuis une pièce voisine."
+    },
+    {
+      "question": "La Neakasa M1 convient-elle aux Maine Coon ?",
+      "answer": "C'est l'un de ses points forts. L'ouverture extra-large et le poids maximum de 10 kg sont spécifiquement pensés pour les grandes races. Les Maine Coon jusqu'à 10 kg s'y installent confortablement."
+    },
+    {
+      "question": "Quels accessoires sont inclus avec la Neakasa M1 ?",
+      "answer": "La Neakasa M1 est livrée avec un tapis anti-projections de litière, un lot de sacs jetables pour le bac à déchets, et un adaptateur secteur. Tout est inclus pour une utilisation immédiate sans achat supplémentaire."
+    },
+    {
+      "question": "L'app Neakasa permet-elle de suivre la santé du chat ?",
+      "answer": "Non, l'app Neakasa est fonctionnelle mais basique. Elle permet de déclencher un cycle à distance, de consulter l'historique d'utilisation et de recevoir des notifications (bac plein, erreur). Le suivi santé détaillé n'est pas disponible."
+    },
+    {
+      "question": "Combien coûte l'entretien mensuel de la Neakasa M1 ?",
+      "answer": "Comptez 15-25 €/mois selon le nombre de chats : litière agglomérante (15-20 €) et sacs de rechange (5 € environ). Les sacs Neakasa officiels ou des sacs universels compatibles conviennent."
+    }
+  ],
+  "related_slugs": ["litter-robot-4", "petkit-pura-max-2", "catlink-baymax"]
+}

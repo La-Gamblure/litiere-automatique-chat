@@ -1,0 +1,70 @@
+{
+  "product_slug": "petkit-pura-max-2",
+  "meta": {
+    "title": "Avis PETKIT Pura Max 2 : Test Complet et Honnête (2026)",
+    "description": "Notre avis détaillé sur le PETKIT Pura Max 2 après test complet. Spray N50 anti-odeur, sécurité xSecure, mode multi-chats. Notes et comparatif.",
+    "date": "2026-03-08",
+    "updated": "2026-03-08"
+  },
+  "verdict": {
+    "score": 8.5,
+    "summary": "Le PETKIT Pura Max 2 s'impose comme le meilleur rapport fonctionnalités-prix du marché. Son spray anti-odeur N50, son système de sécurité xSecure multi-capteurs et son mode multi-chats avec identification individuelle en font un choix solide entre 399 et 599 €. Seul son niveau sonore légèrement supérieur à la concurrence premium le pénalise.",
+    "one_liner": "Le couteau suisse des litières connectées"
+  },
+  "criteria_ratings": {
+    "facilite_utilisation": 8.5,
+    "bruit": 7.5,
+    "securite": 9.5,
+    "application": 9.0,
+    "capacite": 8.5,
+    "rapport_qualite_prix": 8.0
+  },
+  "pros": [
+    "Spray anti-odeur N50 intégré : neutralise les odeurs en continu sans recharge fréquente",
+    "Système xSecure avec multi-capteurs anti-pincement pour une sécurité maximale",
+    "Mode multi-chats avec identification individuelle via le poids",
+    "Capacité généreuse de 76L : vidange tous les 7-10 jours pour un chat",
+    "App PETKIT complète avec suivi santé, historique et notifications",
+    "Compatible litière agglomérante classique et litière tofu"
+  ],
+  "cons": [
+    "Niveau sonore de 52 dB : audible dans une pièce calme, surtout la nuit",
+    "Poids maximum limité à 8 kg (insuffisant pour les très gros chats)",
+    "Spray N50 nécessite des recharges (environ 15 €/trimestre)",
+    "Prix variable selon les promotions : écart important entre 399 et 599 €"
+  ],
+  "recommended_for": [
+    "Foyers avec 2-3 chats grâce à l'identification individuelle",
+    "Propriétaires sensibles aux odeurs (spray N50 très efficace)",
+    "Ceux qui veulent un suivi santé détaillé via app sans payer le prix du Litter-Robot",
+    "Personnes cherchant le meilleur rapport fonctionnalités-prix en milieu de gamme"
+  ],
+  "not_recommended_for": [
+    "Propriétaires de chats de plus de 8 kg (Maine Coon adultes)",
+    "Personnes très sensibles au bruit ou placement en chambre",
+    "Ceux qui veulent zéro coût récurrent (recharges spray N50)"
+  ],
+  "faq": [
+    {
+      "question": "Le PETKIT Pura Max 2 est-il adapté aux gros chats ?",
+      "answer": "Le Pura Max 2 supporte les chats jusqu'à 8 kg, ce qui convient à la majorité des races. Pour les Maine Coon ou chats de plus de 8 kg, orientez-vous vers le Litter-Robot 4 (11 kg) ou le Neakasa M1 (10 kg)."
+    },
+    {
+      "question": "Combien de temps dure une recharge du spray N50 ?",
+      "answer": "Une recharge de spray anti-odeur N50 dure environ 2-3 mois pour un usage avec un chat. Avec 2-3 chats, comptez plutôt 6-8 semaines. Le coût est d'environ 15 € par recharge."
+    },
+    {
+      "question": "Comment fonctionne le mode multi-chats du PETKIT Pura Max 2 ?",
+      "answer": "Le Pura Max 2 identifie chaque chat par son poids grâce à un capteur intégré. L'app PETKIT affiche les données d'utilisation individuelles : fréquence, durée des visites et poids, permettant de surveiller la santé de chaque animal."
+    },
+    {
+      "question": "Le PETKIT Pura Max 2 est-il sûr pour les chatons ?",
+      "answer": "Le système xSecure avec ses multiples capteurs (infrarouge, anti-pincement, détection de poids) arrête immédiatement la rotation si un chat est détecté. PETKIT recommande toutefois un poids minimum de 1,5 kg, soit environ 3-4 mois d'âge."
+    },
+    {
+      "question": "Quelle est la différence entre le PETKIT Pura Max 2 et le Pura Max 1 ?",
+      "answer": "Le Pura Max 2 apporte le spray anti-odeur N50 (absent du 1), un système xSecure amélioré avec plus de capteurs, une capacité augmentée à 76L et une app redessinée avec suivi santé plus précis."
+    }
+  ],
+  "related_slugs": ["litter-robot-4", "catlink-baymax", "devoko-90l"]
+}
