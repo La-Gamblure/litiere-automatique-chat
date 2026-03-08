@@ -2,6 +2,7 @@ name = "litiere-auto"
 compatibility_date = "2024-09-23"
 pages_build_output_dir = "dist"
 
-[[kv_namespaces]]
-binding = "QUIZ_EMAILS"
-id = "REPLACE_WITH_KV_NAMESPACE_ID"
+# TODO: créer le KV namespace dans le dashboard CF et décommenter
+# [[kv_namespaces]]
+# binding = "QUIZ_EMAILS"
+# id = "REPLACE_WITH_KV_NAMESPACE_ID"
