@@ -1,141 +1,175 @@
-# Avis Neakasa M1 : La Litiere des Gros Chats
+# Avis Neakasa M1 : La Plus Silencieuse et Ideale Gros Chats
 
-**Format :** ~6 minutes
-**Objectif :** Review ciblee gros chats / silence, convertir vers la page avis
+**Format :** ~8 minutes
+**Objectif :** Test detaille du Neakasa M1, cibler les proprietaires de gros chats
 **CTA principal :** https://litiere-auto.pages.dev/avis/neakasa-m1/
 
 ---
 
 ## Titre YouTube
 
-**Titre :** Neakasa M1 : La Litiere Automatique pour Gros Chats (Test 2026)
-**Titre alternatif :** Neakasa M1 : Ultra-Silencieuse et XXL — Avis Honnete
+**Titre :** Neakasa M1 : La Litiere Automatique la Plus SILENCIEUSE — Avis Complet (2026)
+**Titre alternatif :** Neakasa M1 : Ideale pour Gros Chats ? Mon Test Honnete
 
 ## Miniature
 
-- Photo du Neakasa M1 avec un gros chat (Maine Coon) a cote
-- Texte overlay : "POUR GROS CHATS" ou "45 dB SEULEMENT"
-- Badge "Garantie 2 ans"
+- Photo du Neakasa M1 avec un Maine Coon a cote pour l'echelle
+- Icone "silence" / onde sonore barree
+- Texte overlay : "45 dB SEULEMENT"
+- Badge "GROS CHATS OK"
 
 ---
 
 ## Hook (0:00 - 0:10)
 
-> "Vous avez un Maine Coon ou un gros chat ? La plupart des litieres automatiques sont trop petites. La Neakasa M1 a ete concue specifiquement pour ca. Je vous montre ce qu'elle vaut."
+> "Vous avez un Maine Coon ou un gros chat et vous cherchez une litiere automatique qui ne le reveille pas a 3h du matin ? La Neakasa M1 est la plus silencieuse du marche a 45 dB, et elle accepte les chats jusqu'a 10 kg. Voici mon avis."
 
 ---
 
 ## Plan detaille
 
-### 1. Presentation rapide (0:10 - 0:45)
+### 1. Presentation rapide (0:10 - 1:00)
 
-**Fiche technique a l'ecran :**
-- Prix : 429-475 EUR | Note : 4.2/5 (1 200 avis)
-- Mecanisme : rotation | Bruit : 45 dB | Capacite : 65L
-- Poids max chat : 10 kg | Chats : 3
-- Dimensions : 58 x 56 x 66 cm | Poids : 10,8 kg
-- Wi-Fi / App : Oui | Suivi sante : Non
-- Accessoires inclus : tapis anti-litiere + sacs jetables
-- Garantie : 2 ans pieces
-
----
-
-### 2. Design — Pensee pour les gros chats (0:45 - 1:45)
-
-**Points a couvrir :**
-- L'entree est la grande difference : ouverture extra-large
-- Un Maine Coon de 10 kg entre et sort sans se contorsionner
-- Modele ferme mais pas etouffant grace a la taille de l'ouverture
-- Construction solide, plastique epais
-- Dimensions raisonnables pour le marche (58 x 56 x 66 cm)
-- Tapis anti-litiere inclus : retient les grains colles aux pattes
-- Sacs jetables inclus dans la boite : pret a l'emploi
-
-**Script indicatif :**
-- "Si vous avez deja eu une litiere automatique trop petite pour votre chat, vous savez a quel point c'est frustrant. L'ouverture de la Neakasa M1 regle ce probleme."
+**Points cles :**
+- Marque Neakasa, specialiste nettoyage et animaux
+- Prix : 429-475 EUR — milieu de gamme
+- Note : 4.2/5 sur 1200+ avis
+- Mecanisme a rotation, grande ouverture
+- Dimensions : 58x56x66 cm, 10.8 kg
+- Capacite : 65 litres, jusqu'a 3 chats, poids max 10 kg
+- Livree avec tapis anti-projections + sacs jetables
+- Garantie 2 ans pieces
 
 ---
 
-### 3. Fonctionnement et bruit (1:45 - 3:00)
+### 2. Le silence — 45 dB, la reine du silence (1:00 - 2:00)
 
-**Points a couvrir :**
-- Mecanisme de rotation standard : detection de sortie, delai, rotation, tamisage
-- Ultra-silencieuse : 45 dB, la 2e plus silencieuse du marche (apres PetSafe a 40 dB)
-- 45 dB = a peine perceptible dans la meme piece
-- Comparaison : 7 dB de moins que PETKIT (52 dB), 10 dB de moins que Devoko (55 dB)
-- En decibels, chaque 3 dB = doublement de la puissance sonore perceptible
-- Cycle en ~2-3 minutes
-- Securite : capteurs de presence, arret si le chat revient pendant le cycle
+**Points cles :**
+- **45 dB** — la plus silencieuse de TOUTES les litieres automatiques a rotation
+- Pour reference : 45 dB = bruit d'un refrigerateur, a peine audible
+- Seul le PetSafe ScoopFree fait mieux (40 dB) mais c'est un rateau, pas une rotation
+- Compatible utilisation la nuit, meme dans la chambre
+- Les chats sensibles au bruit s'y adaptent beaucoup plus facilement
 
-**Script indicatif :**
-- "45 dB, ca change tout. Si la litiere est dans votre chambre ou dans un studio, vous pouvez dormir tranquille."
+**Comparaison a l'ecran :**
+| Modele | Bruit |
+|--------|-------|
+| PetSafe ScoopFree | 40 dB |
+| **Neakasa M1** | **45 dB** |
+| Litter-Robot 4 | 48 dB |
+| CATLINK Baymax | 50 dB |
+| PetSnowy SNOW+ | 50 dB |
+| PETKIT Pura Max 2 | 52 dB |
+| Devoko 90L | 55 dB |
+
+---
+
+### 3. La grande ouverture — pensee pour les gros chats (2:00 - 3:00)
+
+**Points cles :**
+- Ouverture extra-large, concue pour les grands gabarits
+- Poids max 10 kg — le 2eme meilleur du marche apres le Litter-Robot (11 kg)
+- Un Maine Coon adulte male (7-10 kg) entre confortablement
+- Le seul modele milieu de gamme a accepter les gros chats — le Litter-Robot est 2x plus cher
+- Espace interieur genereux pour que le chat puisse se retourner
+
+---
+
+### 4. L'app et les fonctionnalites connectees (3:00 - 3:45)
+
+**Points cles :**
+- Wi-Fi + app (iOS/Android)
+- Fonctions : declenchement a distance, notifications, historique d'utilisation
+- **Pas de suivi sante** — pas de suivi de poids ni de frequence par chat
+- App fonctionnelle mais basique comparee a PETKIT ou Litter-Robot
+- Suffisant pour le quotidien, mais pas un argument d'achat
+
+**Ce qu'il faut dire :**
+- Si le suivi sante est prioritaire, regardez le PETKIT ou le CATLINK
+- L'app fait le minimum necessaire, sans plus
 
 **CTA mid-roll :**
-> "Mon avis complet avec les liens pour acheter au meilleur prix est dans la description."
+> "Vous hesitez entre le Neakasa et un autre modele ? J'ai un comparatif de 7 litieres avec un tableau detaille sur le site — le lien est dans la description."
 
 ---
 
-### 4. Application (3:00 - 3:30)
+### 5. Le pack complet — pret a l'emploi (3:45 - 4:30)
 
-**Points a couvrir :**
-- App Neakasa : connexion Wi-Fi, interface basique mais fonctionnelle
-- Declenchement a distance, historique des cycles, notifications
-- Pas de suivi sante (pas de pesee, pas de tracking frequence)
-- L'app fait le minimum — loin de Whisker (Litter-Robot) ou PETKIT
-- Suffisant si vous n'avez pas besoin de monitoring avance
-
----
-
-### 5. Points forts vs Points faibles (3:30 - 4:45)
-
-**Points forts (a l'ecran) :**
-- Ultra-silencieuse (45 dB) — ideale en chambre ou studio
-- Grande ouverture pour les gros chats (jusqu'a 10 kg)
-- Accessoires inclus (tapis + sacs) — pret a l'emploi
-- Garantie 2 ans pieces — securisant
-- Poids 10,8 kg — la plus legere des modeles a rotation
-
-**Points faibles (a l'ecran) :**
-- Pas de suivi sante malgre un prix milieu de gamme (429 EUR+)
-- App basique comparee a PETKIT ou Whisker
-- Capacite 65L = la plus petite des modeles a rotation
-- Marque recente, communaute encore limitee (1 200 avis)
-- Pas de desodorisation active
+**Points cles :**
+- Livree avec tapis anti-projections de litiere
+- Sacs jetables inclus pour le tiroir a dechets
+- Garantie 2 ans pieces — rassurante pour une marque recente
+- Pas besoin d'acheter d'accessoires supplementaires
+- Compatible avec toute litiere agglomerante standard
 
 ---
 
-### 6. Verdict final + Outro (4:45 - 6:00)
+### 6. Les points forts (4:30 - 5:30)
 
-**Note finale a l'ecran : 7.5/10**
+**Points cles :**
+- La plus silencieuse du marche en rotation (45 dB)
+- Poids max 10 kg — gros chats OK
+- Grande ouverture pour un acces facile
+- Pack complet livre (tapis + sacs)
+- Garantie 2 ans pieces
+- Prix raisonnable pour ses specificites (429-475 EUR)
+- Design discret et compact (58x56x66 cm)
 
-**A qui s'adresse la Neakasa M1 :**
-- Proprietaires de gros chats (8-10 kg) : Maine Coon, British Shorthair, Ragdoll
-- Ceux qui veulent le SILENCE (chambre, studio, piece de vie)
-- Alternative au Litter-Robot 4 a 300 EUR de moins (mais sans le globe ni le suivi sante)
+---
 
-**Pas ideal pour :**
-- Ceux qui veulent le suivi sante → PETKIT ou Litter-Robot
-- Ceux qui ont des chats de taille standard → CATLINK a 294 EUR fait le meme job
-- Foyers avec 4+ chats → Devoko 90L (capacite superieure)
+### 7. Les points faibles (5:30 - 6:30)
+
+**Points cles :**
+- **Pas de suivi sante** — dommage a ce prix
+- **App basique** — loin du niveau PETKIT ou Litter-Robot
+- **Marque recente** — moins de recul que Litter-Robot ou PETKIT
+- **1200 avis seulement** — base d'utilisateurs plus petite
+- **65L de capacite** — correct mais inferieur au Devoko (90L) ou PetSnowy (83L)
+- **Pas de spray anti-odeur** comme le PETKIT N50
+
+---
+
+### 8. A qui je le recommande ? (6:30 - 7:15)
+
+**Points cles :**
+- **OUI si :** vous avez un gros chat (8-10 kg), le silence est votre priorite, vous voulez un modele milieu de gamme qui accepte les grands gabarits, vous ne voulez pas payer le prix du Litter-Robot
+- **NON si :** le suivi sante est important pour vous (prenez le PETKIT ou CATLINK), vous voulez l'app la plus complete (prenez le PETKIT), votre chat est petit/moyen (le CATLINK a 294 EUR suffit)
+- **Alternative directe :** Litter-Robot 4 si budget illimite et gros chat, PETKIT Pura Max 2 si chat <8 kg et app complete souhaitee
+
+---
+
+### 9. Note finale et verdict (7:15 - 7:45)
+
+**Note : 4.2/5**
+
+**Verdict :**
+> "La Neakasa M1, c'est le choix malin pour les proprietaires de gros chats qui ne veulent pas payer 900 euros. C'est silencieux, l'ouverture est genereuse, et la garantie 2 ans rassure. Le seul regret : l'absence de suivi sante a ce prix."
+
+---
+
+### 10. Outro + CTA (7:45 - 8:00)
 
 **Script :**
-> "La Neakasa M1 ne fait pas tout, mais ce qu'elle fait, elle le fait tres bien : accueillir les gros chats en silence. Si votre Maine Coon ne rentre pas dans les autres litieres, c'est LA solution sans se ruiner. Si le suivi sante est important pour vous, montez en gamme vers la PETKIT ou le Litter-Robot. Mon avis detaille est dans la description !"
+> "Voila mon test de la Neakasa M1. Le lien d'achat est dans la description, ainsi que mon comparatif complet. Si vous avez des questions, mettez-les en commentaire. Pouce bleu et a bientot !"
 
 **End screen :**
-- Card 1 : Video "Litter-Robot 4 : Test Complet" (alternative premium pour gros chats)
-- Card 2 : Video "Top 7 Meilleures Litieres 2026"
+- Card 1 : Video "Avis Litter-Robot 4"
+- Card 2 : Video "Top 7 Meilleures Litieres Automatiques 2026"
 
 ---
 
 ## Description YouTube
 
 ```
-Neakasa M1 : Test et Avis — La Litiere pour Gros Chats (2026)
+Neakasa M1 : La Litiere Automatique la Plus SILENCIEUSE — Avis Complet (2026)
 
-La Neakasa M1 est concue pour les gros chats avec son ouverture XXL et ses 45 dB de silence. Test complet : design, bruit, app, verdict.
+La Neakasa M1 est la litiere automatique la plus silencieuse du marche (45 dB) et accepte les gros chats jusqu'a 10 kg. Mon avis complet : bruit, ouverture, app, et a qui je la recommande.
 
-MON AVIS COMPLET (avec liens d'achat) :
+AVIS COMPLET (article) :
 https://litiere-auto.pages.dev/avis/neakasa-m1/
+
+ACHETER LA NEAKASA M1 :
+https://www.amazon.fr/dp/B0EXAMPLE9?tag=litiereauto-21
 
 COMPARATIF DES 7 MEILLEURES :
 https://litiere-auto.pages.dev/litieres-automatiques/meilleure-litiere-automatique/
@@ -143,25 +177,25 @@ https://litiere-auto.pages.dev/litieres-automatiques/meilleure-litiere-automatiq
 TIMESTAMPS :
 0:00 Introduction
 0:10 Presentation
-0:45 Design (gros chats)
-1:45 Fonctionnement et bruit (45 dB)
-3:00 Application
-3:30 Points forts vs Points faibles
-4:45 Verdict (7.5/10)
+1:00 Le silence (45 dB)
+2:00 Grande ouverture pour gros chats
+3:00 App et connectivite
+3:45 Pack complet
+4:30 Points forts
+5:30 Points faibles
+6:30 A qui je la recommande ?
+7:15 Note finale et verdict
+7:45 Conclusion
 
-SPECIFICATIONS :
-- Prix : 429-475 EUR
-- Bruit : 45 dB (ultra-silencieuse)
-- Capacite : 65L
-- Poids max chat : 10 kg
-- Chats max : 3
-- Garantie : 2 ans pieces
+ALTERNATIVES :
+- Litter-Robot 4 (749 EUR) : https://litiere-auto.pages.dev/avis/litter-robot-4/
+- PETKIT Pura Max 2 (399 EUR) : https://litiere-auto.pages.dev/avis/petkit-pura-max-2/
 
-#neakasam1 #litiereauto #groschat #mainecoon #litierechat
+#neakasam1 #litiereauto #litierechat #groschats #litieresilencieuse
 ```
 
 ---
 
 ## Tags YouTube
 
-neakasa m1, neakasa m1 avis, litiere automatique gros chat, litiere maine coon, litiere automatique silencieuse, litiere chat 10 kg, neakasa litiere, litiere automatique test
+neakasa m1 avis, neakasa m1 test, neakasa m1 litiere, litiere automatique silencieuse, litiere automatique gros chat, litiere maine coon automatique, litiere chat silencieuse, neakasa litiere chat

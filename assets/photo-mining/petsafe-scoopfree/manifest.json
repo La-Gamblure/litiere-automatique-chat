@@ -1,0 +1,46 @@
+{
+  "product": "PetSafe ScoopFree",
+  "brand": "PetSafe",
+  "date": "2026-03-08",
+  "source": "petsafe.com (Shopify CDN: cdn.shopify.com/s/files/1/0339/6655/5275/files/)",
+  "notes": "Images sourced from official PetSafe Shopify store. Duplicates across SKU variants deduplicated and renamed as shared-lifestyle-*. SmartSpin hero is JPEG (3000x3000), all others PNG (2500x2500 or 3000x3000).",
+  "logos": [
+    {"file": "logos/logo.png", "type": "PNG", "dimensions": "450x200", "size_bytes": 28652, "source": "Shopify CDN"},
+    {"file": "logos/petsafe-favicon.png", "type": "PNG", "dimensions": "128x128", "size_bytes": 1253, "source": "Google Favicons API"}
+  ],
+  "product_images": [
+    {"file": "product/scoopfree-crystal-classic.png", "sku": "PAL00-17296", "model": "Crystal Classic", "view": "hero", "dimensions": "2500x2500"},
+    {"file": "product/scoopfree-crystal-classic-P01.png", "sku": "PAL00-17296", "model": "Crystal Classic", "view": "angle", "dimensions": "2500x2500"},
+    {"file": "product/scoopfree-crystal-classic-P02.png", "sku": "PAL00-17296", "model": "Crystal Classic", "view": "detail", "dimensions": "2500x2500"},
+    {"file": "product/scoopfree-crystal-classic-P03.png", "sku": "PAL00-17296", "model": "Crystal Classic", "view": "detail-2", "dimensions": "2500x2500"},
+    {"file": "product/scoopfree-crystal-classic-P04.png", "sku": "PAL00-17296", "model": "Crystal Classic", "view": "lifestyle", "dimensions": "2500x2500"},
+    {"file": "product/scoopfree-crystal-pro-legacy.png", "sku": "PAL00-16805", "model": "Crystal Pro Legacy (Uncovered)", "view": "hero", "dimensions": "2500x2500"},
+    {"file": "product/scoopfree-crystal-pro-legacy-P02.png", "sku": "PAL00-16805", "model": "Crystal Pro Legacy", "view": "detail", "dimensions": "2500x2500"},
+    {"file": "product/scoopfree-covered-front-entry-P00.png", "sku": "PAL00-16806", "model": "Crystal Pro Front-Entry (Covered)", "view": "hero", "dimensions": "2500x2500"},
+    {"file": "product/scoopfree-covered-front-entry-P02.png", "sku": "PAL00-16806", "model": "Crystal Pro Front-Entry (Covered)", "view": "detail", "dimensions": "2500x2500"},
+    {"file": "product/scoopfree-top-entry-P00.png", "sku": "PAL00-16965", "model": "Crystal Pro Top-Entry", "view": "hero", "dimensions": "2500x2500"},
+    {"file": "product/scoopfree-top-entry-P02.png", "sku": "PAL00-16965", "model": "Crystal Pro Top-Entry", "view": "detail", "dimensions": "2500x2500"},
+    {"file": "product/scoopfree-crystal-smart.png", "sku": "PAL00-16807", "model": "Crystal Smart (Wi-Fi)", "view": "hero", "dimensions": "2500x2500"},
+    {"file": "product/scoopfree-crystal-smart-P01.png", "sku": "PAL00-16807", "model": "Crystal Smart", "view": "angle", "dimensions": "2500x2500"},
+    {"file": "product/scoopfree-crystal-smart-P02.png", "sku": "PAL00-16807", "model": "Crystal Smart", "view": "detail", "dimensions": "2500x2500"},
+    {"file": "product/scoopfree-crystal-smart-P03.png", "sku": "PAL00-16807", "model": "Crystal Smart", "view": "detail-2", "dimensions": "2500x2500"},
+    {"file": "product/scoopfree-crystal-smart-P04.png", "sku": "PAL00-16807", "model": "Crystal Smart", "view": "lifestyle", "dimensions": "2500x2500"},
+    {"file": "product/scoopfree-crystal-smart-P05.png", "sku": "PAL00-16807", "model": "Crystal Smart", "view": "feature", "dimensions": "2500x2500"},
+    {"file": "product/scoopfree-clumping-hero.png", "sku": "ZAL00-17761", "model": "Clumping Self-Cleaning", "view": "hero", "dimensions": "3000x3000"},
+    {"file": "product/scoopfree-smartspin-hero.jpg", "sku": "PAL00-17985", "model": "SmartSpin", "view": "hero", "dimensions": "3000x3000"},
+    {"file": "product/scoopfree-smartspin-P03.png", "sku": "PAL00-17985", "model": "SmartSpin", "view": "detail", "dimensions": "2500x2500"},
+    {"file": "product/shared-lifestyle-cat-using.png", "sku": "shared", "model": "Cross-product", "view": "lifestyle-cat", "dimensions": "2500x2500"},
+    {"file": "product/shared-lifestyle-tray.png", "sku": "shared", "model": "Cross-product", "view": "tray-detail", "dimensions": "2500x2500"},
+    {"file": "product/shared-lifestyle-comparison.png", "sku": "shared", "model": "Cross-product", "view": "comparison", "dimensions": "2500x2500"},
+    {"file": "product/shared-lifestyle-features.png", "sku": "shared", "model": "Cross-product", "view": "features", "dimensions": "2500x2500"}
+  ],
+  "models_covered": [
+    "Crystal Classic (PAL00-17296) - $99.95",
+    "Crystal Pro Legacy Uncovered (PAL00-16805) - $199.99",
+    "Crystal Pro Front-Entry Covered (PAL00-16806)",
+    "Crystal Pro Top-Entry (PAL00-16965)",
+    "Crystal Smart Wi-Fi (PAL00-16807) - $219.99",
+    "Clumping Self-Cleaning (ZAL00-17761) - $279.99",
+    "SmartSpin (PAL00-17985) - $339.95-$369.99"
+  ]
+}

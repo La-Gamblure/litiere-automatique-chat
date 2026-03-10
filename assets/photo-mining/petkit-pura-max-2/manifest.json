@@ -1,0 +1,169 @@
+{
+  "product": "PETKIT Pura Max 2",
+  "brand": "PETKIT",
+  "mining_date": "2026-03-08",
+  "sources": {
+    "petkit.com": "https://petkit.com/products/petkit-puramax-2",
+    "petkit.fr": "https://www.petkit.fr/products/pura-max-2-litiere-automatique-pack-basique-820974700"
+  },
+  "logos": [
+    {
+      "file": "logos/petkit-favicon.png",
+      "source": "Google Favicon API",
+      "dimensions": "128x128",
+      "format": "PNG",
+      "size_kb": 1.1
+    },
+    {
+      "file": "logos/petkit-logo.png",
+      "source": "https://petkit.com/cdn/shop/files/1024512.png?v=1721182466&width=1024",
+      "dimensions": "1024x512",
+      "format": "PNG",
+      "size_kb": 10
+    }
+  ],
+  "photos": [
+    {
+      "file": "photos/01-app-control.png",
+      "source": "petkit.com (Shopify CDN)",
+      "source_url": "https://cdn.shopify.com/s/files/1/0569/0526/9388/files/puramax-2-automatic-cat-litter-box-app-control_cnn2025.png?v=1764745425",
+      "dimensions": "1500x1500",
+      "format": "PNG",
+      "size_kb": 616,
+      "description": "Product hero shot with app control feature"
+    },
+    {
+      "file": "photos/02-cat-using.jpg",
+      "source": "petkit.com (Shopify CDN)",
+      "source_url": "https://cdn.shopify.com/s/files/1/0569/0526/9388/files/puramax-2-automatic-cat-litter-box-cat-using.jpg?v=1772788571",
+      "dimensions": "1500x1500",
+      "format": "JPEG",
+      "size_kb": 158,
+      "description": "Cat using the litter box"
+    },
+    {
+      "file": "photos/03-sealed-cylinder-litter-pad.jpg",
+      "source": "petkit.com (Shopify CDN)",
+      "source_url": "https://cdn.shopify.com/s/files/1/0569/0526/9388/files/puramax-2-upgraded-sealed-cylinder-litter-pad.jpg?v=1772788571",
+      "dimensions": "1500x1500",
+      "format": "JPEG",
+      "size_kb": 216,
+      "description": "Upgraded sealed cylinder and litter pad"
+    },
+    {
+      "file": "photos/04-potty-log-app-tracking.jpg",
+      "source": "petkit.com (Shopify CDN)",
+      "source_url": "https://cdn.shopify.com/s/files/1/0569/0526/9388/files/puramax-2-potty-log-app-tracking.jpg?v=1772788571",
+      "dimensions": "1500x1500",
+      "format": "JPEG",
+      "size_kb": 242,
+      "description": "Potty log and app tracking feature"
+    },
+    {
+      "file": "photos/05-large-space-low-threshold.jpg",
+      "source": "petkit.com (Shopify CDN)",
+      "source_url": "https://cdn.shopify.com/s/files/1/0569/0526/9388/files/puramax-2-large-space-low-threshold.jpg?v=1772788571",
+      "dimensions": "1500x1500",
+      "format": "JPEG",
+      "size_kb": 113,
+      "description": "Large interior space and low entry threshold"
+    },
+    {
+      "file": "photos/06-35db-quiet-operation.jpg",
+      "source": "petkit.com (Shopify CDN)",
+      "source_url": "https://cdn.shopify.com/s/files/1/0569/0526/9388/files/puramax-2-35db-quiet-operation.jpg?v=1772788571",
+      "dimensions": "1500x1500",
+      "format": "JPEG",
+      "size_kb": 149,
+      "description": "35dB quiet operation feature"
+    },
+    {
+      "file": "photos/07-triple-odor-control.jpg",
+      "source": "petkit.com (Shopify CDN)",
+      "source_url": "https://cdn.shopify.com/s/files/1/0569/0526/9388/files/puramax-2-triple-odor-control.jpg?v=1772788571",
+      "dimensions": "1500x1500",
+      "format": "JPEG",
+      "size_kb": 120,
+      "description": "Triple odor control system"
+    },
+    {
+      "file": "photos/08-instant-litter-empty.jpg",
+      "source": "petkit.com (Shopify CDN)",
+      "source_url": "https://cdn.shopify.com/s/files/1/0569/0526/9388/files/puramax-2-instant-litter-empty-magnetic-remover.jpg?v=1772788571",
+      "dimensions": "1500x1500",
+      "format": "JPEG",
+      "size_kb": 138,
+      "description": "Instant litter empty with magnetic remover"
+    },
+    {
+      "file": "photos/09-suitable-clumping-litter.jpg",
+      "source": "petkit.com (Shopify CDN)",
+      "source_url": "https://cdn.shopify.com/s/files/1/0569/0526/9388/files/puramax-2-suitable-for-most-clumping-litter.jpg?v=1772788571",
+      "dimensions": "1500x1500",
+      "format": "JPEG",
+      "size_kb": 139,
+      "description": "Compatible with most clumping litter types"
+    },
+    {
+      "file": "photos/10-package-contents.jpg",
+      "source": "petkit.com (Shopify CDN)",
+      "source_url": "https://cdn.shopify.com/s/files/1/0569/0526/9388/files/puramax-2-package-contents.jpg?v=1768199906",
+      "dimensions": "1500x1500",
+      "format": "JPEG",
+      "size_kb": 192,
+      "description": "Package contents / what's in the box"
+    },
+    {
+      "file": "photos/11-phone-app-connection.png",
+      "source": "petkit.com (Shopify CDN)",
+      "source_url": "https://cdn.shopify.com/s/files/1/0569/0526/9388/files/puramax-2-phone-app-connection.png?v=1768199906",
+      "dimensions": "1500x1500",
+      "format": "PNG",
+      "size_kb": 478,
+      "description": "Phone app connection setup"
+    },
+    {
+      "file": "photos/fr-01-pack-basique-1.jpg",
+      "source": "petkit.fr (CloudFront CDN)",
+      "source_url": "https://d2j6dbq0eux0bg.cloudfront.net/images/84213021/products/820974700/5631775014.jpg",
+      "dimensions": "400x280",
+      "format": "JPEG",
+      "size_kb": 13,
+      "description": "Pack basique - photo 1 (FR)"
+    },
+    {
+      "file": "photos/fr-02-pack-basique-2.jpg",
+      "source": "petkit.fr (CloudFront CDN)",
+      "source_url": "https://d2j6dbq0eux0bg.cloudfront.net/images/84213021/products/820974700/5387517455.jpg",
+      "dimensions": "400x400",
+      "format": "JPEG",
+      "size_kb": 16,
+      "description": "Pack basique - photo 2 (FR)"
+    },
+    {
+      "file": "photos/fr-03-pack-premium-1.jpg",
+      "source": "petkit.fr (CloudFront CDN)",
+      "source_url": "https://d2j6dbq0eux0bg.cloudfront.net/images/84213021/5410013523.jpg",
+      "dimensions": "400x400",
+      "format": "JPEG",
+      "size_kb": 10,
+      "description": "Pack premium - photo 1 (FR)"
+    },
+    {
+      "file": "photos/fr-04-pack-premium-2.jpg",
+      "source": "petkit.fr (CloudFront CDN)",
+      "source_url": "https://d2j6dbq0eux0bg.cloudfront.net/images/84213021/5387528289.jpg",
+      "dimensions": "400x400",
+      "format": "JPEG",
+      "size_kb": 20,
+      "description": "Pack premium - photo 2 (FR)"
+    }
+  ],
+  "totals": {
+    "logos": 2,
+    "photos": 15,
+    "total_files": 17,
+    "ai_generated": 0
+  },
+  "notes": "Clearbit Logo API was unreachable (DNS resolution failed). FR images are lower resolution (400px) compared to US Shopify CDN images (1500px). All images are authentic product visuals from official PETKIT sources."
+}

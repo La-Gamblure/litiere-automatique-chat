@@ -1,0 +1,189 @@
+{
+  "product": "CATLINK Baymax 70L",
+  "brand": "CATLINK",
+  "date_collected": "2026-03-08",
+  "sources": [
+    "https://catlinks.com.au/product/catlink-baymax-smart-self-cleaning-cat-litter-box/",
+    "https://catlink.sg/products/catlink-baymax-lite-smart-self-cleaning-cat-litter-box",
+    "https://www.catlinkus.com/products/catlink-smart-litter-box-scooper-se"
+  ],
+  "logos": [
+    {
+      "file": "logos/catlink-favicon.jpg",
+      "source": "https://www.google.com/s2/favicons?domain=catlink.com&sz=128",
+      "description": "CATLINK favicon from Google (128px)",
+      "format": "JPEG",
+      "size_bytes": 3045
+    },
+    {
+      "file": "logos/catlink-logo-au.webp",
+      "source": "https://catlinks.com.au/wp-content/uploads/2023/09/catlink-logo.webp",
+      "description": "CATLINK logo from Australian official store",
+      "format": "WebP",
+      "size_bytes": 12490
+    }
+  ],
+  "product_images": [
+    {
+      "file": "product/baymax-us-main.png",
+      "source": "https://www.catlinkus.com/cdn/shop/files/SE0.png",
+      "description": "Scooper SE / Baymax main product photo (white, 1000x1000)",
+      "format": "PNG",
+      "size_bytes": 216338
+    },
+    {
+      "file": "product/baymax-us-pink.png",
+      "source": "https://www.catlinkus.com/cdn/shop/files/SE_PINK0.png",
+      "description": "Scooper SE / Baymax pink variant (1000x1000)",
+      "format": "PNG",
+      "size_bytes": 217972
+    },
+    {
+      "file": "product/baymax-us-70l.jpg",
+      "source": "https://www.catlinkus.com/cdn/shop/files/70L.jpg",
+      "description": "70L capacity highlight image",
+      "format": "JPEG",
+      "size_bytes": 179459
+    },
+    {
+      "file": "product/baymax-us-detail-01.jpg",
+      "source": "https://www.catlinkus.com/cdn/shop/files/Scooper-SE_011b575e.jpg",
+      "description": "Scooper SE product detail shot 1",
+      "format": "JPEG",
+      "size_bytes": 101894
+    },
+    {
+      "file": "product/baymax-us-detail-02.jpg",
+      "source": "https://www.catlinkus.com/cdn/shop/files/Scooper-se-5.jpg",
+      "description": "Scooper SE product detail shot 2 (large)",
+      "format": "JPEG",
+      "size_bytes": 640944
+    },
+    {
+      "file": "product/baymax-us-detail-03.jpg",
+      "source": "https://www.catlinkus.com/cdn/shop/files/Scooper-se-6.jpg",
+      "description": "Scooper SE product detail shot 3 (large)",
+      "format": "JPEG",
+      "size_bytes": 572312
+    },
+    {
+      "file": "product/baymax-us-detail-04.jpg",
+      "source": "https://www.catlinkus.com/cdn/shop/files/se_f2fd82c0.jpg",
+      "description": "Scooper SE product detail shot 4",
+      "format": "JPEG",
+      "size_bytes": 94666
+    },
+    {
+      "file": "product/baymax-us-lifestyle-01.jpg",
+      "source": "https://www.catlinkus.com/cdn/shop/files/110451726193524.jpg",
+      "description": "Lifestyle / in-use photo 1",
+      "format": "JPEG",
+      "size_bytes": 85640
+    },
+    {
+      "file": "product/baymax-us-lifestyle-02.jpg",
+      "source": "https://www.catlinkus.com/cdn/shop/files/20250513-185635.jpg",
+      "description": "Lifestyle / in-use photo 2",
+      "format": "JPEG",
+      "size_bytes": 294404
+    },
+    {
+      "file": "product/baymax-main-au.jpg",
+      "source": "https://catlinks.com.au/wp-content/uploads/2023/08/CL-CA-01.jpg",
+      "description": "Baymax main product image from Australian store",
+      "format": "JPEG",
+      "size_bytes": 34902
+    },
+    {
+      "file": "product/baymax-sg-01.jpg",
+      "source": "https://catlink.sg/cdn/shop/files/1-1.jpg",
+      "description": "Baymax Lite gallery image 1 (front view)",
+      "format": "JPEG",
+      "size_bytes": 37705
+    },
+    {
+      "file": "product/baymax-sg-02.jpg",
+      "source": "https://catlink.sg/cdn/shop/files/1-15.jpg",
+      "description": "Baymax Lite gallery image 2",
+      "format": "JPEG",
+      "size_bytes": 137019
+    },
+    {
+      "file": "product/baymax-sg-03.jpg",
+      "source": "https://catlink.sg/cdn/shop/files/2-4.jpg",
+      "description": "Baymax Lite gallery image 3",
+      "format": "JPEG",
+      "size_bytes": 100634
+    },
+    {
+      "file": "product/baymax-sg-04.jpg",
+      "source": "https://catlink.sg/cdn/shop/files/3-4.jpg",
+      "description": "Baymax Lite gallery image 4",
+      "format": "JPEG",
+      "size_bytes": 69506
+    },
+    {
+      "file": "product/baymax-sg-05.jpg",
+      "source": "https://catlink.sg/cdn/shop/files/4-3.jpg",
+      "description": "Baymax Lite gallery image 5",
+      "format": "JPEG",
+      "size_bytes": 100932
+    },
+    {
+      "file": "product/baymax-sg-06.jpg",
+      "source": "https://catlink.sg/cdn/shop/files/5-3.jpg",
+      "description": "Baymax Lite gallery image 6",
+      "format": "JPEG",
+      "size_bytes": 100364
+    },
+    {
+      "file": "product/baymax-sg-07.jpg",
+      "source": "https://catlink.sg/cdn/shop/files/6-3.jpg",
+      "description": "Baymax Lite gallery image 7",
+      "format": "JPEG",
+      "size_bytes": 73277
+    },
+    {
+      "file": "product/baymax-sg-08.jpg",
+      "source": "https://catlink.sg/cdn/shop/files/8-2.jpg",
+      "description": "Baymax Lite gallery image 8",
+      "format": "JPEG",
+      "size_bytes": 210889
+    },
+    {
+      "file": "product/baymax-sg-detail-09.jpg",
+      "source": "https://catlink.sg/cdn/shop/files/9-3.jpg",
+      "description": "Baymax Lite detail image 9",
+      "format": "JPEG",
+      "size_bytes": 72850
+    },
+    {
+      "file": "product/baymax-sg-detail-10.jpg",
+      "source": "https://catlink.sg/cdn/shop/files/10-2.jpg",
+      "description": "Baymax Lite detail image 10",
+      "format": "JPEG",
+      "size_bytes": 72283
+    },
+    {
+      "file": "product/baymax-sg-detail-11.jpg",
+      "source": "https://catlink.sg/cdn/shop/files/11-1.jpg",
+      "description": "Baymax Lite detail image 11",
+      "format": "JPEG",
+      "size_bytes": 125466
+    },
+    {
+      "file": "product/baymax-sg-detail-12.jpg",
+      "source": "https://catlink.sg/cdn/shop/files/12_8230235a.jpg",
+      "description": "Baymax Lite detail image 12",
+      "format": "JPEG",
+      "size_bytes": 42208
+    }
+  ],
+  "notes": {
+    "clearbit_logo": "Failed - domain not found on Clearbit",
+    "catlink_com": "Main catlink.com returned 500 errors; images sourced from regional stores (US, AU, SG)",
+    "scooper_se_vs_baymax": "The US store markets this product as 'Scooper SE', while AU and SG stores use 'Baymax'. Same product line."
+  },
+  "total_files": 24,
+  "total_size_mb": 3.4
+}

@@ -1,155 +1,187 @@
-# Avis Devoko 90L : La XXL Best-Seller
+# Avis Devoko 90L : La Plus Grande Capacite au Meilleur Prix
 
-**Format :** ~6 minutes
-**Objectif :** Review du best-seller Amazon multi-chats, convertir vers la page avis
+**Format :** ~8 minutes
+**Objectif :** Test detaille du Devoko 90L, cibler les foyers multi-chats a petit budget
 **CTA principal :** https://litiere-auto.pages.dev/avis/devoko-90l/
 
 ---
 
 ## Titre YouTube
 
-**Titre :** Devoko 90L : La Plus Grande Litiere Automatique (Test 2026)
-**Titre alternatif :** Devoko 90L a 226 EUR : Le Best-Seller Amazon — Avis Honnete
+**Titre :** Devoko 90L : 90 Litres a 226 EUR — Le Best-Seller Amazon au Test (2026)
+**Titre alternatif :** Devoko 90L : La Litiere XXL pour Multi-Chats — Ca Vaut le Coup ?
 
 ## Miniature
 
-- Photo du Devoko 90L (oreilles de chat visibles) avec plusieurs chats autour
-- Texte overlay : "90 LITRES pour 226 EUR !"
-- Badge "Best-seller Amazon"
+- Photo du Devoko 90L avec ses oreilles de chat characteristiques
+- Texte overlay : "90L = XXL"
+- Badge "BEST-SELLER AMAZON"
+- 3-4 silhouettes de chats pour illustrer le multi-chats
 
 ---
 
 ## Hook (0:00 - 0:10)
 
-> "90 litres de capacite, jusqu'a 4 chats, pour moins de 290 euros. La Devoko 90L est le best-seller Amazon en litiere automatique. Mais est-ce que gros = bien ? Je vous donne mon avis."
+> "90 litres de capacite, jusqu'a 4 chats, et un prix qui commence a 226 euros — le Devoko 90L est le best-seller Amazon des litieres automatiques. Mais est-ce que le moins cher des modeles connectes est vraiment fiable ? Reponse dans cette video."
 
 ---
 
 ## Plan detaille
 
-### 1. Presentation rapide (0:10 - 0:45)
+### 1. Presentation rapide (0:10 - 1:00)
 
-**Fiche technique a l'ecran :**
-- Prix : 226-287 EUR | Note : 4.3/5 (5 400 avis)
-- Mecanisme : rotation | Bruit : 55 dB | Capacite : 90L
-- Poids max chat : 8 kg | Chats : 4
-- Dimensions : 60 x 58 x 68 cm | Poids : 12 kg
-- Wi-Fi / App : Oui | Suivi sante : Non
-- Desodorisation integree | Securite 6 niveaux
-- Best-seller Amazon France
-
----
-
-### 2. Design (0:45 - 1:30)
-
-**Points a couvrir :**
-- Le design "oreilles de chat" — distinctif, fun, polarisant
-- Modele ferme avec entree frontale
-- Encombrement : 60 x 58 x 68 cm — c'est consequent, a la hauteur de la capacite
-- Construction plastique correcte pour le prix
-- Le tiroir a dechets est proportionnel a la capacite = vidange moins frequente
-- Desodorisant integre dans le capot
-- Disponible en blanc/noir
-
-**Script indicatif :**
-- "Le look 'oreilles de chat' divise. Soit vous trouvez ca adorable, soit c'est trop pour votre salon. Mais en termes de capacite pure, rien ne rivalise a ce prix."
+**Points cles :**
+- Marque Devoko, montee en puissance rapide sur Amazon
+- Prix : 226-287 EUR — le moins cher des modeles connectes
+- Note : 4.3/5 sur 5400+ avis — le plus d'avis du segment connecte
+- Best-seller Amazon categorie litieres automatiques
+- Mecanisme a rotation, format ferme, design oreilles de chat
+- Dimensions : 60x58x68 cm, 12 kg
+- Capacite : 90 litres, jusqu'a 4 chats, poids max 8 kg
+- Disponible sur Amazon et Cdiscount
 
 ---
 
-### 3. Fonctionnement (1:30 - 2:45)
+### 2. La capacite XXL — 90 litres (1:00 - 2:00)
 
-**Points a couvrir :**
-- Mecanisme de rotation classique
-- Securite 6 niveaux : capteurs de poids, infrarouges, arret d'urgence
-- Desodorisation integree : module dans le capot, capsules a remplacer periodiquement
-- Cycle automatique apres chaque passage, delai configurable
-- App connectee : declenchement a distance, notifications, historique
-- La capacite 90L = vidange tous les 7-10 jours avec 2 chats
+**Points cles :**
+- **90 litres** — la PLUS GRANDE capacite de tout le comparatif
+- Pour comparaison : Litter-Robot 57L, PETKIT 76L, CATLINK 70L
+- Concretement : moins de vidanges necessaires, ideal pour les foyers multi-chats
+- Jusqu'a 4 chats simultanes — a egalite avec le Litter-Robot
+- Le tiroir a dechets est proportionnellement grand aussi
 
-**Avantage principal :**
-- "Avec 90 litres, c'est la seule litiere du marche qui peut gerer 4 chats sans vidange quotidienne. Pour un foyer multi-chats a budget serre, c'est LE choix."
+**Tableau a l'ecran :**
+| Modele | Capacite | Chats max |
+|--------|----------|-----------|
+| PetSafe | 20L | 1 |
+| Litter-Robot 4 | 57L | 4 |
+| Neakasa M1 | 65L | 3 |
+| CATLINK Baymax | 70L | 3 |
+| PETKIT Pura Max 2 | 76L | 3 |
+| PetSnowy SNOW+ | 83L | 3 |
+| **Devoko 90L** | **90L** | **4** |
+
+---
+
+### 3. Le design oreilles de chat — fun mais pas que (2:00 - 2:45)
+
+**Points cles :**
+- Design distinctif avec oreilles de chat sur le dessus
+- Ca plait ou ca ne plait pas — question de gout
+- Les oreilles ne sont pas que decoratives : elles servent de ventilation
+- Desodorisation integree dans le chassis
+- Format ferme classique avec ouverture frontale
+
+---
+
+### 4. La securite — 6 niveaux (2:45 - 3:30)
+
+**Points cles :**
+- 6 niveaux de securite (vs 7 pour le CATLINK)
+- Detection de presence, anti-blocage, capteur de poids
+- Arret immediat si le chat entre pendant un cycle
+- Niveau de securite correct pour le prix
+- Aucun accident rapporte dans les avis verifies
+
+---
+
+### 5. L'app et la connectivite (3:30 - 4:15)
+
+**Points cles :**
+- Wi-Fi + app (iOS/Android)
+- Declenchement a distance, notifications, historique
+- **Pas de suivi sante** — pas de suivi de poids ni de frequence par chat
+- App fonctionnelle, interface simple
+- Desodorisation pilotable depuis l'app
+
+**Ce qu'il faut dire :**
+- Si le suivi sante est important, le CATLINK Baymax (294 EUR) le propose pour seulement 70 EUR de plus
+- L'app fait le strict minimum, c'est honnete pour le prix
 
 **CTA mid-roll :**
-> "Mon avis complet avec le meilleur prix est dans la description."
+> "Vous voulez voir comment le Devoko se compare aux autres modeles budget ? Mon comparatif complet avec tableau et prix est sur le site, lien dans la description."
 
 ---
 
-### 4. Bruit — Le point faible (2:45 - 3:15)
+### 6. Le bruit — le point faible (4:15 - 5:00)
 
-**Points a couvrir :**
-- 55 dB : le plus bruyant du comparatif
-- 55 dB = conversation normale, machine a laver en fond
-- Comparaison : 10 dB de plus que Neakasa M1 (45 dB), 7 dB de plus que Litter-Robot (48 dB)
-- En pratique : audible dans la piece, potentiellement derangeant la nuit
-- Conseil : ne pas placer dans une chambre
-
-**Script indicatif :**
-- "C'est clairement le point faible. Si le silence est une priorite, passez votre chemin. Mais si la litiere est dans un couloir ou une buanderie, ca reste tout a fait acceptable."
+**Points cles :**
+- **55 dB** — le plus bruyant de tout le comparatif
+- Pour reference : 55 dB = conversation normale, machine a cafe
+- Pas ideal pour une utilisation en chambre la nuit
+- Le cycle est relativement court, ca compense partiellement
+- A placer dans une piece ou le bruit ne gene pas (buanderie, couloir)
 
 ---
 
-### 5. Points forts vs Points faibles (3:15 - 4:15)
+### 7. Les points forts (5:00 - 5:45)
 
-**Points forts (a l'ecran) :**
-- Capacite 90L = la plus grande du marche, de loin
-- Prix imbattable (a partir de 226 EUR avec app et connectivite)
-- Best-seller Amazon : 5 400 avis, communaute active
-- Jusqu'a 4 chats — le meilleur choix multi-chats budget
-- Desodorisation integree
-- Securite 6 niveaux
-
-**Points faibles (a l'ecran) :**
-- Bruit : 55 dB, le plus bruyant
-- Pas de suivi sante (pas de pesee)
-- Poids max 8 kg — pas pour les gros chats
-- Encombrement consequent (60 x 58 x 68 cm)
-- Design polarisant ("oreilles de chat")
-- App basique comparee a PETKIT ou Whisker
+**Points cles :**
+- **Prix imbattable** : 226-287 EUR pour une litiere connectee
+- **90 litres** — la plus grande capacite du marche
+- **4 chats max** — ideal pour les foyers multi-chats
+- **5400+ avis a 4.3/5** — la base d'avis la plus large du segment
+- App connectee avec desodorisation
+- Disponible sur Cdiscount et Amazon (livraison rapide)
+- Design ludique et reconnaissable
 
 ---
 
-### 6. Verdict final + Outro (4:15 - 6:00)
+### 8. Les points faibles (5:45 - 6:30)
 
-**Note finale a l'ecran : 7.5/10**
+**Points cles :**
+- **55 dB** — le plus bruyant du comparatif
+- **Poids max 8 kg** — pas adapte aux gros chats
+- **Pas de suivi sante** — dommage, le CATLINK le fait pour 70 EUR de plus
+- **App basique** — pas au niveau PETKIT ou Litter-Robot
+- **12 kg** — assez lourd a deplacer
+- **Encombrant** : 60x58x68 cm — la taille est le prix de la capacite XXL
 
-**A qui s'adresse la Devoko 90L :**
-- Foyers multi-chats (3-4 chats) avec un budget serre
-- Ceux qui veulent la plus grande capacite du marche
-- Acheteurs Amazon qui veulent un produit bien note et eprouve
-- Placement dans une piece non-habitable (buanderie, couloir, cellier)
+---
 
-**Pas ideal pour :**
-- Ceux qui veulent le silence → Neakasa M1 (45 dB) ou Litter-Robot (48 dB)
-- Ceux qui veulent le suivi sante → CATLINK Baymax (294 EUR, avec suivi)
-- Gros chats → poids max 8 kg
-- Petits espaces → c'est gros
+### 9. A qui je le recommande ? (6:30 - 7:15)
 
-**Comparaison directe Devoko vs CATLINK :**
-- Devoko : +20L de capacite, +1 chat max, pas de suivi sante, un peu moins cher
-- CATLINK : suivi sante, 7 capteurs (vs 6), plus compact, plus silencieux (50 vs 55 dB)
-- "Quantite vs Qualite des fonctions"
+**Points cles :**
+- **OUI si :** vous avez 3-4 chats et un budget serre, la capacite est votre priorite numero 1, vous voulez le minimum connecte au prix le plus bas, le bruit n'est pas un probleme (litiere dans une piece separee)
+- **NON si :** le silence est prioritaire — Neakasa M1 (45 dB), vous voulez du suivi sante — CATLINK Baymax (294 EUR), vous avez un gros chat (+8 kg) — Neakasa M1 ou Litter-Robot
+- **Alternative directe :** CATLINK Baymax a 294 EUR si le suivi sante vaut 70 EUR de plus pour vous
+
+---
+
+### 10. Note finale et verdict (7:15 - 7:45)
+
+**Note : 4.3/5**
+
+**Verdict :**
+> "Le Devoko 90L, c'est simple : la plus grande capacite au prix le plus bas. Si vous avez plusieurs chats et un budget serre, c'est imbattable. Le compromis ? Le bruit a 55 dB et l'absence de suivi sante. Pour 70 euros de plus, le CATLINK ajoute le suivi sante — a vous de voir."
+
+---
+
+### 11. Outro + CTA (7:45 - 8:00)
 
 **Script :**
-> "La Devoko 90L fait une chose mieux que toutes les autres : stocker beaucoup de litiere pour beaucoup de chats. Si c'est ce dont vous avez besoin, c'est un no-brainer. Si vous avez 1-2 chats et que le bruit vous derange, la CATLINK Baymax est un meilleur choix au meme prix. Tout est dans la description !"
+> "Voila mon avis sur le Devoko 90L. Si ca vous interesse, les liens sont dans la description. Et pour voir mon classement complet, la video est juste la. Pouce bleu, abonnement, et a la prochaine !"
 
 **End screen :**
-- Card 1 : Video "Litiere Pas Cher : Les 3 Meilleurs Modeles"
-- Card 2 : Video "CATLINK Baymax : Test" (alternative plus intelligente)
+- Card 1 : Video "Litiere Automatique Pas Chere"
+- Card 2 : Video "Top 7 Meilleures Litieres Automatiques 2026"
 
 ---
 
 ## Description YouTube
 
 ```
-Devoko 90L : Test et Avis — La XXL Best-Seller Amazon (2026)
+Devoko 90L : 90 Litres a 226 EUR — Le Best-Seller Amazon au Test (2026)
 
-90 litres, 4 chats, moins de 290 EUR. La Devoko 90L est la litiere automatique la plus vendue sur Amazon. Mais vaut-elle vraiment le coup ?
+Le Devoko 90L est le best-seller Amazon des litieres automatiques : 90 litres, 4 chats, a partir de 226 EUR. Mon test complet : capacite, bruit, app, securite et verdict honnete.
 
-MON AVIS COMPLET (avec liens d'achat) :
+AVIS COMPLET (article) :
 https://litiere-auto.pages.dev/avis/devoko-90l/
 
-COMPARATIF PAS CHER :
-https://litiere-auto.pages.dev/litieres-automatiques/litiere-automatique-pas-cher/
+ACHETER LE DEVOKO 90L :
+Cdiscount : https://www.cdiscount.com/product/devoko-90l?ref=litiereauto
+Amazon : https://www.amazon.fr/dp/B0EXAMPLE8?tag=litiereauto-21
 
 COMPARATIF DES 7 MEILLEURES :
 https://litiere-auto.pages.dev/litieres-automatiques/meilleure-litiere-automatique/
@@ -157,25 +189,26 @@ https://litiere-auto.pages.dev/litieres-automatiques/meilleure-litiere-automatiq
 TIMESTAMPS :
 0:00 Introduction
 0:10 Presentation
-0:45 Design
-1:30 Fonctionnement
-2:45 Bruit (55 dB)
-3:15 Points forts vs Points faibles
-4:15 Verdict (7.5/10)
+1:00 Capacite XXL (90 litres)
+2:00 Design oreilles de chat
+2:45 Securite 6 niveaux
+3:30 App et connectivite
+4:15 Le bruit (55 dB)
+5:00 Points forts
+5:45 Points faibles
+6:30 A qui je le recommande ?
+7:15 Note finale et verdict
+7:45 Conclusion
 
-SPECIFICATIONS :
-- Prix : 226-287 EUR
-- Bruit : 55 dB
-- Capacite : 90L (la plus grande)
-- Poids max chat : 8 kg
-- Chats max : 4
-- Desodorisation integree
+ALTERNATIVES :
+- CATLINK Baymax (294 EUR) : https://litiere-auto.pages.dev/avis/catlink-baymax/
+- PETKIT Pura Max 2 (399 EUR) : https://litiere-auto.pages.dev/avis/petkit-pura-max-2/
 
-#devoko #devoko90l #litiereauto #bestselleramazon #litierechat
+#devoko90l #litiereauto #litierechat #multichats #bestseller
 ```
 
 ---
 
 ## Tags YouTube
 
-devoko 90l, devoko 90l avis, devoko litiere automatique, litiere automatique xxl, litiere 4 chats, litiere automatique grande capacite, litiere chat amazon, best seller litiere automatique
+devoko 90l avis, devoko 90l test, devoko litiere automatique, litiere automatique 90 litres, litiere multi chat automatique, litiere automatique pas cher, devoko litiere chat, best seller litiere amazon

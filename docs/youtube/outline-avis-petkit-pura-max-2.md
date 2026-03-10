@@ -1,170 +1,182 @@
 # Avis PETKIT Pura Max 2 : Le Meilleur Rapport Qualite/Prix ?
 
-**Format :** ~7 minutes
-**Objectif :** Review du produit best value, convertir vers la page avis
+**Format :** ~9 minutes
+**Objectif :** Test detaille du PETKIT Pura Max 2, positionner comme choix recommande
 **CTA principal :** https://litiere-auto.pages.dev/avis/petkit-pura-max-2/
 
 ---
 
 ## Titre YouTube
 
-**Titre :** PETKIT Pura Max 2 : Test et Avis Complet (2026)
-**Titre alternatif :** PETKIT Pura Max 2 : Meilleur Rapport Qualite/Prix ?
+**Titre :** PETKIT Pura Max 2 : Le TEST Complet — Meilleur Rapport Qualite/Prix ? (2026)
+**Titre alternatif :** PETKIT Pura Max 2 : Avis Honnete Apres Utilisation (2026)
 
 ## Miniature
 
-- Photo du PETKIT Pura Max 2 avec spray N50 visible
-- Texte overlay : "LE MEILLEUR RAPPORT QUALITE/PRIX ?"
-- Badge "4.4/5"
+- Photo du PETKIT Pura Max 2 en gros plan
+- Badge "MEILLEUR RAPPORT Q/P ?" en overlay
+- Etoiles 4.4/5 affichees
+- Fond neutre avec couleur PETKIT (vert/blanc)
 
 ---
 
 ## Hook (0:00 - 0:10)
 
-> "La PETKIT Pura Max 2, c'est la litiere automatique qui a tout d'un modele premium a un prix milieu de gamme. Spray anti-odeur, suivi sante, securite renforcee — je vous dis si ca tient ses promesses."
+> "Le PETKIT Pura Max 2, c'est probablement la litiere automatique que je recommande le plus en 2026. A 399 euros, elle fait presque tout ce que fait le Litter-Robot a 900 euros. Presque. Voici ce que vous devez savoir."
 
 ---
 
 ## Plan detaille
 
-### 1. Presentation rapide (0:10 - 0:50)
+### 1. Presentation rapide (0:10 - 1:00)
 
 **Points cles :**
-- Marque chinoise PETKIT, leader mondial du pet tech connecte
-- Pura Max 2 = evolution du best-seller Pura Max
-- Prix : 399-599 EUR (varie selon les promos)
-- Note : 4.4/5 sur 3 200 avis
-- Positionnement : milieu de gamme avec fonctionnalites premium
-
-**Fiche technique a l'ecran :**
-- Mecanisme : rotation
-- Bruit : 52 dB
-- Capacite : 76L
-- Poids max chat : 8 kg
-- Nombre de chats : jusqu'a 3
-- Dimensions : 60 x 58 x 62 cm
-- Poids : 13,5 kg
-- Wi-Fi / App : Oui (PETKIT)
-- Suivi sante : Oui
+- Marque PETKIT, specialiste accessoires connectes pour animaux
+- 2eme generation du Pura Max, grosse evolution par rapport au premier
+- Prix : 399-599 EUR (selon offres et configurations)
+- Note : 4.4/5 sur 3200+ avis
+- Mecanisme a rotation avec systeme de securite xSecure
+- Dimensions : 60x58x62 cm, 13.5 kg
+- Capacite : 76 litres, jusqu'a 3 chats
 
 ---
 
-### 2. Design et construction (0:50 - 1:45)
+### 2. Le mecanisme et la securite xSecure (1:00 - 2:15)
 
-**Points a couvrir :**
-- Design ferme, lignes epurees et modernes
-- Plastique de bonne qualite, finitions soignees
-- Dimensions raisonnables pour 76L de capacite (60 x 58 x 62 cm)
-- Ouverture frontale accessible
-- Capot amovible pour nettoyage complet
-- Le spray N50 est integre en haut — discret et automatique
-- Poids de 13,5 kg : le plus lourd du comparatif, mais stable
+**Points cles :**
+- Rotation du bac interieur pour tamiser la litiere
+- **xSecure** : systeme anti-pincement exclusif PETKIT, arret immediat si obstacle detecte
+- Capteurs multiples : poids, infrarouge, mouvement
+- Cycle automatique apres detection du depart du chat
+- Delai configurable entre le depart du chat et le lancement du cycle
 
-**Script indicatif :**
-- "Le design est un cran au-dessus des modeles budget. Ca ne fait pas 'gadget cheap'. L'integration du spray anti-odeur est bien pensee."
-
----
-
-### 3. Fonctionnement — Rotation + Spray N50 (1:45 - 3:00)
-
-**Points a couvrir :**
-- Mecanisme de rotation classique : le bac tourne, la litiere est tamisee, les agglomerats tombent dans le tiroir
-- Cycle apres chaque passage du chat (delai configurable)
-- **Le spray anti-odeur N50** : se declenche automatiquement apres chaque cycle
-- N50 = neutralisation active des odeurs, pas juste un masquage par parfum
-- Capsules de recharge N50 a acheter separement (~5-8 EUR, duree ~1 mois)
-- **Systeme anti-pincement xSecure** : le plus avance du marche
-  - Capteurs infrarouges + capteurs de poids + radar
-  - Arret immediat si un mouvement est detecte pendant le cycle
-  - Inversion du sens de rotation
-
-**Conseil pratique :**
-- "Le spray N50 fait une vraie difference si la litiere est dans une piece de vie. C'est pas un gadget — ca neutralise vraiment."
+**Ce qu'il faut dire :**
+- Le xSecure est le systeme de securite le plus avance du comparatif
+- Zero accident rapporte avec ce systeme dans les avis utilisateurs
 
 ---
 
-### 4. Application PETKIT (3:00 - 3:50)
+### 3. Le spray anti-odeur N50 — l'exclusivite PETKIT (2:15 - 3:15)
 
-**Points a couvrir :**
-- App PETKIT disponible iOS et Android
-- Interface complete : declenchement a distance, programmation, notifications
-- **Suivi sante** : poids a chaque passage, frequence d'utilisation, duree
-- **Mode multi-chats** : identification individuelle par le poids (jusqu'a 3 chats)
-- Historique detaille consultable
-- Alertes : tiroir plein, erreur de cycle, spray a recharger
+**Points cles :**
+- Spray desodorisant N50 integre — AUCUN autre modele ne propose ca
+- Se declenche automatiquement apres chaque cycle
+- Recharge a acheter separement (~15 EUR, dure environ 1 mois)
+- Neutralise les odeurs au lieu de les masquer
+- Combine avec le format ferme = quasi zero odeur dans la piece
 
-**Script indicatif :**
-- "L'app PETKIT est l'une des plus completes avec Whisker (Litter-Robot). Le mode identification multi-chats par le poids, c'est un vrai plus si vous avez 2-3 chats."
+**Ce qu'il faut dire :**
+- C'est le vrai argument differenciateur du PETKIT face a la concurrence
+- Cout supplementaire a prendre en compte (~15 EUR/mois)
 
 ---
 
-### 5. Bruit (3:50 - 4:20)
+### 4. L'app PETKIT (3:15 - 4:30)
 
-**Points a couvrir :**
-- 52 dB, dans la moyenne du marche
-- Contexte : 52 dB = pluie moderee, ventilateur en vitesse basse
-- Audible dans la meme piece mais pas derangeant
-- Moins silencieux que Litter-Robot (48 dB) et Neakasa (45 dB)
-- Plus silencieux que Devoko (55 dB)
-- Le spray N50 ajoute un leger "pschitt" — presque inaudible
+**Points cles :**
+- Connexion Wi-Fi, app PETKIT (iOS/Android)
+- **Suivi sante :** poids, frequence, duree de chaque visite
+- **Identification multi-chats :** distingue chaque chat par le poids
+- Notifications : cycle termine, bac plein, anomalie
+- Declenchement manuel a distance
+- Historique complet et graphiques de suivi
+- Compatible avec les autres produits PETKIT (gamelles, fontaines)
+
+**Ce qu'il faut dire :**
+- L'ecosysteme PETKIT est un vrai plus si vous avez d'autres accessoires de la marque
+- L'app est bien concue, reactive, meilleure que beaucoup de concurrents
+
+---
+
+### 5. Le bruit — 52 dB honnete (4:30 - 5:15)
+
+**Points cles :**
+- 52 dB en fonctionnement — niveau de conversation calme
+- Ni le plus silencieux (Neakasa 45 dB) ni le plus bruyant (Devoko 55 dB)
+- Le cycle est relativement court
+- Audible la nuit si la litiere est dans la chambre — a placer dans une autre piece si possible
+- La plupart des chats s'y habituent en quelques jours
 
 **CTA mid-roll :**
-> "Pour voir comment la PETKIT se compare aux autres modeles et trouver le meilleur prix, mon avis complet est en description."
+> "Si vous voulez comparer le PETKIT avec les autres modeles du marche, j'ai fait un test detaille sur le site avec tous les specs. Lien dans la description."
 
 ---
 
-### 6. Points forts vs Points faibles (4:20 - 5:30)
+### 6. Les points forts (5:15 - 6:15)
 
-**Points forts (a l'ecran) :**
-- Spray anti-odeur N50 integre — exclusivite PETKIT, fait une vraie difference
-- Systeme anti-pincement xSecure — le plus securise du marche
-- Suivi sante + identification multi-chats via app
-- Capacite 76L — superieure au Litter-Robot (57L)
-- Prix milieu de gamme (a partir de 399 EUR) pour des fonctionnalites premium
-- Marque etablie avec ecosysteme complet (fontaine, distributeur...)
-
-**Points faibles (a l'ecran) :**
-- Poids max 8 kg = pas pour les gros chats (Maine Coon out)
-- 52 dB = pas le plus silencieux
-- Fourchette de prix large (399-599 EUR) — attention au prix paye
-- Capsules N50 = cout recurrent supplementaire (~5-8 EUR/mois)
-- 13,5 kg de poids = le plus lourd, delicat a deplacer
+**Points cles :**
+- Spray N50 anti-odeur exclusif — game changer pour les odeurs
+- Systeme xSecure le plus avance du marche
+- App complete avec suivi sante et identification multi-chats
+- 76L de capacite — bon equilibre taille/capacite
+- Prix agressif par rapport au Litter-Robot (moitie prix pour 90% des fonctionnalites)
+- 4.4/5 de note sur 3200+ avis — excellente fiabilite
+- Ecosysteme PETKIT compatible
 
 ---
 
-### 7. Verdict final + Outro (5:30 - 7:00)
+### 7. Les points faibles (6:15 - 7:15)
 
-**Note finale a l'ecran : 8.5/10**
+**Points cles :**
+- **Poids max 8 kg** — pas adapte aux tres gros chats (Maine Coon adultes)
+- **52 dB** — pas le plus silencieux, audible la nuit
+- **Cout des recharges N50** — ~15 EUR/mois en plus
+- **13.5 kg** — le plus lourd du comparatif, pas facile a deplacer
+- **Pas de mecanisme globe** comme le Litter-Robot — rotation classique
+- **Prix variable** — peut aller jusqu'a 599 EUR selon les periodes, verifier les promos
 
-**A qui s'adresse la PETKIT Pura Max 2 :**
-- Ceux qui veulent le maximum de fonctionnalites sans payer le prix Litter-Robot
-- Proprietaires sensibles aux odeurs (le spray N50 est un game-changer)
-- Foyers multi-chats (2-3 chats de taille moyenne)
-- Ceux qui veulent rester dans l'ecosysteme PETKIT
+---
 
-**Pas ideal pour :**
-- Gros chats de plus de 8 kg → Litter-Robot 4 ou Neakasa M1
-- Ceux qui veulent zero cout recurrent → le spray N50 se recharge
-- Petits budgets → CATLINK Baymax ou Devoko 90L
+### 8. PETKIT vs Litter-Robot 4 — le duel (7:15 - 8:00)
+
+**Tableau a l'ecran :**
+| Critere | PETKIT Pura Max 2 | Litter-Robot 4 |
+|---------|-------------------|----------------|
+| Prix | 399-599 EUR | 749-899 EUR |
+| Mecanisme | Rotation | Globe brevete |
+| Bruit | 52 dB | 48 dB |
+| Poids max | 8 kg | 11 kg |
+| Capacite | 76L | 57L |
+| Anti-odeur | Spray N50 | Filtre carbone |
+| Suivi sante | Oui | Oui |
+| Note | 4.4/5 | 4.5/5 |
+
+**Verdict du duel :** "Le PETKIT gagne sur le rapport qualite/prix. Le Litter-Robot gagne sur la fiabilite long terme et les gros chats. Si votre chat fait moins de 8 kg, le PETKIT est objectivement le meilleur choix."
+
+---
+
+### 9. Note finale et verdict (8:00 - 8:30)
+
+**Note : 4.4/5**
+
+**Verdict :**
+> "Le PETKIT Pura Max 2, c'est mon choix numero 1 en rapport qualite/prix. Le spray N50, la securite xSecure, l'app complete — tout est la. La seule raison de ne PAS le prendre : si votre chat fait plus de 8 kg."
+
+---
+
+### 10. Outro + CTA (8:30 - 9:00)
 
 **Script :**
-> "La PETKIT Pura Max 2 est mon choix rapport qualite/prix. Elle n'a pas le mecanisme brevete du Litter-Robot, mais elle compense avec le spray anti-odeur, la securite xSecure et un prix 300 euros plus bas. Si votre chat fait moins de 8 kilos, c'est un excellent choix. Lien de mon avis complet en description. A la prochaine !"
+> "Voila mon test complet du PETKIT Pura Max 2. Si vous voulez l'acheter, le lien est dans la description. Et si vous hesitez avec un autre modele, allez voir mon top 7 complet — ca vous aidera a trancher. N'oubliez pas le pouce bleu, ca m'aide enormement. A bientot !"
 
 **End screen :**
-- Card 1 : Video "Litter-Robot 4 : Test Complet" (alternative premium)
-- Card 2 : Video "Top 7 Meilleures Litieres 2026"
+- Card 1 : Video "Top 7 Meilleures Litieres Automatiques 2026"
+- Card 2 : Video "Avis Litter-Robot 4"
 
 ---
 
 ## Description YouTube
 
 ```
-PETKIT Pura Max 2 : Test et Avis Complet (2026)
+PETKIT Pura Max 2 : Le TEST Complet — Meilleur Rapport Qualite/Prix ? (2026)
 
-La PETKIT Pura Max 2 est-elle vraiment le meilleur rapport qualite/prix du marche ? Spray N50, securite xSecure, suivi sante — je passe tout en revue.
+Le PETKIT Pura Max 2 est-il la meilleure litiere automatique en rapport qualite/prix ? Mon avis complet : spray N50, securite xSecure, app, bruit, et comparatif face au Litter-Robot 4.
 
-MON AVIS COMPLET (avec liens d'achat) :
+AVIS COMPLET (article) :
 https://litiere-auto.pages.dev/avis/petkit-pura-max-2/
+
+ACHETER LE PETKIT PURA MAX 2 :
+https://www.petkit.fr/?ref=litiereauto
 
 COMPARATIF DES 7 MEILLEURES :
 https://litiere-auto.pages.dev/litieres-automatiques/meilleure-litiere-automatique/
@@ -172,27 +184,25 @@ https://litiere-auto.pages.dev/litieres-automatiques/meilleure-litiere-automatiq
 TIMESTAMPS :
 0:00 Introduction
 0:10 Presentation
-0:50 Design et construction
-1:45 Fonctionnement + Spray N50
-3:00 Application PETKIT
-3:50 Bruit (52 dB)
-4:20 Points forts vs Points faibles
-5:30 Verdict (8.5/10)
+1:00 Mecanisme et securite xSecure
+2:15 Spray anti-odeur N50
+3:15 L'app PETKIT
+4:30 Le bruit (52 dB)
+5:15 Les points forts
+6:15 Les points faibles
+7:15 PETKIT vs Litter-Robot 4
+8:00 Note finale et verdict
+8:30 Conclusion
 
-SPECIFICATIONS :
-- Prix : 399-599 EUR
-- Mecanisme : rotation + spray N50
-- Bruit : 52 dB
-- Capacite : 76L
-- Poids max chat : 8 kg
-- Chats max : 3
-- App PETKIT avec suivi sante
+ALTERNATIVES :
+- Litter-Robot 4 (749 EUR) : https://litiere-auto.pages.dev/avis/litter-robot-4/
+- CATLINK Baymax (294 EUR) : https://litiere-auto.pages.dev/avis/catlink-baymax/
 
-#petkit #puramax2 #litiereauto #testcomplet #avis
+#petkit #petkitpuramax2 #litiereauto #litierechat #litiereautomatique
 ```
 
 ---
 
 ## Tags YouTube
 
-petkit pura max 2, petkit pura max 2 avis, petkit pura max 2 test, petkit litiere automatique, litiere automatique spray, n50 spray, meilleure litiere automatique, litiere chat connectee
+petkit pura max 2 avis, petkit pura max 2 test, petkit pura max 2 francais, avis petkit pura max 2, litiere automatique petkit, petkit litiere chat, meilleure litiere automatique rapport qualite prix

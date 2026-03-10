@@ -1,0 +1,117 @@
+{
+  "product": "Neakasa M1",
+  "brand": "Neakasa",
+  "source": "https://neakasa.com/products/neakasa-m1-cat-litter-box",
+  "date_fetched": "2026-03-08",
+  "logos": [
+    {
+      "file": "logos/neakasa-favicon.png",
+      "type": "favicon",
+      "dimensions": "128x128",
+      "format": "PNG",
+      "source_url": "https://www.google.com/s2/favicons?domain=neakasa.com&sz=128"
+    },
+    {
+      "file": "logos/neakasa-logo.png",
+      "type": "brand_logo",
+      "dimensions": "5760x1021",
+      "format": "PNG",
+      "source_url": "https://neakasa.com/cdn/shop/files/neakasa_logo_6b188ba2-9ef5-461e-8b31-1170b3d95258.png?v=1700200477&width=5760"
+    }
+  ],
+  "product_images": [
+    {
+      "file": "product/neakasa-m1-main.jpg",
+      "description": "Main product photo",
+      "dimensions": "2400x2400",
+      "format": "JPEG",
+      "source_url": "https://neakasa.com/cdn/shop/files/neakasam1_litter_box1.webp?v=1772783206"
+    },
+    {
+      "file": "product/neakasa-m1-02.jpg",
+      "description": "Product photo 2",
+      "dimensions": "1000x1000",
+      "format": "JPEG",
+      "source_url": "https://neakasa.com/cdn/shop/files/neakasam1-2.webp?v=1772783206"
+    },
+    {
+      "file": "product/neakasa-m1-03.jpg",
+      "description": "Product photo 3",
+      "dimensions": "1000x1000",
+      "format": "JPEG",
+      "source_url": "https://neakasa.com/cdn/shop/files/neakasam1-3.webp?v=1772783206"
+    },
+    {
+      "file": "product/neakasa-m1-04.jpg",
+      "description": "Product photo 4",
+      "dimensions": "1000x1000",
+      "format": "JPEG",
+      "source_url": "https://neakasa.com/cdn/shop/files/neakasam1-4.webp?v=1772783206"
+    },
+    {
+      "file": "product/neakasa-m1-05.jpg",
+      "description": "Product photo 5",
+      "dimensions": "1000x1000",
+      "format": "JPEG",
+      "source_url": "https://neakasa.com/cdn/shop/files/neakasam1-5.webp?v=1772783206"
+    },
+    {
+      "file": "product/neakasa-m1-06.jpg",
+      "description": "Product photo 6",
+      "dimensions": "1000x1000",
+      "format": "JPEG",
+      "source_url": "https://neakasa.com/cdn/shop/files/neakasam1-6.webp?v=1772783206"
+    },
+    {
+      "file": "product/neakasa-m1-07.jpg",
+      "description": "Product photo 7",
+      "dimensions": "1000x1000",
+      "format": "JPEG",
+      "source_url": "https://neakasa.com/cdn/shop/files/neakasam1-7.webp?v=1772783206"
+    },
+    {
+      "file": "product/neakasa-m1-08.jpg",
+      "description": "Product photo 8",
+      "dimensions": "1000x1000",
+      "format": "JPEG",
+      "source_url": "https://neakasa.com/cdn/shop/files/neakasam1-8.webp?v=1772783206"
+    },
+    {
+      "file": "product/neakasa-m1-09.jpg",
+      "description": "Product photo 9",
+      "dimensions": "1000x1000",
+      "format": "JPEG",
+      "source_url": "https://neakasa.com/cdn/shop/files/neakasam1-9.webp?v=1772783206"
+    },
+    {
+      "file": "product/neakasa-m1-10.jpg",
+      "description": "Product photo 10",
+      "dimensions": "1000x1000",
+      "format": "JPEG",
+      "source_url": "https://neakasa.com/cdn/shop/files/neakasam1-10.webp?v=1772783206"
+    },
+    {
+      "file": "product/neakasa-m1-with-ramp.jpg",
+      "description": "M1 with ramp accessory (grey)",
+      "dimensions": "2125x2125",
+      "format": "JPEG",
+      "source_url": "https://neakasa.com/cdn/shop/files/m1_litter_box_and_m1_ramp_grey_2.webp?v=1772783206"
+    },
+    {
+      "file": "product/neakasa-m1-pooguard.jpg",
+      "description": "M1 PooGuard accessory",
+      "dimensions": "2000x2000",
+      "format": "JPEG",
+      "source_url": "https://neakasa.com/cdn/shop/files/m1_pooguard.webp?v=1772783206"
+    },
+    {
+      "file": "product/neakasa-m1-with-fence.jpg",
+      "description": "M1 with fence accessory",
+      "dimensions": "1200x1200",
+      "format": "JPEG",
+      "source_url": "https://neakasa.com/cdn/shop/files/m1plusfence.webp?v=1772783206"
+    }
+  ],
+  "total_files": 15,
+  "notes": "All images sourced from official Neakasa Shopify store. Clearbit logo fetch failed. Shopify CDN served JPEG data despite .webp URLs, files renamed to .jpg."
+}

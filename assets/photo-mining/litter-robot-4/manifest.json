@@ -1,0 +1,137 @@
+{
+  "product": "Litter-Robot 4",
+  "brand": "Litter-Robot (Whisker)",
+  "source": "litter-robot.com",
+  "date_collected": "2026-03-08",
+  "logos": [
+    {
+      "file": "logos/litter-robot-logo.svg",
+      "format": "SVG",
+      "source_url": "https://www.litter-robot.com/static/version1772821883/frontend/LitterRobot/default/en_US/images/logo.svg",
+      "description": "Official Litter-Robot logo (vector)"
+    },
+    {
+      "file": "logos/litter-robot-favicon.png",
+      "format": "PNG",
+      "dimensions": "32x32",
+      "source_url": "https://www.google.com/s2/favicons?domain=litter-robot.com&sz=128",
+      "description": "Litter-Robot favicon"
+    }
+  ],
+  "product_images": [
+    {
+      "file": "product/lr4-black-main.png",
+      "format": "PNG",
+      "dimensions": "1560x1020",
+      "source_url": "https://images.litter-robot.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/e/n/english_black_1_.png",
+      "description": "LR4 black - main product shot with text overlay"
+    },
+    {
+      "file": "product/lr4-white-main.png",
+      "format": "PNG",
+      "dimensions": "1560x1020",
+      "source_url": "https://images.litter-robot.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/d/pdp-1560x1020_0001_white-white.png",
+      "description": "LR4 white - main PDP product shot"
+    },
+    {
+      "file": "product/lr4-with-cat.jpg",
+      "format": "JPEG",
+      "dimensions": "1920x1080",
+      "source_url": "https://images.litter-robot.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/w/h/white_lr4_with_black_and_white_cat.jpg",
+      "description": "LR4 white with black and white cat - lifestyle shot"
+    },
+    {
+      "file": "product/lr4-4-colors.jpg",
+      "format": "JPEG",
+      "dimensions": "760x1020",
+      "source_url": "https://images.litter-robot.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/l/r/lr4_4c.jpg",
+      "description": "LR4 shown in 4 color variants"
+    },
+    {
+      "file": "product/lr4-half-img.jpg",
+      "format": "JPEG",
+      "dimensions": "760x1020",
+      "source_url": "https://images.litter-robot.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/h/a/half-img-v1.jpg",
+      "description": "LR4 half-view product shot"
+    },
+    {
+      "file": "product/lr4-wifi-feature.png",
+      "format": "PNG",
+      "dimensions": "1560x1020",
+      "source_url": "https://images.litter-robot.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/l/r/lrc_lr4_gallery_wcfeature.png",
+      "description": "LR4 WiFi connectivity feature highlight"
+    },
+    {
+      "file": "product/lr4-app-gallery.png",
+      "format": "PNG",
+      "dimensions": "1560x1020",
+      "source_url": "https://images.litter-robot.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/a/p/app-gallery-lr4_image_v4.png",
+      "description": "LR4 with app interface gallery view"
+    },
+    {
+      "file": "product/lr4-black-step.png",
+      "format": "PNG",
+      "dimensions": "1255x820",
+      "source_url": "https://images.litter-robot.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/l/r/lr4_black_step_1_.png",
+      "description": "LR4 black with step/ramp accessory"
+    },
+    {
+      "file": "product/lr4-white-step.png",
+      "format": "PNG",
+      "dimensions": "1255x820",
+      "source_url": "https://images.litter-robot.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/l/r/lr4_white_step_1_.png",
+      "description": "LR4 white with step/ramp accessory"
+    },
+    {
+      "file": "product/lr4-black-with-fence.png",
+      "format": "PNG",
+      "dimensions": "1560x1020",
+      "source_url": "https://images.litter-robot.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/b/l/black_lr4_with_fence_1560x1020.png",
+      "description": "LR4 black with fence accessory"
+    },
+    {
+      "file": "product/lr4-white-with-fence.png",
+      "format": "PNG",
+      "dimensions": "1560x1020",
+      "source_url": "https://images.litter-robot.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/w/h/white_lr4_with_fence_1560x1020.png",
+      "description": "LR4 white with fence accessory"
+    },
+    {
+      "file": "product/lr4-black-black-pdp.png",
+      "format": "PNG",
+      "dimensions": "1560x1020",
+      "source_url": "https://images.litter-robot.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/d/pdp-1560x1020_0015_black-black.png",
+      "description": "LR4 black/black PDP clean product shot"
+    },
+    {
+      "file": "product/lr4-white-white-pdp.png",
+      "format": "PNG",
+      "dimensions": "1560x1020",
+      "source_url": "https://images.litter-robot.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/p/d/pdp-1560x1020_0001_white-white.png",
+      "description": "LR4 white/white PDP clean product shot"
+    },
+    {
+      "file": "product/lr4-bundle-with-cat.png",
+      "format": "PNG",
+      "dimensions": "1096x1100",
+      "source_url": "https://images.litter-robot.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/b/u/bundle-builder-black-base-black-bezel-with-cat.png",
+      "description": "LR4 black bundle with cat"
+    },
+    {
+      "file": "product/lr4-robot-builder-black.png",
+      "format": "PNG",
+      "dimensions": "1096x1100",
+      "source_url": "https://images.litter-robot.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/r/o/robot-builder-with-accessories_0021_black-base-black_bezel.png",
+      "description": "LR4 black with accessories (robot builder view)"
+    },
+    {
+      "file": "product/lr4-robot-builder-white.png",
+      "format": "PNG",
+      "dimensions": "1096x1100",
+      "source_url": "https://images.litter-robot.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/r/o/robot-builder-with-accessories_0022_white-base_white_bezel.png",
+      "description": "LR4 white with accessories (robot builder view)"
+    }
+  ],
+  "total_files": 18,
+  "notes": "All images sourced from litter-robot.com official product pages. No AI-generated images. Clearbit logo API was unavailable (DNS resolution failed)."
+}

@@ -1,145 +1,134 @@
-# Litiere Automatique Fermee : Laquelle Choisir ?
+# Litiere Automatique Fermee : Pourquoi C'est Mieux et Laquelle Choisir
 
-**Format :** ~7 minutes
-**Objectif :** Capter le keyword "litiere automatique fermee", convertir vers la page categorie
-**CTA principal :** https://litiere-auto.pages.dev/litieres-automatiques/litiere-automatique-fermee/
+**Format :** ~8 minutes
+**Objectif :** Capter le trafic "litiere fermee", eduquer sur les avantages du format ferme
+**CTA principal :** https://litiere-auto.pages.dev/litieres-automatiques/meilleure-litiere-automatique/
 
 ---
 
 ## Titre YouTube
 
-**Titre :** Litiere Automatique Fermee : Laquelle Choisir en 2026 ?
-**Titre alternatif :** Les Meilleures Litieres Automatiques Fermees (Anti-Odeurs)
+**Titre :** Litiere Automatique FERMEE : 6 Modeles Compares (Laquelle Choisir en 2026 ?)
+**Titre alternatif :** Pourquoi Choisir une Litiere Automatique FERMEE ? Comparatif 2026
 
 ## Miniature
 
-- Photo d'une litiere fermee avec un chat qui en sort
-- Texte overlay : "FERMEE = ZERO ODEUR ?"
-- Icone nez barre / emoji nez
+- Photo d'une litiere fermee ouverte vs fermee (avant/apres)
+- Chat qui entre dans la litiere fermee
+- Texte overlay : "FERMEE = MIEUX ?"
+- Icone odeur barree
 
 ---
 
 ## Hook (0:00 - 0:10)
 
-> "Une litiere fermee, c'est mieux pour les odeurs. Mais est-ce que tous les modeles se valent ? Et est-ce que votre chat va accepter d'y entrer ? Je reponds a tout ca dans cette video."
+> "Une litiere automatique ouverte, c'est des odeurs, de la litiere partout, et un spectacle pas tres glamour dans votre salon. La solution ? Une litiere fermee. Dans cette video, je compare les 6 meilleures litieres automatiques fermees du marche."
 
 ---
 
 ## Plan detaille
 
-### 1. Introduction — Pourquoi choisir une litiere fermee ? (0:10 - 1:15)
+### 1. Litiere ouverte vs fermee — les differences cles (0:10 - 1:30)
 
 **Points cles :**
-- 3 raisons principales : controle des odeurs, esthetique/design, intimite pour le chat
-- Point important : certains chats (anxieux, claustrophobes) n'aiment PAS les litieres fermees
-- 6 modeles fermes sur 7 dans notre comparatif — c'est le standard du marche en 2026
-- Seul modele ouvert : PetSafe ScoopFree
-
-**Ce qu'il faut dire :**
-- "Fermee" ne veut pas dire "hermetique" — il y a toujours une ouverture pour le chat
-- Tous les modeles fermes de ce comparatif ont une entree large et accessible
-- Si votre chat est anxieux : transition progressive avec la porte retiree pendant 1-2 semaines
+- **Odeurs :** la litiere fermee contient les odeurs dans l'habitacle, certaines ont des filtres carbone ou spray desodorisant
+- **Projections de litiere :** le format ferme empeche le chat de projeter la litiere en grattant
+- **Intimite du chat :** beaucoup de chats preferent un espace clos et securisant
+- **Esthetique :** s'integre mieux dans un interieur, moins visible
+- **Contrepartie :** plus encombrante, plus lourde, transition necessaire si le chat n'est pas habitue au ferme
+- Sur 7 modeles du marche, 6 sont fermes — c'est devenu le standard
 
 ---
 
-### 2. Les criteres specifiques aux litieres fermees (1:15 - 2:15)
+### 2. Les 6 litieres automatiques fermees du marche (1:30 - 2:00)
+
+**Liste rapide a l'ecran :**
+1. Litter-Robot 4 (749-899 EUR)
+2. PetSnowy SNOW+ (549-599 EUR)
+3. PETKIT Pura Max 2 (399-599 EUR)
+4. Neakasa M1 (429-475 EUR)
+5. CATLINK Baymax 70L (294-309 EUR)
+6. Devoko 90L (226-287 EUR)
+
+"La seule litiere automatique ouverte du comparatif, c'est la PetSafe ScoopFree — on en parlera a la fin."
+
+---
+
+### 3. Le choix premium — Litter-Robot 4 (2:00 - 3:15)
 
 **Points cles :**
-- **Controle des odeurs** : filtre carbone (Litter-Robot), spray N50 (PETKIT), desodorisation integree (Devoko)
-- **Taille de l'ouverture** : critique pour les gros chats — Neakasa M1 a la plus grande ouverture
-- **Ventilation** : un modele trop hermetique concentre les odeurs a l'interieur = le chat refuse d'y aller
-- **Facilite de nettoyage** : pouvoir ouvrir completement le capot est essentiel
-
-**Conseil pratique :**
-- "Si votre chat hesite, laissez le capot ouvert les premiers jours. Une fois qu'il est a l'aise avec le mecanisme, refermez."
-
----
-
-### 3. Mon Top 4 des litieres fermees (2:15 - 5:45)
-
-#### 3a. Le plus esthetique — PetSnowy SNOW+ (2:15 - 3:15)
-
-**Points rapides :**
-- 549-599 EUR | 83L | 50 dB | 9 kg max | 3 chats
-- Design le plus elegant et compact du marche (58 x 57 x 64 cm)
-- Sac auto-fermant : zero contact avec les dechets, zero odeur a la vidange
-- App connectee
-- S'integre dans un salon sans faire "objet de chat"
-
-**Ideal pour :** "Ceux qui veulent que leur litiere se fonde dans la deco."
+- Globe rotatif brevete, le mecanisme le plus efficace
+- Filtre carbone integre dans le tiroir a dechets
+- Design iconique, forme arrondie reconnaissable
+- 48 dB, silencieux pour sa categorie
+- Poids max 11 kg — le seul qui accepte les tres gros chats
+- App Whisker avec suivi sante complet
+- **Prix :** 749-899 EUR — le plus cher mais la reference
 
 ---
 
-#### 3b. Le meilleur anti-odeurs — PETKIT Pura Max 2 (3:15 - 4:00)
+### 4. Le plus propre — PetSnowy SNOW+ (3:15 - 4:15)
 
-**Points rapides :**
-- 399-599 EUR | 76L | 52 dB | 8 kg max | 3 chats
-- Spray anti-odeur N50 integre (exclusivite PETKIT) — neutralise les odeurs activement
-- Systeme anti-pincement xSecure
-- Suivi sante via app
-- Modele ferme avec bonne ventilation
+**Points cles :**
+- Sac auto-fermant : zero contact avec les dechets, zero odeur a l'ouverture
+- Design le plus elegant du comparatif, s'integre comme un meuble
+- 83L de capacite, bonne gestion multi-chats (3 max)
+- 50 dB, niveau sonore correct
+- **Prix :** 549-599 EUR — premium mais justifie par l'hygiene zero-contact
 
-**Ideal pour :** "Ceux pour qui les odeurs sont le probleme numero 1."
+---
+
+### 5. Le meilleur rapport Q/P ferme — PETKIT Pura Max 2 (4:15 - 5:15)
+
+**Points cles :**
+- Spray anti-odeur N50 integre — exclusivite PETKIT pour les odeurs
+- Systeme xSecure anti-pincement, le plus avance du marche
+- App complete avec identification multi-chats et suivi sante
+- 76L de capacite, format raisonnable (60x58x62 cm)
+- **Prix :** 399-599 EUR — le meilleur equilibre fonctionnalites/prix en ferme
 
 **CTA mid-roll :**
-> "Vous retrouvez tous ces modeles avec les prix en temps reel dans mon comparatif litieres fermees — le lien est en description."
+> "Si vous hesitez entre ces modeles, j'ai un comparatif detaille avec tous les specs sur le site. Le lien est juste en dessous dans la description."
 
 ---
 
-#### 3c. Le plus adapte aux gros chats — Neakasa M1 (4:00 - 4:45)
+### 6. Les alternatives fermees a petit prix (5:15 - 6:30)
 
-**Points rapides :**
-- 429-475 EUR | 65L | 45 dB | 10 kg max | 3 chats
-- Grande ouverture specialement concue pour les gros chats (Maine Coon)
-- Ultra-silencieuse (45 dB)
-- Modele ferme mais avec entree large et accueillante
-- Tapis inclus pour retenir la litiere
+**Neakasa M1 (429-475 EUR) :**
+- Grande ouverture adaptee aux gros chats (10 kg max)
+- La plus silencieuse du marche (45 dB)
+- Livree avec tapis et sacs — prete a l'emploi
 
-**Ideal pour :** "Proprietaires de gros chats qui veulent une litiere fermee sans forcer leur chat a se contorsionner."
+**CATLINK Baymax 70L (294-309 EUR) :**
+- 7 capteurs de securite, suivi sante via app
+- Le meilleur budget ferme avec fonctions intelligentes
+- 70L, jusqu'a 3 chats
 
----
-
-#### 3d. Le premium tout-en-un — Litter-Robot 4 (4:45 - 5:45)
-
-**Points rapides :**
-- 749-899 EUR | 57L | 48 dB | 11 kg max | 4 chats
-- Filtre carbone integre pour les odeurs
-- Globe rotatif = nettoyage le plus efficace, moins de residus = moins d'odeurs
-- App Whisker avec suivi sante complet
-- 12 400 avis, la reference du marche
-
-**Ideal pour :** "Ceux qui veulent le meilleur, tous criteres confondus, fermee incluse."
+**Devoko 90L (226-287 EUR) :**
+- La plus grande capacite (90L) au prix le plus bas
+- Desodorisation integree, 6 niveaux de securite
+- Design ludique avec oreilles de chat
 
 ---
 
-### 4. Et les chats anxieux ? Conseils de transition (5:45 - 6:15)
+### 7. Et la litiere ouverte ? PetSafe ScoopFree (6:30 - 7:15)
 
 **Points cles :**
-- Semaine 1 : placer la litiere automatique a cote de l'ancienne, SANS l'activer
-- Semaine 2 : activer le nettoyage automatique, garder l'ancienne litiere disponible
-- Semaine 3 : retirer l'ancienne litiere si le chat utilise la nouvelle regulierement
-- Si le chat refuse le modele ferme : retirer le capot ou la porte pendant la transition
-- Certains chats mettent 1 jour, d'autres 3 semaines — c'est normal
-
-**Conseil cle :**
-- "Ne jetez pas votre ancienne litiere trop vite. Gardez-la en backup pendant au moins 2 semaines."
+- La seule litiere ouverte du comparatif : PetSafe ScoopFree (179-219 EUR)
+- **Avantages du format ouvert :** chat timide qui refuse le ferme, surveillance visuelle facile, plus compact
+- **Inconvenients :** odeurs non contenues, projections de litiere, moins esthetique
+- Si votre chat refuse categoriquement le format ferme, c'est la seule option automatique ouverte
+- Astuce : la plupart des chats s'adaptent au ferme en 1-2 semaines avec une transition progressive
 
 ---
 
-### 5. Verdict + Outro (6:15 - 7:00)
-
-**Recapitulatif a l'ecran :**
-- Design/hygiene → PetSnowy SNOW+
-- Anti-odeurs → PETKIT Pura Max 2
-- Gros chats → Neakasa M1
-- Le meilleur global → Litter-Robot 4
-- Budget → CATLINK Baymax (294 EUR, ferme, app, suivi sante)
+### 8. Outro + CTA (7:15 - 8:00)
 
 **Script :**
-> "En 2026, les litieres fermees sont devenues la norme. Le vrai choix, c'est entre la gestion des odeurs, la taille de l'ouverture et le budget. Mon prefere pour le rapport qualite/prix, c'est le PETKIT avec son spray anti-odeur. Le lien du comparatif complet est dans la description. Dites-moi en commentaire si votre chat a accepte la litiere fermee du premier coup ou s'il a fait sa diva !"
+> "En resume, pour la grande majorite des foyers, une litiere fermee est le meilleur choix. Ma recommandation ? Le PETKIT Pura Max 2 pour le meilleur rapport qualite/prix, et le Litter-Robot 4 si le budget n'est pas un probleme. Tous les liens sont dans la description, et si vous voulez mon classement complet, c'est dans la video juste la. A bientot !"
 
 **End screen :**
-- Card 1 : Video "Guide d'Achat : 6 Criteres Essentiels"
+- Card 1 : Video "Top 7 Meilleures Litieres Automatiques 2026"
 - Card 2 : Abonnement chaine
 
 ---
@@ -147,39 +136,41 @@
 ## Description YouTube
 
 ```
-Litiere Automatique Fermee : Laquelle Choisir en 2026 ?
+Litiere Automatique FERMEE : 6 Modeles Compares (2026)
 
-Litiere fermee = moins d'odeurs ? Oui, mais toutes ne se valent pas. Je compare les meilleurs modeles fermes et je vous donne mes conseils pour la transition avec votre chat.
+Ouverte ou fermee ? Je compare les 6 meilleures litieres automatiques fermees du marche et je vous explique pourquoi le format ferme domine en 2026.
 
-COMPARATIF LITIERES FERMEES :
-https://litiere-auto.pages.dev/litieres-automatiques/litiere-automatique-fermee/
+COMPARATIF COMPLET :
+https://litiere-auto.pages.dev/litieres-automatiques/meilleure-litiere-automatique/
 
-GUIDE D'ACHAT COMPLET :
+GUIDE D'ACHAT :
 https://litiere-auto.pages.dev/guides/comment-choisir-litiere-automatique/
 
 TIMESTAMPS :
 0:00 Introduction
-0:10 Pourquoi une litiere fermee ?
-1:15 Criteres specifiques
-2:15 Top 4 litieres fermees
-2:15 PetSnowy SNOW+ (design)
-3:15 PETKIT Pura Max 2 (anti-odeurs)
-4:00 Neakasa M1 (gros chats)
-4:45 Litter-Robot 4 (premium)
-5:45 Conseils transition chat anxieux
-6:15 Verdict
+0:10 Ouverte vs fermee : les differences
+1:30 Les 6 modeles fermes
+2:00 Litter-Robot 4 (premium)
+3:15 PetSnowy SNOW+ (le plus propre)
+4:15 PETKIT Pura Max 2 (meilleur rapport Q/P)
+5:15 Neakasa, CATLINK, Devoko (alternatives budget)
+6:30 PetSafe ScoopFree (la seule ouverte)
+7:15 Conclusion
 
-LIENS AVIS DETAILLES :
+PRODUITS MENTIONNES :
+- Litter-Robot 4 : https://litiere-auto.pages.dev/avis/litter-robot-4/
 - PetSnowy SNOW+ : https://litiere-auto.pages.dev/avis/petsnowy-snow-plus/
 - PETKIT Pura Max 2 : https://litiere-auto.pages.dev/avis/petkit-pura-max-2/
 - Neakasa M1 : https://litiere-auto.pages.dev/avis/neakasa-m1/
-- Litter-Robot 4 : https://litiere-auto.pages.dev/avis/litter-robot-4/
+- CATLINK Baymax 70L : https://litiere-auto.pages.dev/avis/catlink-baymax/
+- Devoko 90L : https://litiere-auto.pages.dev/avis/devoko-90l/
+- PetSafe ScoopFree : https://litiere-auto.pages.dev/avis/petsafe-scoopfree/
 
-#litiereauto #litierefermee #antodeurs #litierechat
+#litiereauto #litierefermee #litierechat #litiereautomatique #comparatif2026
 ```
 
 ---
 
 ## Tags YouTube
 
-litiere automatique fermee, litiere chat fermee, litiere anti odeur, meilleure litiere fermee, litiere automatique anti odeur, litiere chat design, petsnowy, petkit pura max 2, chat anxieux litiere
+litiere automatique fermee, litiere chat fermee, meilleure litiere automatique fermee, litiere automatique fermee chat, comparatif litiere fermee, litiere fermee vs ouverte, litiere autonettoyante fermee 2026

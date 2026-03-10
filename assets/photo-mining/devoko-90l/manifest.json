@@ -1,0 +1,169 @@
+{
+  "product": "Devoko 90L Self-Cleaning Cat Litter Box",
+  "brand": "Devoko",
+  "date_collected": "2026-03-08",
+  "sources": [
+    "https://www.ebay.co.uk/itm/297327039765",
+    "https://quildinc.co.uk/products/self-cleaning-cat-litter-box-90l-with-wifi-app-control-for-multiple-cats",
+    "https://www.4-pattes.fr/test-de-la-litiere-autonome-devoko-oreilles-de-chat-90l/",
+    "https://www.amazon.fr/dp/B0FLPKZ4RS",
+    "https://www.amazon.com/dp/B0FMRB7Z2S"
+  ],
+  "logos": [
+    {
+      "file": "logos/devoko-favicon.png",
+      "source": "https://www.google.com/s2/favicons?domain=devoko.com&sz=128",
+      "description": "Devoko favicon from Google (actual 32x32 despite requesting 128)",
+      "format": "JPEG",
+      "size_bytes": 493
+    }
+  ],
+  "product_images": [
+    {
+      "file": "product/4pattes-review-featured.jpg",
+      "source": "https://www.4-pattes.fr/wp-content/uploads/2026/01/featured-test-de-la-litiere-autonome-devoko-oreilles-de-chat-90l.jpg",
+      "description": "Devoko 90L cat ears model (B0FLPKZ4RS) - main product photo with XXL text, cat, app, and accessories. German text overlay.",
+      "format": "JPEG",
+      "dimensions": "1200x1211",
+      "size_bytes": 115712,
+      "model": "cat-ears (B0FLPKZ4RS)"
+    },
+    {
+      "file": "product/ebay-devoko-01.png",
+      "source": "https://i.ebayimg.com/images/g/IBkAAeSwqbJogKjY/s-l1600.png",
+      "description": "Devoko 90L round model - main product photo with 90L text, cat inside, app shown, accessories (EN)",
+      "format": "PNG",
+      "dimensions": "1600x1600",
+      "size_bytes": 1015021,
+      "model": "round (B0FMRB7Z2S)"
+    },
+    {
+      "file": "product/ebay-devoko-02.jpg",
+      "source": "https://i.ebayimg.com/images/g/6c4AAeSwKaZownQB/s-l1600.jpg",
+      "description": "Devoko 90L round model - lifestyle shot showing 90L capacity, 8.5L waste bin, 10-day autonomy (EN)",
+      "format": "JPEG",
+      "dimensions": "1600x1600",
+      "size_bytes": 426291,
+      "model": "round (B0FMRB7Z2S)"
+    },
+    {
+      "file": "product/ebay-devoko-03.jpg",
+      "source": "https://i.ebayimg.com/images/g/7JsAAeSwYb9ownQA/s-l1600.jpg",
+      "description": "Devoko 90L round model - transparent view showing dimensions (53x61x58cm), suitable for 1.5-10kg cats (EN)",
+      "format": "JPEG",
+      "dimensions": "1600x1600",
+      "size_bytes": 399360,
+      "model": "round (B0FMRB7Z2S)"
+    },
+    {
+      "file": "product/ebay-devoko-04.jpg",
+      "source": "https://i.ebayimg.com/images/g/5dcAAeSw2xVownQB/s-l1600.jpg",
+      "description": "Devoko 90L round model - transparent X-ray view showing sensors (1 motion radar, 4 infrared, 4 weight) (EN)",
+      "format": "JPEG",
+      "dimensions": "1600x1600",
+      "size_bytes": 476160,
+      "model": "round (B0FMRB7Z2S)"
+    },
+    {
+      "file": "product/ebay-devoko-05.jpg",
+      "source": "https://i.ebayimg.com/images/g/3vkAAeSwf-FownQA/s-l1600.jpg",
+      "description": "Devoko 90L round model - top view showing two cleaning modes (remove waste / replace all litter) (EN)",
+      "format": "JPEG",
+      "dimensions": "1600x1600",
+      "size_bytes": 340197,
+      "model": "round (B0FMRB7Z2S)"
+    },
+    {
+      "file": "product/ebay-devoko-06.jpg",
+      "source": "https://i.ebayimg.com/images/g/6XIAAeSwe6lownQB/s-l1600.jpg",
+      "description": "Devoko 90L round model - APP smart control features (data analytics, remote cleaning, weight monitoring, sleep mode) (EN)",
+      "format": "JPEG",
+      "dimensions": "1600x1600",
+      "size_bytes": 413696,
+      "model": "round (B0FMRB7Z2S)"
+    },
+    {
+      "file": "product/quildinc-devoko-01.png",
+      "source": "https://quildinc.co.uk/cdn/shop/files/s-l1600_d5d400f5-66cd-44ed-bf2f-e242d9b963cf.png",
+      "description": "Devoko 90L round model - main product photo with two cats, app shown (DE language variant)",
+      "format": "PNG",
+      "dimensions": "1600x1600",
+      "size_bytes": 716800,
+      "model": "round (B0FMRB7Z2S)",
+      "note": "Same product as eBay images but German text overlay"
+    },
+    {
+      "file": "product/quildinc-devoko-02.jpg",
+      "source": "https://quildinc.co.uk/cdn/shop/files/s-l1600_ea2f42d3-1cf7-41dc-8fca-4c37ff0d67f0.jpg",
+      "description": "Devoko 90L round model - lifestyle capacity shot (DE)",
+      "format": "JPEG",
+      "dimensions": "1600x1600",
+      "size_bytes": 311296,
+      "model": "round (B0FMRB7Z2S)"
+    },
+    {
+      "file": "product/quildinc-devoko-03.jpg",
+      "source": "https://quildinc.co.uk/cdn/shop/files/s-l1600_92e7f372-4002-458e-a270-8dd71fb1891d.jpg",
+      "description": "Devoko 90L round model - dimensions and size guide (DE)",
+      "format": "JPEG",
+      "dimensions": "1600x1600",
+      "size_bytes": 297062,
+      "model": "round (B0FMRB7Z2S)"
+    },
+    {
+      "file": "product/quildinc-devoko-04.jpg",
+      "source": "https://quildinc.co.uk/cdn/shop/files/s-l1600_b9fd0ac1-2eb6-430d-8ed3-794e5f4891a8.jpg",
+      "description": "Devoko 90L round model - safety sensors diagram (DE)",
+      "format": "JPEG",
+      "dimensions": "1600x1600",
+      "size_bytes": 325837,
+      "model": "round (B0FMRB7Z2S)"
+    },
+    {
+      "file": "product/quildinc-devoko-05.jpg",
+      "source": "https://quildinc.co.uk/cdn/shop/files/s-l1600_898d7299-01b1-45b0-ac9b-af951c91793f.jpg",
+      "description": "Devoko 90L round model - cleaning modes top view (DE)",
+      "format": "JPEG",
+      "dimensions": "1600x1600",
+      "size_bytes": 241664,
+      "model": "round (B0FMRB7Z2S)"
+    },
+    {
+      "file": "product/quildinc-devoko-06.jpg",
+      "source": "https://quildinc.co.uk/cdn/shop/files/s-l1600_78002e7d-d270-4e98-8f41-3acf2041bd23.jpg",
+      "description": "Devoko 90L round model - app control features (DE)",
+      "format": "JPEG",
+      "dimensions": "1600x1600",
+      "size_bytes": 283648,
+      "model": "round (B0FMRB7Z2S)"
+    },
+    {
+      "file": "product/quildinc-devoko-07.jpg",
+      "source": "https://quildinc.co.uk/cdn/shop/files/s-l1600_8da5c747-8f2b-4c8b-8f28-2d005ec086aa.jpg",
+      "description": "Devoko 90L round model - cat walking on mat/ramp detail, close-up (DE)",
+      "format": "JPEG",
+      "dimensions": "1600x1600",
+      "size_bytes": 322560,
+      "model": "round (B0FMRB7Z2S)"
+    },
+    {
+      "file": "product/quildinc-devoko-08.jpg",
+      "source": "https://quildinc.co.uk/cdn/shop/files/s-l1600_9200cc3e-e11e-4719-aa97-6ed781f157c2.jpg",
+      "description": "Devoko 90L round model - quiet operation 35dB, odor control in bedroom scene (DE)",
+      "format": "JPEG",
+      "dimensions": "1600x1600",
+      "size_bytes": 236544,
+      "model": "round (B0FMRB7Z2S)"
+    }
+  ],
+  "notes": {
+    "two_models": "Devoko sells two 90L models: (1) round design without ears (ASIN B0FMRB7Z2S, model MW-MSP-0769-6-0818) and (2) cat ears design (ASIN B0FLPKZ4RS, model MW-0769A-0808-MSP-2). Both are 90L capacity.",
+    "clearbit_logo": "Failed - logo.clearbit.com DNS resolution failed",
+    "favicon_low_res": "Google Favicons returned only 32x32 despite requesting 128px. Devoko has no dedicated website with high-res logo.",
+    "amazon_blocked": "Amazon FR/UK/US all returned CAPTCHA pages, preventing direct image extraction from Amazon product listings.",
+    "ebay_vs_quildinc": "eBay images (EN) and Quildinc images (DE) are the same product shots with different language text overlays. eBay = English, Quildinc = German.",
+    "cat_ears_model": "Only 1 image found for the cat ears model (from 4-pattes.fr review). More images of this variant would require headless browser access to Amazon."
+  },
+  "total_files": 16,
+  "total_size_mb": 5.7
+}

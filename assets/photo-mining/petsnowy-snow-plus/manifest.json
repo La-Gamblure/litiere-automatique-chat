@@ -1,0 +1,187 @@
+{
+  "product": "PetSnowy SNOW+",
+  "brand": "PetSnowy",
+  "category": "Litiere automatique fermee",
+  "source": "petsnowy.com (Shopify CDN)",
+  "date_collected": "2026-03-08",
+  "logos": [
+    {
+      "file": "logos/petsnowy-favicon.png",
+      "source_url": "https://www.google.com/s2/favicons?domain=petsnowy.com&sz=128",
+      "dimensions": "128x128",
+      "format": "PNG",
+      "description": "Favicon PetSnowy"
+    },
+    {
+      "file": "logos/petsnowy-logo.png",
+      "source_url": "https://cdn.shopify.com/oxygen-v2/21755/46959/98548/3110285/assets/header_logo-CihSVQut.png",
+      "dimensions": "268x46",
+      "format": "PNG",
+      "description": "Logo officiel PetSnowy (header site)"
+    }
+  ],
+  "photos": [
+    {
+      "file": "photos/snow-plus-classic-1.jpg",
+      "source_url": "https://cdn.shopify.com/s/files/1/0683/5293/4210/files/ps26-product-litterbox-classic-lg-1.jpg?v=1761803281",
+      "dimensions": "1520x1520",
+      "format": "JPEG",
+      "variant": "classic",
+      "description": "SNOW+ Classic - vue produit 1"
+    },
+    {
+      "file": "photos/snow-plus-classic-2.jpg",
+      "source_url": "https://cdn.shopify.com/s/files/1/0683/5293/4210/files/ps26-product-litterbox-classic-lg-2.jpg?v=1761803281",
+      "dimensions": "1520x1520",
+      "format": "JPEG",
+      "variant": "classic",
+      "description": "SNOW+ Classic - vue produit 2"
+    },
+    {
+      "file": "photos/snow-plus-classic-3.jpg",
+      "source_url": "https://cdn.shopify.com/s/files/1/0683/5293/4210/files/ps26-product-litterbox-classic-lg-3.jpg?v=1761803281",
+      "dimensions": "1520x1520",
+      "format": "JPEG",
+      "variant": "classic",
+      "description": "SNOW+ Classic - vue produit 3"
+    },
+    {
+      "file": "photos/snow-plus-classic-4.jpg",
+      "source_url": "https://cdn.shopify.com/s/files/1/0683/5293/4210/files/ps26-product-litterbox-classic-lg-4.jpg?v=1761803281",
+      "dimensions": "1520x1520",
+      "format": "JPEG",
+      "variant": "classic",
+      "description": "SNOW+ Classic - vue produit 4"
+    },
+    {
+      "file": "photos/snow-plus-classic-5.jpg",
+      "source_url": "https://cdn.shopify.com/s/files/1/0683/5293/4210/files/ps26-product-litterbox-classic-lg-5.jpg?v=1761803281",
+      "dimensions": "1520x1520",
+      "format": "JPEG",
+      "variant": "classic",
+      "description": "SNOW+ Classic - vue produit 5"
+    },
+    {
+      "file": "photos/snow-plus-classic-6.jpg",
+      "source_url": "https://cdn.shopify.com/s/files/1/0683/5293/4210/files/ps26-product-litterbox-classic-lg-6.jpg?v=1761803281",
+      "dimensions": "1520x1520",
+      "format": "JPEG",
+      "variant": "classic",
+      "description": "SNOW+ Classic - vue produit 6"
+    },
+    {
+      "file": "photos/snow-plus-cream-1.jpg",
+      "source_url": "https://cdn.shopify.com/s/files/1/0683/5293/4210/files/ps26-product-litterbox-cream-lg-1.jpg?v=1761803281",
+      "dimensions": "1520x1520",
+      "format": "JPEG",
+      "variant": "cream",
+      "description": "SNOW+ Cream - vue produit 1"
+    },
+    {
+      "file": "photos/snow-plus-cream-4.jpg",
+      "source_url": "https://cdn.shopify.com/s/files/1/0683/5293/4210/files/ps26-product-litterbox-cream-lg-4.jpg?v=1761803281",
+      "dimensions": "1520x1520",
+      "format": "JPEG",
+      "variant": "cream",
+      "description": "SNOW+ Cream - vue produit 4"
+    },
+    {
+      "file": "photos/snow-plus-cream-6.jpg",
+      "source_url": "https://cdn.shopify.com/s/files/1/0683/5293/4210/files/ps26-product-litterbox-cream-lg-6.jpg?v=1761803281",
+      "dimensions": "1520x1520",
+      "format": "JPEG",
+      "variant": "cream",
+      "description": "SNOW+ Cream - vue produit 6"
+    },
+    {
+      "file": "photos/snow-plus-grey-1.jpg",
+      "source_url": "https://cdn.shopify.com/s/files/1/0683/5293/4210/files/ps26-product-litterbox-grey-lg-1.jpg?v=1761803281",
+      "dimensions": "1520x1520",
+      "format": "JPEG",
+      "variant": "grey",
+      "description": "SNOW+ Grey - vue produit 1"
+    },
+    {
+      "file": "photos/snow-plus-grey-2.jpg",
+      "source_url": "https://cdn.shopify.com/s/files/1/0683/5293/4210/files/ps26-product-litterbox-grey-lg-2.jpg?v=1761803281",
+      "dimensions": "1520x1520",
+      "format": "JPEG",
+      "variant": "grey",
+      "description": "SNOW+ Grey - vue produit 2"
+    },
+    {
+      "file": "photos/snow-plus-grey-3.jpg",
+      "source_url": "https://cdn.shopify.com/s/files/1/0683/5293/4210/files/ps26-product-litterbox-grey-lg-3.jpg?v=1761803281",
+      "dimensions": "1520x1520",
+      "format": "JPEG",
+      "variant": "grey",
+      "description": "SNOW+ Grey - vue produit 3"
+    },
+    {
+      "file": "photos/snow-plus-grey-4.jpg",
+      "source_url": "https://cdn.shopify.com/s/files/1/0683/5293/4210/files/ps26-product-litterbox-grey-lg-4.jpg?v=1761803281",
+      "dimensions": "1520x1520",
+      "format": "JPEG",
+      "variant": "grey",
+      "description": "SNOW+ Grey - vue produit 4"
+    },
+    {
+      "file": "photos/snow-plus-grey-5.jpg",
+      "source_url": "https://cdn.shopify.com/s/files/1/0683/5293/4210/files/ps26-product-litterbox-grey-lg-5.jpg?v=1761803281",
+      "dimensions": "1520x1520",
+      "format": "JPEG",
+      "variant": "grey",
+      "description": "SNOW+ Grey - vue produit 5"
+    },
+    {
+      "file": "photos/snow-plus-grey-6.jpg",
+      "source_url": "https://cdn.shopify.com/s/files/1/0683/5293/4210/files/ps26-product-litterbox-grey-lg-6.jpg?v=1761803281",
+      "dimensions": "1520x1520",
+      "format": "JPEG",
+      "variant": "grey",
+      "description": "SNOW+ Grey - vue produit 6"
+    },
+    {
+      "file": "photos/snow-plus-classic-listing.png",
+      "source_url": "https://cdn.shopify.com/s/files/1/0683/5293/4210/files/ps26-litterbox-classic.png?v=1760778607",
+      "dimensions": "1000x1000",
+      "format": "PNG",
+      "variant": "classic",
+      "description": "SNOW+ Classic - image listing/catalogue"
+    },
+    {
+      "file": "photos/snow-plus-homepage.png",
+      "source_url": "https://cdn.shopify.com/s/files/1/0683/5293/4210/files/litter-box-1.png?v=1762272917",
+      "dimensions": "1800x1200",
+      "format": "PNG",
+      "variant": "classic",
+      "description": "SNOW+ - image homepage PetSnowy"
+    },
+    {
+      "file": "photos/snow-plus-cart-classic.jpg",
+      "source_url": "https://cdn.shopify.com/s/files/1/0683/5293/4210/files/Self-Cleaning-Litter-Box-cart.jpg?v=1761826631",
+      "dimensions": "360x360",
+      "format": "JPEG",
+      "variant": "classic",
+      "description": "SNOW+ Classic - thumbnail panier"
+    },
+    {
+      "file": "photos/snow-plus-cart-cream.jpg",
+      "source_url": "https://cdn.shopify.com/s/files/1/0683/5293/4210/files/Self-Cleaning-Litter-Box-cream-cart.jpg?v=1761826631",
+      "dimensions": "360x360",
+      "format": "JPEG",
+      "variant": "cream",
+      "description": "SNOW+ Cream - thumbnail panier"
+    },
+    {
+      "file": "photos/snow-plus-cart-grey.jpg",
+      "source_url": "https://cdn.shopify.com/s/files/1/0683/5293/4210/files/Self-Cleaning-Litter-Box-grey-cart.jpg?v=1761826631",
+      "dimensions": "360x360",
+      "format": "JPEG",
+      "variant": "grey",
+      "description": "SNOW+ Grey - thumbnail panier"
+    }
+  ],
+  "total_files": 22,
+  "notes": "Images officielles depuis petsnowy.com (Shopify CDN). 3 variantes couleur : Classic (blanc), Cream, Grey. Clearbit logo indisponible (DNS failure)."
+}

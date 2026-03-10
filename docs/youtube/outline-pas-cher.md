@@ -1,140 +1,124 @@
-# Litiere Automatique Pas Cher : Les 3 Meilleurs Modeles
+# Litiere Automatique Pas Chere : Les Meilleurs Modeles a Petit Budget
 
-**Format :** ~6 minutes
-**Objectif :** Capter l'audience budget, convertir vers la page comparatif pas cher
-**CTA principal :** https://litiere-auto.pages.dev/litieres-automatiques/litiere-automatique-pas-cher/
+**Format :** ~8 minutes
+**Objectif :** Capter le trafic "pas cher" / "budget", orienter vers les modeles entree et milieu de gamme
+**CTA principal :** https://litiere-auto.pages.dev/litieres-automatiques/meilleure-litiere-automatique/
 
 ---
 
 ## Titre YouTube
 
-**Titre :** Litiere Automatique Pas Cher : Les 3 Meilleurs Modeles (2026)
-**Titre alternatif :** Litiere Automatique a Moins de 300 EUR : Laquelle Choisir ?
+**Titre :** Litiere Automatique Pas Chere : Les 4 Meilleurs Modeles des 180 a 310 EUR (2026)
+**Titre alternatif :** Quelle Litiere Automatique ABORDABLE Acheter en 2026 ?
 
 ## Miniature
 
-- 3 litieres avec leurs prix affiches en gros (179 EUR / 226 EUR / 294 EUR)
-- Texte overlay : "MOINS DE 300 EUR"
-- Fond jaune/vert pour signifier bonne affaire
+- Photo des 4 modeles budget alignes
+- Prix barres et vrais prix affiches
+- Texte overlay : "A PARTIR DE 179 EUR"
+- Fond vert/jaune pour evoquer les bonnes affaires
 
 ---
 
 ## Hook (0:00 - 0:10)
 
-> "Une litiere automatique, ca coute forcement 600 ou 800 euros ? Non. Il existe 3 modeles a moins de 310 euros qui font tres bien le job. Je vous montre lesquels et lequel choisir selon votre situation."
+> "Vous pensez qu'une litiere automatique ca coute forcement 700 euros ? Faux. Aujourd'hui je vous montre 4 modeles a moins de 310 euros qui font un boulot excellent — et le premier commence a seulement 179 euros."
 
 ---
 
 ## Plan detaille
 
-### 1. Introduction — Le vrai cout d'une litiere automatique (0:10 - 0:50)
+### 1. Introduction — Peut-on avoir de la qualite a petit prix ? (0:10 - 1:00)
 
 **Points cles :**
-- Idee recue : litiere automatique = ruineux. Faux en 2026.
-- 3 modeles entre 179 et 309 EUR, tous fiables
-- Criteres de selection : prix d'achat, cout recurrent, fonctionnalites essentielles
-- Ces modeles ne sont pas "au rabais" — ils ont de vrais avis et communautes
+- Le marche a enormement evolue : en 2024, une litiere connectee coutait minimum 400 EUR
+- En 2026, on trouve des modeles connectes, avec app et securite a partir de 226 EUR
+- Attention aux modeles no-name sur AliExpress — privilegier les marques avec SAV en Europe
+- Criteres de selection : securite non-negociable, app fonctionnelle, avis verifies 4+ etoiles
 
 ---
 
-### 2. Modele 1 — PetSafe ScoopFree (179-219 EUR) (0:50 - 2:15)
+### 2. Modele 1 — PetSafe ScoopFree : 179-219 EUR (1:00 - 2:30)
 
-**Fiche rapide a l'ecran :**
-- Prix : 179-219 EUR | Note : 3.8/5 (4 500 avis)
-- Rateau mecanique | 40 dB | 20L | 1 chat | 7 kg max
-- Pas de Wi-Fi, pas d'app
+**Points cles :**
+- **Le plus abordable du marche**, marque americaine reputee (PetSafe)
+- Mecanisme a rateau + cristaux — pas de rotation, pas d'electronique complexe
+- Ultra-silencieux : 40 dB (le plus silencieux de TOUT le comparatif)
+- Compact et leger : 70x37x17 cm, 5.4 kg — se glisse partout
+- **Limites :** pas d'app, pas de Wi-Fi, 1 seul chat max (7 kg), litiere ouverte
+- **Cout recurrent :** bacs de cristaux a ~20 EUR/mois (plus cher que l'agglomerante)
+- Note : 3.8/5 sur 4500+ avis
 
-**Points forts :**
-- Le prix d'entree le plus bas du marche
-- Le plus silencieux de TOUS les modeles (40 dB)
-- Le plus compact (70 x 37 x 17 cm)
-- Installation en 5 minutes, zero configuration
-- Fiable : mecanisme simple = moins de pannes
-
-**Points faibles :**
-- Cristaux proprietaires : ~20 EUR/mois de recharges
-- Un seul chat
-- Modele ouvert = odeurs moins bien contenues
-- Pas de connectivite
-
-**Ideal pour :** "Vous avez un seul chat, un petit appart, et vous voulez juste ne plus ramasser les crottes a la main sans vous ruiner."
+**Verdict :** "Le choix ideal si vous avez un chat, un petit budget, et que vous ne voulez pas d'app."
 
 ---
 
-### 3. Modele 2 — Devoko 90L (226-287 EUR) (2:15 - 3:45)
+### 3. Modele 2 — Devoko 90L : 226-287 EUR (2:30 - 4:00)
 
-**Fiche rapide a l'ecran :**
-- Prix : 226-287 EUR | Note : 4.3/5 (5 400 avis)
-- Rotation | 55 dB | 90L | 4 chats | 8 kg max
-- Wi-Fi + App | Desodorisation integree
+**Points cles :**
+- **Best-seller Amazon**, design reconnaissable avec ses oreilles de chat
+- La PLUS GRANDE capacite du marche : 90 litres — ideal pour 3-4 chats
+- App connectee avec 6 niveaux de securite et desodorisation integree
+- **Limites :** 55 dB (le plus bruyant), poids max 8 kg seulement, pas de suivi sante
+- Disponible sur Cdiscount et Amazon
+- Note : 4.3/5 sur 5400+ avis
 
-**Points forts :**
-- Capacite ENORME : 90L, la plus grande du marche
-- Best-seller Amazon avec 5 400 avis positifs
-- App connectee + securite 6 niveaux pour moins de 290 EUR
-- Jusqu'a 4 chats — parfait pour les foyers multi-chats
-- Design original avec oreilles de chat
-
-**Points faibles :**
-- Le plus bruyant du lot (55 dB)
-- Pas de suivi sante
-- Poids max 8 kg (pas pour les gros chats)
-- Assez encombrant (60 x 58 x 68 cm)
-
-**Ideal pour :** "Vous avez 2, 3 ou 4 chats et vous ne voulez pas depenser 600 euros. C'est le choix evident."
+**Verdict :** "Le meilleur si vous avez plusieurs chats et un budget serre. 90 litres a moins de 290 euros, c'est imbattable."
 
 **CTA mid-roll :**
-> "Si vous hesitez entre ces 3 modeles, j'ai fait un comparatif detaille avec les prix en temps reel sur mon site. Le lien est dans la description."
+> "Si vous hesitez entre ces modeles, j'ai cree un quiz sur le site qui vous recommande la litiere ideale en 30 secondes. Le lien est dans la description."
 
 ---
 
-### 4. Modele 3 — CATLINK Baymax 70L (294-309 EUR) (3:45 - 5:15)
+### 4. Modele 3 — CATLINK Baymax 70L : 294-309 EUR (4:00 - 5:30)
 
-**Fiche rapide a l'ecran :**
-- Prix : 294-309 EUR | Note : 4.2/5 (1 800 avis)
-- Rotation | 50 dB | 70L | 3 chats | 8 kg max
-- Wi-Fi + App | Suivi sante | 7 capteurs securite
+**Points cles :**
+- **Le meilleur budget avec suivi sante** — 7 capteurs de securite
+- App complete avec suivi sante du chat (poids, frequence, duree)
+- 70 litres de capacite, jusqu'a 3 chats
+- **Limites :** poids max 8 kg, 50 dB, marque moins connue en France
+- Moins de 310 EUR pour du suivi sante, c'est unique sur le marche
+- Note : 4.2/5 sur 1800+ avis
 
-**Points forts :**
-- Le SEUL sous 310 EUR avec suivi sante du chat
-- 7 capteurs de securite, le plus securise du comparatif
-- Format compact pour 70L de capacite
-- App complete : notifications, historique, suivi poids et frequence
-- 50 dB, plus silencieux que le Devoko
-
-**Points faibles :**
-- Marque moins connue en France
-- Poids max 8 kg
-- Un peu plus cher que le Devoko pour une capacite moindre (70L vs 90L)
-
-**Ideal pour :** "Vous voulez le max de fonctionnalites connectees pour le prix le plus bas. Le suivi sante a 300 euros, c'est imbattable."
+**Verdict :** "Si le suivi sante est important pour vous et que votre budget ne depasse pas 300 euros, c'est LE modele a choisir."
 
 ---
 
-### 5. Verdict — Lequel choisir ? (5:15 - 5:45)
+### 5. Comparatif des 3 modeles connectes (5:30 - 6:30)
 
-**Tableau comparatif final a l'ecran :**
-
-| Critere | PetSafe | Devoko | CATLINK |
-|---------|---------|--------|---------|
+**Tableau a l'ecran :**
+| Critere | PetSafe | Devoko 90L | CATLINK Baymax |
+|---------|---------|------------|----------------|
 | Prix | 179-219 EUR | 226-287 EUR | 294-309 EUR |
 | Capacite | 20L | 90L | 70L |
-| Chats | 1 | 4 | 3 |
-| App | Non | Oui | Oui |
-| Suivi sante | Non | Non | Oui |
 | Bruit | 40 dB | 55 dB | 50 dB |
+| Chats max | 1 | 4 | 3 |
+| App/Wi-Fi | Non | Oui | Oui |
+| Suivi sante | Non | Non | Oui |
+| Poids max chat | 7 kg | 8 kg | 8 kg |
 
-**Recommandations :**
-- 1 chat + budget mini → **PetSafe ScoopFree**
-- Multi-chats + grosse capacite → **Devoko 90L**
-- Fonctionnalites connectees + suivi sante → **CATLINK Baymax**
+**Points cles :**
+- PetSafe pour la simplicite absolue et le silence
+- Devoko pour la capacite XXL multi-chats
+- CATLINK pour le suivi sante a prix casse
 
 ---
 
-### 6. Outro + CTA (5:45 - 6:00)
+### 6. Est-ce que ca vaut le coup vs le milieu de gamme ? (6:30 - 7:30)
+
+**Points cles :**
+- La vraie question : qu'est-ce que vous gagnez en payant 400-500 EUR de plus ?
+- PETKIT Pura Max 2 (399 EUR) : spray anti-odeur, securite xSecure, meilleure app
+- Neakasa M1 (429 EUR) : silence superieur (45 dB), poids max 10 kg pour gros chats
+- Reponse honnete : les modeles budget font 80% du job, le milieu de gamme apporte du confort supplementaire
+- Si votre chat fait moins de 8 kg et que vous n'avez pas besoin de silence absolu, un modele budget suffit
+
+---
+
+### 7. Outro + CTA (7:30 - 8:00)
 
 **Script :**
-> "Voila les 3 meilleurs choix pas chers en 2026. Mon prefere du lot, c'est le CATLINK pour les fonctionnalites embarquees. Mais si vous avez 3+ chats, le Devoko est imbattable. Comparatif complet dans la description, et n'hesitez pas a me dire en commentaire lequel vous choisissez !"
+> "Voila, vous n'avez plus besoin de vider votre compte en banque pour avoir une litiere automatique. Mon choix pour le meilleur rapport qualite/prix budget, c'est le Devoko 90L pour les multi-chats et le CATLINK Baymax si le suivi sante compte pour vous. Tous les liens sont dans la description, et si vous voulez voir mon top 7 complet avec les modeles premium, la video est juste la. A bientot !"
 
 **End screen :**
 - Card 1 : Video "Top 7 Meilleures Litieres Automatiques 2026"
@@ -145,34 +129,37 @@
 ## Description YouTube
 
 ```
-Litiere Automatique Pas Cher : Les 3 Meilleurs Modeles (2026)
+Litiere Automatique Pas Chere : Les 4 Meilleurs Modeles des 180 a 310 EUR (2026)
 
-Pas besoin de depenser 800 EUR pour une litiere automatique. Je vous presente les 3 meilleurs modeles a moins de 310 EUR avec leurs vrais avantages et inconvenients.
+Pas besoin de depenser 700+ EUR pour une litiere automatique ! Je vous presente les meilleurs modeles a petit budget en 2026, de 179 EUR a 309 EUR.
 
-COMPARATIF PAS CHER (avec prix a jour) :
-https://litiere-auto.pages.dev/litieres-automatiques/litiere-automatique-pas-cher/
-
-COMPARATIF COMPLET DES 7 MEILLEURES :
+COMPARATIF COMPLET :
 https://litiere-auto.pages.dev/litieres-automatiques/meilleure-litiere-automatique/
+
+QUIZ — QUELLE LITIERE POUR VOUS :
+https://litiere-auto.pages.dev/
 
 TIMESTAMPS :
 0:00 Introduction
-0:50 PetSafe ScoopFree (179 EUR)
-2:15 Devoko 90L (226 EUR)
-3:45 CATLINK Baymax 70L (294 EUR)
-5:15 Verdict final
-5:45 Conclusion
+1:00 PetSafe ScoopFree (179 EUR)
+2:30 Devoko 90L (226 EUR)
+4:00 CATLINK Baymax 70L (294 EUR)
+5:30 Tableau comparatif
+6:30 Budget vs milieu de gamme — ca vaut le coup ?
+7:30 Conclusion
 
-LIENS AVIS DETAILLES :
+PRODUITS MENTIONNES :
 - PetSafe ScoopFree : https://litiere-auto.pages.dev/avis/petsafe-scoopfree/
 - Devoko 90L : https://litiere-auto.pages.dev/avis/devoko-90l/
-- CATLINK Baymax : https://litiere-auto.pages.dev/avis/catlink-baymax/
+- CATLINK Baymax 70L : https://litiere-auto.pages.dev/avis/catlink-baymax/
+- PETKIT Pura Max 2 : https://litiere-auto.pages.dev/avis/petkit-pura-max-2/
+- Neakasa M1 : https://litiere-auto.pages.dev/avis/neakasa-m1/
 
-#litiereauto #paschere #litierechat #budget #comparatif
+#litiereauto #litierepascher #litierechat #budgetchat #litiereautomatique
 ```
 
 ---
 
 ## Tags YouTube
 
-litiere automatique pas cher, litiere automatique budget, litiere chat pas cher, meilleure litiere automatique pas cher, devoko 90l, catlink baymax, petsafe scoopfree, litiere automatique moins de 300 euros
+litiere automatique pas cher, litiere automatique chat pas cher, litiere automatique budget, meilleure litiere automatique pas chere, litiere chat pas cher 2026, devoko 90l, catlink baymax, petsafe scoopfree
